@@ -1,0 +1,1689 @@
+0 >> In Honduras, at least 231 deaths have been blamed on Mitch, the National 
+Emergency Commission said Saturday. 
+
+1 >> El Salvador _ where 140 people 
+died in flash floods _ declared a state of emergency Saturday, as 
+did Guatemala, where 21 people died when floods swept away their homes. 
+
+2 >> Mexico reported one death from Mitch last Monday. 
+
+3 >> In the Caribbean, 
+the U.S. Coast Guard widened a search for a tourist schooner with 
+31 people aboard that hasn't been heard from since Tuesday. 
+
+4 >> By late 
+Sunday, Mitch's winds, once near 180 mph (290 kph), had dropped to 
+near 30 mph (50 kph), and the storm _ now classified as a tropical 
+depression _ was near Tapachula, on Mexico's southern Pacific coast 
+near the Guatemalan border. 
+
+5 >> Mitch was moving west at 8 mph (13 kph) 
+and was dissipating but threatened to strengthen again if it moved 
+back out to sea.  
+
+honduras --> n --> a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture --> 0#0 
+
+least --> a --> the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree --> 1#0 
+
+death --> n --> the event of dying or departure from life --> 2#0 
+
+blame --> v --> put or pin the blame on --> 3#0 
+
+mitch --> n -->  --> 4#0 
+
+national --> a --> of or relating to or belonging to a nation or country --> 5#0 
+
+emergency --> n --> a sudden unforeseen crisis (usually involving danger) that requires immediate action --> 6#0 
+
+commission --> n --> a special group delegated to consider some matter --> 7#0 
+
+say --> v --> express in words --> 8#0 
+
+saturday --> n --> the seventh and last day of the week; observed as the Sabbath by Jews and some Christians --> 9#0 
+
+el --> n --> angular distance above the horizon (especially of a celestial object) --> 0#1 
+
+salvador --> n --> a republic on the Pacific coast of Central America --> 1#1 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 2#1 
+
+die --> v --> pass from physical life and lose all bodily attributes and functions necessary to sustain life --> 3#1 
+
+flash --> n --> a sudden intense burst of radiant energy --> 4#1 
+
+flood --> n --> the rising of a body of water and its overflowing onto normally dry land --> 5#1 
+
+declare --> v --> state emphatically and authoritatively --> 6#1 
+
+state --> n --> the territory occupied by one of the constituent administrative districts of a nation --> 7#1 
+
+emergency --> n --> a sudden unforeseen crisis (usually involving danger) that requires immediate action --> 8#1 
+
+saturday --> n --> the seventh and last day of the week; observed as the Sabbath by Jews and some Christians --> 9#1 
+
+guatemala --> n --> a republic in Central America; achieved independence from Spain in 1821; noted for low per capita income and illiteracy; politically unstable --> 10#1 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 11#1 
+
+die --> v --> pass from physical life and lose all bodily attributes and functions necessary to sustain life --> 12#1 
+
+flood --> n --> the rising of a body of water and its overflowing onto normally dry land --> 13#1 
+
+sweep --> v --> sweep across or over --> 14#1 
+
+away --> r --> from a particular thing or place or position (`forth' is obsolete) --> 15#1 
+
+home --> n --> where you live at a particular time --> 16#1 
+
+mexico --> n --> a republic in southern North America; became independent from Spain in 1810 --> 0#2 
+
+report --> v --> to give an account or representation of in words --> 1#2 
+
+death --> n --> the event of dying or departure from life --> 2#2 
+
+mitch --> n -->  --> 3#2 
+
+last --> a --> immediately past --> 4#2 
+
+monday --> n --> the second day of the week; the first working day --> 5#2 
+
+caribbean --> a -->  --> 0#3 
+
+coast --> v --> move effortlessly; by force of gravity --> 1#3 
+
+guard --> r -->  --> 2#3 
+
+widen --> v --> become broader or wider or more extensive --> 3#3 
+
+search --> n --> the activity of looking thoroughly in order to find something or someone --> 4#3 
+
+tourist --> n --> someone who travels for pleasure --> 5#3 
+
+schooner --> n --> a large beer glass --> 6#3 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 7#3 
+
+hasnt --> n -->  --> 8#3 
+
+hear --> v --> perceive (sound) via the auditory sense --> 9#3 
+
+tuesday --> n --> the third day of the week; the second working day --> 10#3 
+
+late --> a --> being or occurring at an advanced period of time or after a usual or expected time --> 0#4 
+
+sunday --> n --> first day of the week; observed as a day of rest and worship by most Christians --> 1#4 
+
+mitchs --> n -->  --> 2#4 
+
+wind --> n --> air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure --> 3#4 
+
+mph --> n --> the ratio of the distance traveled (in miles) to the time spent traveling (in hours) --> 4#4 
+
+kph --> n --> the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours) --> 5#4 
+
+drop --> v --> let fall to the ground --> 6#4 
+
+near --> v --> move towards --> 7#4 
+
+mph --> n --> the ratio of the distance traveled (in miles) to the time spent traveling (in hours) --> 8#4 
+
+kph --> n --> the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours) --> 9#4 
+
+storm --> n --> a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning --> 10#4 
+
+classify --> v --> arrange or order by classes or categories --> 11#4 
+
+tropical --> a --> relating to or situated in or characteristic of the tropics (the region on either side of the equator) --> 12#4 
+
+depression --> n --> a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity --> 13#4 
+
+tapachula --> n -->  --> 14#4 
+
+mexico --> n --> a republic in southern North America; became independent from Spain in 1810 --> 15#4 
+
+southern --> v -->  --> 16#4 
+
+pacific --> a --> relating to or bordering the Pacific Ocean --> 17#4 
+
+coast --> n --> the shore of a sea or ocean --> 18#4 
+
+guatemalan --> n --> a native or inhabitant of Guatemala --> 19#4 
+
+border --> n --> a line that indicates a boundary --> 20#4 
+
+mitch --> n -->  --> 0#5 
+
+move --> v --> change location; move, travel, or proceed, also metaphorically --> 1#5 
+
+west --> n --> the countries of (originally) Europe and (now including) North America and South America --> 2#5 
+
+mph --> a -->  --> 3#5 
+
+kph --> n --> the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours) --> 4#5 
+
+dissipate --> v --> to cause to separate and go in different directions --> 5#5 
+
+threaten --> v --> pose a threat to; present a danger to --> 6#5 
+
+strengthen --> v --> make strong or stronger --> 7#5 
+
+move --> v --> change location; move, travel, or proceed, also metaphorically --> 8#5 
+
+back --> r --> in or to or toward a former location --> 9#5 
+
+sea --> v -->  --> 10#5 
+
+Total Edges :  360 Edge Weight :  0.00277777777778
+similarity( honduras ,  salvador ) =  0.115384615385
+similarity( honduras ,  guatemala ) =  0.184210526316
+similarity( honduras ,  mexico ) =  0.103448275862
+similarity( honduras ,  west ) =  0.0333333333333
+similarity( least ,  emergency ) =  0.0263157894737
+similarity( death ,  die ) =  0.0434782608696
+similarity( national ,  state ) =  0.0416666666667
+similarity( national ,  tropical ) =  0.0344827586207
+similarity( national ,  pacific ) =  0.0555555555556
+similarity( emergency ,  flash ) =  0.0555555555556
+similarity( emergency ,  threaten ) =  0.0526315789474
+similarity( commission ,  people ) =  0.05
+similarity( say ,  report ) =  0.0833333333333
+similarity( saturday ,  monday ) =  0.0740740740741
+similarity( saturday ,  tuesday ) =  0.0740740740741
+similarity( saturday ,  sunday ) =  0.121212121212
+similarity( el ,  mph ) =  0.04
+similarity( el ,  kph ) =  0.04
+similarity( salvador ,  guatemala ) =  0.1
+similarity( salvador ,  mexico ) =  0.0952380952381
+similarity( salvador ,  pacific ) =  0.0625
+similarity( salvador ,  west ) =  0.0454545454545
+similarity( declare ,  depression ) =  0.05
+similarity( guatemala ,  mexico ) =  0.0909090909091
+similarity( guatemala ,  wind ) =  0.025641025641
+similarity( guatemala ,  west ) =  0.0294117647059
+similarity( away ,  home ) =  0.0555555555556
+similarity( home ,  late ) =  0.0434782608696
+similarity( home ,  mph ) =  0.0454545454545
+similarity( home ,  kph ) =  0.0454545454545
+similarity( mexico ,  west ) =  0.08
+similarity( monday ,  tuesday ) =  0.25
+similarity( monday ,  sunday ) =  0.153846153846
+similarity( coast ,  wind ) =  0.0416666666667
+similarity( coast ,  near ) =  0.125
+similarity( coast ,  move ) =  0.0714285714286
+similarity( search ,  tourist ) =  0.0588235294118
+similarity( search ,  classify ) =  0.0526315789474
+similarity( search ,  depression ) =  0.0357142857143
+similarity( hear ,  depression ) =  0.0454545454545
+similarity( tuesday ,  sunday ) =  0.115384615385
+similarity( late ,  mph ) =  0.0645161290323
+similarity( late ,  kph ) =  0.0645161290323
+similarity( mph ,  kph ) =  0.233333333333
+similarity( near ,  move ) =  0.1
+similarity( tropical ,  pacific ) =  0.04
+similarity( move ,  back ) =  0.0625
+el bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( el , kph ) =  0.04 
+
+weight ( el , die ) =  0.0 
+
+weight ( el , mph ) =  0.04 
+
+weight ( el , salvador ) =  0.0 
+
+weight ( el , people ) =  0.0 
+
+honduras bias :  0.0 prestige : 0.00277777777778 >> out_deg : 7 >> in_deg : 7 
+
+weight ( honduras , death ) =  0.0 
+
+weight ( honduras , salvador ) =  0.115384615385 
+
+weight ( honduras , mexico ) =  0.103448275862 
+
+weight ( honduras , west ) =  0.0333333333333 
+
+weight ( honduras , least ) =  0.0 
+
+weight ( honduras , blame ) =  0.0 
+
+weight ( honduras , guatemala ) =  0.184210526316 
+
+mexico bias :  0.0 prestige : 0.00277777777778 >> out_deg : 13 >> in_deg : 13 
+
+weight ( mexico , death ) =  0.0 
+
+weight ( mexico , honduras ) =  0.103448275862 
+
+weight ( mexico , salvador ) =  0.0952380952381 
+
+weight ( mexico , mitch ) =  0.0 
+
+weight ( mexico , west ) =  0.08 
+
+weight ( mexico , southern ) =  0.0 
+
+weight ( mexico , pacific ) =  0.0 
+
+weight ( mexico , coast ) =  0.0 
+
+weight ( mexico , tropical ) =  0.0 
+
+weight ( mexico , guatemala ) =  0.0909090909091 
+
+weight ( mexico , depression ) =  0.0 
+
+weight ( mexico , report ) =  0.0 
+
+weight ( mexico , tapachula ) =  0.0 
+
+people bias :  0.0 prestige : 0.00277777777778 >> out_deg : 16 >> in_deg : 16 
+
+weight ( people , el ) =  0.0 
+
+weight ( people , search ) =  0.0 
+
+weight ( people , hasnt ) =  0.0 
+
+weight ( people , salvador ) =  0.0 
+
+weight ( people , emergency ) =  0.0 
+
+weight ( people , commission ) =  0.05 
+
+weight ( people , die ) =  0.0 
+
+weight ( people , tuesday ) =  0.0 
+
+weight ( people , flash ) =  0.0 
+
+weight ( people , sweep ) =  0.0 
+
+weight ( people , flood ) =  0.0 
+
+weight ( people , guatemala ) =  0.0 
+
+weight ( people , hear ) =  0.0 
+
+weight ( people , schooner ) =  0.0 
+
+weight ( people , saturday ) =  0.0 
+
+weight ( people , tourist ) =  0.0 
+
+strengthen bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( strengthen , move ) =  0.0 
+
+weight ( strengthen , back ) =  0.0 
+
+weight ( strengthen , dissipate ) =  0.0 
+
+weight ( strengthen , sea ) =  0.0 
+
+weight ( strengthen , kph ) =  0.0 
+
+weight ( strengthen , threaten ) =  0.0 
+
+national bias :  0.0 prestige : 0.00277777777778 >> out_deg : 9 >> in_deg : 9 
+
+weight ( national , tropical ) =  0.0344827586207 
+
+weight ( national , death ) =  0.0 
+
+weight ( national , mitch ) =  0.0 
+
+weight ( national , emergency ) =  0.0 
+
+weight ( national , state ) =  0.0416666666667 
+
+weight ( national , pacific ) =  0.0555555555556 
+
+weight ( national , blame ) =  0.0 
+
+weight ( national , commission ) =  0.0 
+
+weight ( national , say ) =  0.0 
+
+move bias :  0.0 prestige : 0.00277777777778 >> out_deg : 11 >> in_deg : 11 
+
+weight ( move , mitch ) =  0.0 
+
+weight ( move , strengthen ) =  0.0 
+
+weight ( move , west ) =  0.0 
+
+weight ( move , back ) =  0.0625 
+
+weight ( move , mph ) =  0.0 
+
+weight ( move , coast ) =  0.0714285714286 
+
+weight ( move , near ) =  0.1 
+
+weight ( move , dissipate ) =  0.0 
+
+weight ( move , sea ) =  0.0 
+
+weight ( move , kph ) =  0.0 
+
+weight ( move , threaten ) =  0.0 
+
+sweep bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( sweep , home ) =  0.0 
+
+weight ( sweep , flood ) =  0.0 
+
+weight ( sweep , away ) =  0.0 
+
+weight ( sweep , die ) =  0.0 
+
+weight ( sweep , people ) =  0.0 
+
+pacific bias :  0.0 prestige : 0.00277777777778 >> out_deg : 9 >> in_deg : 9 
+
+weight ( pacific , salvador ) =  0.0625 
+
+weight ( pacific , mexico ) =  0.0 
+
+weight ( pacific , national ) =  0.0555555555556 
+
+weight ( pacific , southern ) =  0.0 
+
+weight ( pacific , coast ) =  0.0 
+
+weight ( pacific , tropical ) =  0.04 
+
+weight ( pacific , guatemalan ) =  0.0 
+
+weight ( pacific , border ) =  0.0 
+
+weight ( pacific , tapachula ) =  0.0 
+
+say bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( say , report ) =  0.0833333333333 
+
+weight ( say , commission ) =  0.0 
+
+weight ( say , national ) =  0.0 
+
+weight ( say , saturday ) =  0.0 
+
+weight ( say , emergency ) =  0.0 
+
+dissipate bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( dissipate , strengthen ) =  0.0 
+
+weight ( dissipate , west ) =  0.0 
+
+weight ( dissipate , move ) =  0.0 
+
+weight ( dissipate , mph ) =  0.0 
+
+weight ( dissipate , kph ) =  0.0 
+
+weight ( dissipate , threaten ) =  0.0 
+
+sea bias :  0.0 prestige : 0.00277777777778 >> out_deg : 3 >> in_deg : 3 
+
+weight ( sea , strengthen ) =  0.0 
+
+weight ( sea , move ) =  0.0 
+
+weight ( sea , back ) =  0.0 
+
+home bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( home , away ) =  0.0 
+
+weight ( home , sweep ) =  0.0 
+
+weight ( home , mph ) =  0.0454545454545 
+
+weight ( home , late ) =  0.0434782608696 
+
+weight ( home , flood ) =  0.0 
+
+weight ( home , kph ) =  0.0454545454545 
+
+border bias :  0.0 prestige : 0.00277777777778 >> out_deg : 3 >> in_deg : 3 
+
+weight ( border , guatemalan ) =  0.0 
+
+weight ( border , pacific ) =  0.0 
+
+weight ( border , coast ) =  0.0 
+
+saturday bias :  0.0 prestige : 0.00277777777778 >> out_deg : 11 >> in_deg : 11 
+
+weight ( saturday , monday ) =  0.0740740740741 
+
+weight ( saturday , emergency ) =  0.0 
+
+weight ( saturday , state ) =  0.0 
+
+weight ( saturday , die ) =  0.0 
+
+weight ( saturday , tuesday ) =  0.0740740740741 
+
+weight ( saturday , people ) =  0.0 
+
+weight ( saturday , guatemala ) =  0.0 
+
+weight ( saturday , sunday ) =  0.121212121212 
+
+weight ( saturday , commission ) =  0.0 
+
+weight ( saturday , say ) =  0.0 
+
+weight ( saturday , declare ) =  0.0 
+
+depression bias :  -0.375 prestige : 0.00277777777778 >> out_deg : 9 >> in_deg : 9 
+
+weight ( depression , search ) =  0.0357142857143 
+
+weight ( depression , mexico ) =  -3.75e-05 
+
+weight ( depression , southern ) =  -3.75e-05 
+
+weight ( depression , tropical ) =  -3.75e-05 
+
+weight ( depression , hear ) =  0.0454545454545 
+
+weight ( depression , classify ) =  -3.75e-05 
+
+weight ( depression , storm ) =  -3.75e-05 
+
+weight ( depression , declare ) =  0.05 
+
+weight ( depression , tapachula ) =  -3.75e-05 
+
+tropical bias :  0.0 prestige : 0.00277777777778 >> out_deg : 8 >> in_deg : 8 
+
+weight ( tropical , mexico ) =  0.0 
+
+weight ( tropical , national ) =  0.0344827586207 
+
+weight ( tropical , pacific ) =  0.04 
+
+weight ( tropical , tapachula ) =  0.0 
+
+weight ( tropical , storm ) =  0.0 
+
+weight ( tropical , classify ) =  0.0 
+
+weight ( tropical , kph ) =  0.0 
+
+weight ( tropical , depression ) =  0.0 
+
+death bias :  0.0 prestige : 0.00277777777778 >> out_deg : 10 >> in_deg : 10 
+
+weight ( death , honduras ) =  0.0 
+
+weight ( death , monday ) =  0.0 
+
+weight ( death , mitch ) =  0.0 
+
+weight ( death , mexico ) =  0.0 
+
+weight ( death , die ) =  0.0434782608696 
+
+weight ( death , national ) =  0.0 
+
+weight ( death , least ) =  0.0 
+
+weight ( death , blame ) =  0.0 
+
+weight ( death , report ) =  0.0 
+
+weight ( death , last ) =  0.0 
+
+caribbean bias :  0.0 prestige : 0.00277777777778 >> out_deg : 3 >> in_deg : 3 
+
+weight ( caribbean , guard ) =  0.0 
+
+weight ( caribbean , widen ) =  0.0 
+
+weight ( caribbean , coast ) =  0.0 
+
+monday bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( monday , death ) =  0.0 
+
+weight ( monday , last ) =  0.0 
+
+weight ( monday , mitch ) =  0.0 
+
+weight ( monday , tuesday ) =  0.25 
+
+weight ( monday , sunday ) =  0.153846153846 
+
+weight ( monday , saturday ) =  0.0740740740741 
+
+mitch bias :  0.0 prestige : 0.00277777777778 >> out_deg : 13 >> in_deg : 13 
+
+weight ( mitch , death ) =  0.0 
+
+weight ( mitch , last ) =  0.0 
+
+weight ( mitch , monday ) =  0.0 
+
+weight ( mitch , emergency ) =  0.0 
+
+weight ( mitch , mexico ) =  0.0 
+
+weight ( mitch , west ) =  0.0 
+
+weight ( mitch , national ) =  0.0 
+
+weight ( mitch , move ) =  0.0 
+
+weight ( mitch , least ) =  0.0 
+
+weight ( mitch , blame ) =  0.0 
+
+weight ( mitch , commission ) =  0.0 
+
+weight ( mitch , mph ) =  0.0 
+
+weight ( mitch , report ) =  0.0 
+
+flood bias :  0.0 prestige : 0.00277777777778 >> out_deg : 10 >> in_deg : 10 
+
+weight ( flood , emergency ) =  0.0 
+
+weight ( flood , people ) =  0.0 
+
+weight ( flood , die ) =  0.0 
+
+weight ( flood , away ) =  0.0 
+
+weight ( flood , flash ) =  0.0 
+
+weight ( flood , guatemala ) =  0.0 
+
+weight ( flood , sweep ) =  0.0 
+
+weight ( flood , state ) =  0.0 
+
+weight ( flood , home ) =  0.0 
+
+weight ( flood , declare ) =  0.0 
+
+widen bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( widen , search ) =  0.0 
+
+weight ( widen , caribbean ) =  0.0 
+
+weight ( widen , tourist ) =  0.0 
+
+weight ( widen , coast ) =  0.0 
+
+weight ( widen , guard ) =  0.0 
+
+weight ( widen , schooner ) =  0.0 
+
+west bias :  0.0 prestige : 0.00277777777778 >> out_deg : 9 >> in_deg : 9 
+
+weight ( west , honduras ) =  0.0333333333333 
+
+weight ( west , salvador ) =  0.0454545454545 
+
+weight ( west , mitch ) =  0.0 
+
+weight ( west , mexico ) =  0.08 
+
+weight ( west , move ) =  0.0 
+
+weight ( west , mph ) =  0.0 
+
+weight ( west , guatemala ) =  0.0294117647059 
+
+weight ( west , dissipate ) =  0.0 
+
+weight ( west , kph ) =  0.0 
+
+away bias :  0.0 prestige : 0.00277777777778 >> out_deg : 4 >> in_deg : 4 
+
+weight ( away , home ) =  0.0555555555556 
+
+weight ( away , flood ) =  0.0 
+
+weight ( away , sweep ) =  0.0 
+
+weight ( away , die ) =  0.0 
+
+flash bias :  -0.25 prestige : 0.00277777777778 >> out_deg : 7 >> in_deg : 7 
+
+weight ( flash , emergency ) =  0.0555555555556 
+
+weight ( flash , salvador ) =  -2.5e-05 
+
+weight ( flash , people ) =  -2.5e-05 
+
+weight ( flash , die ) =  -2.5e-05 
+
+weight ( flash , flood ) =  -2.5e-05 
+
+weight ( flash , state ) =  -2.5e-05 
+
+weight ( flash , declare ) =  -2.5e-05 
+
+sunday bias :  0.0 prestige : 0.00277777777778 >> out_deg : 7 >> in_deg : 7 
+
+weight ( sunday , monday ) =  0.153846153846 
+
+weight ( sunday , tuesday ) =  0.115384615385 
+
+weight ( sunday , mph ) =  0.0 
+
+weight ( sunday , late ) =  0.0 
+
+weight ( sunday , mitchs ) =  0.0 
+
+weight ( sunday , saturday ) =  0.121212121212 
+
+weight ( sunday , wind ) =  0.0 
+
+least bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( least , blame ) =  0.0 
+
+weight ( least , death ) =  0.0 
+
+weight ( least , honduras ) =  0.0 
+
+weight ( least , emergency ) =  0.0263157894737 
+
+weight ( least , mitch ) =  0.0 
+
+late bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( late , mph ) =  0.0645161290323 
+
+weight ( late , sunday ) =  0.0 
+
+weight ( late , kph ) =  0.0645161290323 
+
+weight ( late , home ) =  0.0434782608696 
+
+weight ( late , mitchs ) =  0.0 
+
+weight ( late , wind ) =  0.0 
+
+commission bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( commission , mitch ) =  0.0 
+
+weight ( commission , emergency ) =  0.0 
+
+weight ( commission , people ) =  0.05 
+
+weight ( commission , national ) =  0.0 
+
+weight ( commission , say ) =  0.0 
+
+weight ( commission , saturday ) =  0.0 
+
+state bias :  0.0 prestige : 0.00277777777778 >> out_deg : 7 >> in_deg : 7 
+
+weight ( state , emergency ) =  0.0 
+
+weight ( state , national ) =  0.0416666666667 
+
+weight ( state , flash ) =  0.0 
+
+weight ( state , saturday ) =  0.0 
+
+weight ( state , flood ) =  0.0 
+
+weight ( state , guatemala ) =  0.0 
+
+weight ( state , declare ) =  0.0 
+
+guatemalan bias :  0.0 prestige : 0.00277777777778 >> out_deg : 4 >> in_deg : 4 
+
+weight ( guatemalan , border ) =  0.0 
+
+weight ( guatemalan , southern ) =  0.0 
+
+weight ( guatemalan , pacific ) =  0.0 
+
+weight ( guatemalan , coast ) =  0.0 
+
+storm bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( storm , mph ) =  0.0 
+
+weight ( storm , tropical ) =  0.0 
+
+weight ( storm , near ) =  0.0 
+
+weight ( storm , depression ) =  0.0 
+
+weight ( storm , kph ) =  0.0 
+
+weight ( storm , classify ) =  0.0 
+
+threaten bias :  -0.125 prestige : 0.00277777777778 >> out_deg : 7 >> in_deg : 7 
+
+weight ( threaten , emergency ) =  0.0526315789474 
+
+weight ( threaten , strengthen ) =  -1.25e-05 
+
+weight ( threaten , move ) =  -1.25e-05 
+
+weight ( threaten , back ) =  -1.25e-05 
+
+weight ( threaten , mph ) =  -1.25e-05 
+
+weight ( threaten , dissipate ) =  -1.25e-05 
+
+weight ( threaten , kph ) =  -1.25e-05 
+
+tuesday bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( tuesday , hasnt ) =  0.0 
+
+weight ( tuesday , monday ) =  0.25 
+
+weight ( tuesday , people ) =  0.0 
+
+weight ( tuesday , sunday ) =  0.115384615385 
+
+weight ( tuesday , hear ) =  0.0 
+
+weight ( tuesday , saturday ) =  0.0740740740741 
+
+classify bias :  0.0 prestige : 0.00277777777778 >> out_deg : 7 >> in_deg : 7 
+
+weight ( classify , search ) =  0.0526315789474 
+
+weight ( classify , mph ) =  0.0 
+
+weight ( classify , tropical ) =  0.0 
+
+weight ( classify , tapachula ) =  0.0 
+
+weight ( classify , storm ) =  0.0 
+
+weight ( classify , kph ) =  0.0 
+
+weight ( classify , depression ) =  0.0 
+
+schooner bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( schooner , search ) =  0.0 
+
+weight ( schooner , hasnt ) =  0.0 
+
+weight ( schooner , widen ) =  0.0 
+
+weight ( schooner , tourist ) =  0.0 
+
+weight ( schooner , people ) =  0.0 
+
+weight ( schooner , hear ) =  0.0 
+
+back bias :  0.0 prestige : 0.00277777777778 >> out_deg : 4 >> in_deg : 4 
+
+weight ( back , strengthen ) =  0.0 
+
+weight ( back , threaten ) =  0.0 
+
+weight ( back , move ) =  0.0 
+
+weight ( back , sea ) =  0.0 
+
+tourist bias :  -0.25 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( tourist , search ) =  -2.5e-05 
+
+weight ( tourist , hasnt ) =  -2.5e-05 
+
+weight ( tourist , widen ) =  -2.5e-05 
+
+weight ( tourist , people ) =  -2.5e-05 
+
+weight ( tourist , guard ) =  -2.5e-05 
+
+weight ( tourist , schooner ) =  -2.5e-05 
+
+emergency bias :  -0.625 prestige : 0.00277777777778 >> out_deg : 14 >> in_deg : 14 
+
+weight ( emergency , flash ) =  0.0555555555556 
+
+weight ( emergency , guatemala ) =  -6.25e-05 
+
+weight ( emergency , mitch ) =  -6.25e-05 
+
+weight ( emergency , flood ) =  -6.25e-05 
+
+weight ( emergency , national ) =  -6.25e-05 
+
+weight ( emergency , people ) =  -6.25e-05 
+
+weight ( emergency , state ) =  -6.25e-05 
+
+weight ( emergency , least ) =  0.0263157894737 
+
+weight ( emergency , declare ) =  -6.25e-05 
+
+weight ( emergency , blame ) =  -6.25e-05 
+
+weight ( emergency , commission ) =  -6.25e-05 
+
+weight ( emergency , say ) =  -6.25e-05 
+
+weight ( emergency , threaten ) =  0.0526315789474 
+
+weight ( emergency , saturday ) =  -6.25e-05 
+
+southern bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( southern , mexico ) =  0.0 
+
+weight ( southern , pacific ) =  0.0 
+
+weight ( southern , coast ) =  0.0 
+
+weight ( southern , guatemalan ) =  0.0 
+
+weight ( southern , depression ) =  0.0 
+
+weight ( southern , tapachula ) =  0.0 
+
+mph bias :  0.0 prestige : 0.00277777777778 >> out_deg : 16 >> in_deg : 16 
+
+weight ( mph , el ) =  0.04 
+
+weight ( mph , move ) =  0.0 
+
+weight ( mph , mitch ) =  0.0 
+
+weight ( mph , west ) =  0.0 
+
+weight ( mph , drop ) =  0.0 
+
+weight ( mph , near ) =  0.0 
+
+weight ( mph , late ) =  0.0645161290323 
+
+weight ( mph , sunday ) =  0.0 
+
+weight ( mph , classify ) =  0.0 
+
+weight ( mph , storm ) =  0.0 
+
+weight ( mph , home ) =  0.0454545454545 
+
+weight ( mph , kph ) =  0.233333333333 
+
+weight ( mph , threaten ) =  0.0 
+
+weight ( mph , mitchs ) =  0.0 
+
+weight ( mph , wind ) =  0.0 
+
+weight ( mph , dissipate ) =  0.0 
+
+coast bias :  0.0 prestige : 0.00277777777778 >> out_deg : 12 >> in_deg : 12 
+
+weight ( coast , search ) =  0.0 
+
+weight ( coast , widen ) =  0.0 
+
+weight ( coast , mexico ) =  0.0 
+
+weight ( coast , move ) =  0.0714285714286 
+
+weight ( coast , southern ) =  0.0 
+
+weight ( coast , near ) =  0.125 
+
+weight ( coast , pacific ) =  0.0 
+
+weight ( coast , guard ) =  0.0 
+
+weight ( coast , guatemalan ) =  0.0 
+
+weight ( coast , caribbean ) =  0.0 
+
+weight ( coast , border ) =  0.0 
+
+weight ( coast , wind ) =  0.0416666666667 
+
+blame bias :  -0.25 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( blame , death ) =  -2.5e-05 
+
+weight ( blame , honduras ) =  -2.5e-05 
+
+weight ( blame , emergency ) =  -2.5e-05 
+
+weight ( blame , mitch ) =  -2.5e-05 
+
+weight ( blame , national ) =  -2.5e-05 
+
+weight ( blame , least ) =  -2.5e-05 
+
+guatemala bias :  0.0 prestige : 0.00277777777778 >> out_deg : 11 >> in_deg : 11 
+
+weight ( guatemala , honduras ) =  0.184210526316 
+
+weight ( guatemala , salvador ) =  0.1 
+
+weight ( guatemala , emergency ) =  0.0 
+
+weight ( guatemala , people ) =  0.0 
+
+weight ( guatemala , die ) =  0.0 
+
+weight ( guatemala , mexico ) =  0.0909090909091 
+
+weight ( guatemala , flood ) =  0.0 
+
+weight ( guatemala , state ) =  0.0 
+
+weight ( guatemala , west ) =  0.0294117647059 
+
+weight ( guatemala , saturday ) =  0.0 
+
+weight ( guatemala , wind ) =  0.025641025641 
+
+hasnt bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( hasnt , tuesday ) =  0.0 
+
+weight ( hasnt , people ) =  0.0 
+
+weight ( hasnt , hear ) =  0.0 
+
+weight ( hasnt , tourist ) =  0.0 
+
+weight ( hasnt , schooner ) =  0.0 
+
+hear bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( hear , tuesday ) =  0.0 
+
+weight ( hear , people ) =  0.0 
+
+weight ( hear , hasnt ) =  0.0 
+
+weight ( hear , depression ) =  0.0454545454545 
+
+weight ( hear , schooner ) =  0.0 
+
+report bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( report , say ) =  0.0833333333333 
+
+weight ( report , death ) =  0.0 
+
+weight ( report , last ) =  0.0 
+
+weight ( report , mitch ) =  0.0 
+
+weight ( report , mexico ) =  0.0 
+
+mitchs bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( mitchs , late ) =  0.0 
+
+weight ( mitchs , kph ) =  0.0 
+
+weight ( mitchs , sunday ) =  0.0 
+
+weight ( mitchs , mph ) =  0.0 
+
+weight ( mitchs , wind ) =  0.0 
+
+search bias :  0.0 prestige : 0.00277777777778 >> out_deg : 8 >> in_deg : 8 
+
+weight ( search , widen ) =  0.0 
+
+weight ( search , tourist ) =  0.0588235294118 
+
+weight ( search , people ) =  0.0 
+
+weight ( search , coast ) =  0.0 
+
+weight ( search , guard ) =  0.0 
+
+weight ( search , depression ) =  0.0357142857143 
+
+weight ( search , classify ) =  0.0526315789474 
+
+weight ( search , schooner ) =  0.0 
+
+last bias :  0.0 prestige : 0.00277777777778 >> out_deg : 4 >> in_deg : 4 
+
+weight ( last , report ) =  0.0 
+
+weight ( last , death ) =  0.0 
+
+weight ( last , monday ) =  0.0 
+
+weight ( last , mitch ) =  0.0 
+
+salvador bias :  0.0 prestige : 0.00277777777778 >> out_deg : 9 >> in_deg : 9 
+
+weight ( salvador , el ) =  0.0 
+
+weight ( salvador , honduras ) =  0.115384615385 
+
+weight ( salvador , mexico ) =  0.0952380952381 
+
+weight ( salvador , people ) =  0.0 
+
+weight ( salvador , die ) =  0.0 
+
+weight ( salvador , flash ) =  0.0 
+
+weight ( salvador , pacific ) =  0.0625 
+
+weight ( salvador , guatemala ) =  0.1 
+
+weight ( salvador , west ) =  0.0454545454545 
+
+die bias :  0.0 prestige : 0.00277777777778 >> out_deg : 11 >> in_deg : 11 
+
+weight ( die , el ) =  0.0 
+
+weight ( die , death ) =  0.0434782608696 
+
+weight ( die , salvador ) =  0.0 
+
+weight ( die , people ) =  0.0 
+
+weight ( die , away ) =  0.0 
+
+weight ( die , flash ) =  0.0 
+
+weight ( die , sweep ) =  0.0 
+
+weight ( die , saturday ) =  0.0 
+
+weight ( die , flood ) =  0.0 
+
+weight ( die , guatemala ) =  0.0 
+
+weight ( die , declare ) =  0.0 
+
+drop bias :  0.0 prestige : 0.00277777777778 >> out_deg : 4 >> in_deg : 4 
+
+weight ( drop , kph ) =  0.0 
+
+weight ( drop , near ) =  0.0 
+
+weight ( drop , mph ) =  0.0 
+
+weight ( drop , wind ) =  0.0 
+
+guard bias :  0.0 prestige : 0.00277777777778 >> out_deg : 5 >> in_deg : 5 
+
+weight ( guard , widen ) =  0.0 
+
+weight ( guard , search ) =  0.0 
+
+weight ( guard , caribbean ) =  0.0 
+
+weight ( guard , tourist ) =  0.0 
+
+weight ( guard , coast ) =  0.0 
+
+near bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( near , move ) =  0.1 
+
+weight ( near , drop ) =  0.0 
+
+weight ( near , mph ) =  0.0 
+
+weight ( near , coast ) =  0.125 
+
+weight ( near , storm ) =  0.0 
+
+weight ( near , kph ) =  0.0 
+
+tapachula bias :  0.0 prestige : 0.00277777777778 >> out_deg : 6 >> in_deg : 6 
+
+weight ( tapachula , mexico ) =  0.0 
+
+weight ( tapachula , southern ) =  0.0 
+
+weight ( tapachula , pacific ) =  0.0 
+
+weight ( tapachula , tropical ) =  0.0 
+
+weight ( tapachula , depression ) =  0.0 
+
+weight ( tapachula , classify ) =  0.0 
+
+kph bias :  0.0 prestige : 0.00277777777778 >> out_deg : 16 >> in_deg : 16 
+
+weight ( kph , el ) =  0.04 
+
+weight ( kph , move ) =  0.0 
+
+weight ( kph , strengthen ) =  0.0 
+
+weight ( kph , west ) =  0.0 
+
+weight ( kph , drop ) =  0.0 
+
+weight ( kph , late ) =  0.0645161290323 
+
+weight ( kph , mph ) =  0.0 
+
+weight ( kph , tropical ) =  0.0 
+
+weight ( kph , near ) =  0.0 
+
+weight ( kph , classify ) =  0.0 
+
+weight ( kph , storm ) =  0.0 
+
+weight ( kph , home ) =  0.0454545454545 
+
+weight ( kph , threaten ) =  0.0 
+
+weight ( kph , mitchs ) =  0.0 
+
+weight ( kph , wind ) =  0.0 
+
+weight ( kph , dissipate ) =  0.0 
+
+declare bias :  0.0 prestige : 0.00277777777778 >> out_deg : 7 >> in_deg : 7 
+
+weight ( declare , emergency ) =  0.0 
+
+weight ( declare , die ) =  0.0 
+
+weight ( declare , flash ) =  0.0 
+
+weight ( declare , flood ) =  0.0 
+
+weight ( declare , state ) =  0.0 
+
+weight ( declare , saturday ) =  0.0 
+
+weight ( declare , depression ) =  0.05 
+
+wind bias :  0.0 prestige : 0.00277777777778 >> out_deg : 8 >> in_deg : 8 
+
+weight ( wind , drop ) =  0.0 
+
+weight ( wind , guatemala ) =  0.025641025641 
+
+weight ( wind , mph ) =  0.0 
+
+weight ( wind , coast ) =  0.0416666666667 
+
+weight ( wind , late ) =  0.0 
+
+weight ( wind , sunday ) =  0.0 
+
+weight ( wind , kph ) =  0.0 
+
+weight ( wind , mitchs ) =  0.0 
+
+el bias :  0.00136208154702 prestige : 0.00948665806621 
+
+honduras bias :  0.00178680523458 prestige : 0.019023493577 
+
+mexico bias :  0.00153258312746 prestige : 0.00832563941865 
+
+people bias :  -0.00149646984675 prestige : 0.00264161174314 
+
+strengthen bias :  -0.0021219702994 prestige : -2.50523168568e-06 
+
+national bias :  0.0011850665811 prestige : 0.0107620771486 
+
+move bias :  0.00164586327898 prestige : 0.00431315992697 
+
+sweep bias :  -0.00234050035163 prestige : 0.0 
+
+pacific bias :  0.00148704165047 prestige : 0.00864271919045 
+
+say bias :  0.000938769958992 prestige : 0.00701496181663 
+
+dissipate bias :  -0.00247351874508 prestige : -2.50523168568e-06 
+
+sea bias :  -0.00171303881735 prestige : 0.0 
+
+home bias :  0.0015979616931 prestige : 0.0168272755403 
+
+border bias :  -0.00277075237693 prestige : 0.0 
+
+saturday bias :  0.00153195651788 prestige : 0.00428930182472 
+
+depression bias :  0.00152231188827 prestige : 0.0106025514928 
+
+tropical bias :  0.000837701163489 prestige : 0.00445223382098 
+
+death bias :  -0.00151665504797 prestige : 0.00432784542691 
+
+caribbean bias :  -0.00132753168542 prestige : 0.0 
+
+monday bias :  0.00198694474155 prestige : 0.0178054660422 
+
+mitch bias :  -0.0033257552539 prestige : -2.31892470585e-05 
+
+flood bias :  -0.00277758292679 prestige : -1.34588533001e-05 
+
+widen bias :  -0.00160801650287 prestige : -7.54770847623e-06 
+
+west bias :  0.00161701624942 prestige : 0.00606665300293 
+
+away bias :  0.00118698095978 prestige : 0.0 
+
+flash bias :  0.000796507772685 prestige : 0.00560980493693 
+
+sunday bias :  0.00185271516112 prestige : 0.0136034165478 
+
+least bias :  -0.000546001622755 prestige : 0.00368022511177 
+
+late bias :  0.00162795404895 prestige : 0.0153671365326 
+
+commission bias :  0.0007746917646 prestige : 0.00831639106478 
+
+state bias :  -0.000183267379674 prestige : 0.00293870630408 
+
+guatemalan bias :  -0.00207699006395 prestige : 0.0 
+
+storm bias :  -0.00380145359388 prestige : -8.59375e-06 
+
+threaten bias :  0.000866245287427 prestige : 0.00531455204551 
+
+tuesday bias :  0.00197167066258 prestige : 0.015503826249 
+
+classify bias :  0.000715873278599 prestige : 0.00267459732462 
+
+schooner bias :  -0.00149884559994 prestige : -7.54770847623e-06 
+
+back bias :  -0.0012031508426 prestige : 0.00596757820882 
+
+tourist bias :  -0.000892838111215 prestige : 0.00349706991838 
+
+emergency bias :  0.00101139689186 prestige : 0.0084645982129 
+
+southern bias :  -0.00296200928525 prestige : -8.59375e-06 
+
+mph bias :  0.00159580825449 prestige : 0.0041195065541 
+
+coast bias :  0.00168067360834 prestige : 0.00798179507114 
+
+blame bias :  -0.00395282415272 prestige : -1.69422685565e-05 
+
+guatemala bias :  0.00173610153973 prestige : 0.0119727809726 
+
+hasnt bias :  -0.00256650926948 prestige : -9.05725017148e-06 
+
+hear bias :  0.000959774998284 prestige : 0.00403013249281 
+
+report bias :  0.00155312052793 prestige : 0.0103050169602 
+
+mitchs bias :  -0.00456741718606 prestige : 0.0 
+
+search bias :  0.00157012603318 prestige : 0.00783393800359 
+
+last bias :  -0.00405189239778 prestige : 0.0 
+
+salvador bias :  0.0016217339486 prestige : 0.0149630220799 
+
+die bias :  -0.000588482321237 prestige : 0.00394957508617 
+
+drop bias :  -0.0038251642589 prestige : 0.0 
+
+guard bias :  -0.00193052552846 prestige : -9.05725017148e-06 
+
+near bias :  0.00186938128283 prestige : 0.013897695291 
+
+tapachula bias :  -0.00289076229146 prestige : -8.59375e-06 
+
+kph bias :  0.00104611709789 prestige : 0.00987085864313 
+
+declare bias :  0.000608101699314 prestige : 0.00314730573964 
+
+wind bias :  0.000249939818338 prestige : 0.00271325358302 
+
+el <new bias :  0.00136208154702 new rank :  0.00948665806621 >
+
+honduras <new bias :  0.00178680523458 new rank :  0.019023493577 >
+
+mexico <new bias :  0.00153258312746 new rank :  0.00832563941865 >
+
+people <new bias :  -0.00149646984675 new rank :  0.00264161174314 >
+
+strengthen <new bias :  -0.0021219702994 new rank :  -2.50523168568e-06 >
+
+national <new bias :  0.0011850665811 new rank :  0.0107620771486 >
+
+move <new bias :  0.00164586327898 new rank :  0.00431315992697 >
+
+sweep <new bias :  -0.00234050035163 new rank :  0.0 >
+
+pacific <new bias :  0.00148704165047 new rank :  0.00864271919045 >
+
+say <new bias :  0.000938769958992 new rank :  0.00701496181663 >
+
+dissipate <new bias :  -0.00247351874508 new rank :  -2.50523168568e-06 >
+
+sea <new bias :  -0.00171303881735 new rank :  0.0 >
+
+home <new bias :  0.0015979616931 new rank :  0.0168272755403 >
+
+border <new bias :  -0.00277075237693 new rank :  0.0 >
+
+saturday <new bias :  0.00153195651788 new rank :  0.00428930182472 >
+
+depression <new bias :  0.00152231188827 new rank :  0.0106025514928 >
+
+tropical <new bias :  0.000837701163489 new rank :  0.00445223382098 >
+
+death <new bias :  -0.00151665504797 new rank :  0.00432784542691 >
+
+caribbean <new bias :  -0.00132753168542 new rank :  0.0 >
+
+monday <new bias :  0.00198694474155 new rank :  0.0178054660422 >
+
+mitch <new bias :  -0.0033257552539 new rank :  -2.31892470585e-05 >
+
+flood <new bias :  -0.00277758292679 new rank :  -1.34588533001e-05 >
+
+widen <new bias :  -0.00160801650287 new rank :  -7.54770847623e-06 >
+
+west <new bias :  0.00161701624942 new rank :  0.00606665300293 >
+
+away <new bias :  0.00118698095978 new rank :  0.0 >
+
+flash <new bias :  0.000796507772685 new rank :  0.00560980493693 >
+
+sunday <new bias :  0.00185271516112 new rank :  0.0136034165478 >
+
+least <new bias :  -0.000546001622755 new rank :  0.00368022511177 >
+
+late <new bias :  0.00162795404895 new rank :  0.0153671365326 >
+
+commission <new bias :  0.0007746917646 new rank :  0.00831639106478 >
+
+state <new bias :  -0.000183267379674 new rank :  0.00293870630408 >
+
+guatemalan <new bias :  -0.00207699006395 new rank :  0.0 >
+
+storm <new bias :  -0.00380145359388 new rank :  -8.59375e-06 >
+
+threaten <new bias :  0.000866245287427 new rank :  0.00531455204551 >
+
+tuesday <new bias :  0.00197167066258 new rank :  0.015503826249 >
+
+classify <new bias :  0.000715873278599 new rank :  0.00267459732462 >
+
+schooner <new bias :  -0.00149884559994 new rank :  -7.54770847623e-06 >
+
+back <new bias :  -0.0012031508426 new rank :  0.00596757820882 >
+
+tourist <new bias :  -0.000892838111215 new rank :  0.00349706991838 >
+
+emergency <new bias :  0.00101139689186 new rank :  0.0084645982129 >
+
+southern <new bias :  -0.00296200928525 new rank :  -8.59375e-06 >
+
+mph <new bias :  0.00159580825449 new rank :  0.0041195065541 >
+
+coast <new bias :  0.00168067360834 new rank :  0.00798179507114 >
+
+blame <new bias :  -0.00395282415272 new rank :  -1.69422685565e-05 >
+
+guatemala <new bias :  0.00173610153973 new rank :  0.0119727809726 >
+
+hasnt <new bias :  -0.00256650926948 new rank :  -9.05725017148e-06 >
+
+hear <new bias :  0.000959774998284 new rank :  0.00403013249281 >
+
+report <new bias :  0.00155312052793 new rank :  0.0103050169602 >
+
+mitchs <new bias :  -0.00456741718606 new rank :  0.0 >
+
+search <new bias :  0.00157012603318 new rank :  0.00783393800359 >
+
+last <new bias :  -0.00405189239778 new rank :  0.0 >
+
+salvador <new bias :  0.0016217339486 new rank :  0.0149630220799 >
+
+die <new bias :  -0.000588482321237 new rank :  0.00394957508617 >
+
+drop <new bias :  -0.0038251642589 new rank :  0.0 >
+
+guard <new bias :  -0.00193052552846 new rank :  -9.05725017148e-06 >
+
+near <new bias :  0.00186938128283 new rank :  0.013897695291 >
+
+tapachula <new bias :  -0.00289076229146 new rank :  -8.59375e-06 >
+
+kph <new bias :  0.00104611709789 new rank :  0.00987085864313 >
+
+declare <new bias :  0.000608101699314 new rank :  0.00314730573964 >
+
+wind <new bias :  0.000249939818338 new rank :  0.00271325358302 >
+
+Final list of keywords: 
+honduras => 0.019023493577
+monday => 0.0178054660422
+home => 0.0168272755403
+tuesday => 0.015503826249
+late => 0.0153671365326
+salvador => 0.0149630220799
+near => 0.013897695291
+sunday => 0.0136034165478
+guatemala => 0.0119727809726
+national => 0.0107620771486
+depression => 0.0106025514928
+report => 0.0103050169602
+kph => 0.00987085864313
+el => 0.00948665806621
+pacific => 0.00864271919045
+emergency => 0.0084645982129
+mexico => 0.00832563941865
+commission => 0.00831639106478
+coast => 0.00798179507114
+search => 0.00783393800359
+say => 0.00701496181663
+west => 0.00606665300293
+back => 0.00596757820882
+flash => 0.00560980493693
+threaten => 0.00531455204551
+tropical => 0.00445223382098
+death => 0.00432784542691
+move => 0.00431315992697
+saturday => 0.00428930182472
+mph => 0.0041195065541
+hear => 0.00403013249281
+die => 0.00394957508617
+least => 0.00368022511177
+tourist => 0.00349706991838
+declare => 0.00314730573964
+state => 0.00293870630408
+wind => 0.00271325358302
+classify => 0.00267459732462
+people => 0.00264161174314
+el indegree: 10 new bias :  0.00136208154702 new rank :  0.00948665806621 
+
+flash indegree: 12 new bias :  0.000796507772685 new rank :  0.00560980493693 
+
+honduras indegree: 12 new bias :  0.00178680523458 new rank :  0.019023493577 
+
+mexico indegree: 20 new bias :  0.00153258312746 new rank :  0.00832563941865 
+
+national indegree: 14 new bias :  0.0011850665811 new rank :  0.0107620771486 
+
+move indegree: 14 new bias :  0.00164586327898 new rank :  0.00431315992697 
+
+back indegree: 4 new bias :  -0.0012031508426 new rank :  0.00596757820882 
+
+pacific indegree: 10 new bias :  0.00148704165047 new rank :  0.00864271919045 
+
+say indegree: 10 new bias :  0.000938769958992 new rank :  0.00701496181663 
+
+home indegree: 6 new bias :  0.0015979616931 new rank :  0.0168272755403 
+
+saturday indegree: 22 new bias :  0.00153195651788 new rank :  0.00428930182472 
+
+depression indegree: 12 new bias :  0.00152231188827 new rank :  0.0106025514928 
+
+late indegree: 10 new bias :  0.00162795404895 new rank :  0.0153671365326 
+
+death indegree: 14 new bias :  -0.00151665504797 new rank :  0.00432784542691 
+
+emergency indegree: 22 new bias :  0.00101139689186 new rank :  0.0084645982129 
+
+west indegree: 14 new bias :  0.00161701624942 new rank :  0.00606665300293 
+
+people indegree: 24 new bias :  -0.00149646984675 new rank :  0.00264161174314 
+
+sunday indegree: 12 new bias :  0.00185271516112 new rank :  0.0136034165478 
+
+least indegree: 6 new bias :  -0.000546001622755 new rank :  0.00368022511177 
+
+tropical indegree: 12 new bias :  0.000837701163489 new rank :  0.00445223382098 
+
+commission indegree: 10 new bias :  0.0007746917646 new rank :  0.00831639106478 
+
+state indegree: 12 new bias :  -0.000183267379674 new rank :  0.00293870630408 
+
+threaten indegree: 10 new bias :  0.000866245287427 new rank :  0.00531455204551 
+
+tuesday indegree: 10 new bias :  0.00197167066258 new rank :  0.015503826249 
+
+classify indegree: 10 new bias :  0.000715873278599 new rank :  0.00267459732462 
+
+tourist indegree: 4 new bias :  -0.000892838111215 new rank :  0.00349706991838 
+
+monday indegree: 8 new bias :  0.00198694474155 new rank :  0.0178054660422 
+
+mph indegree: 22 new bias :  0.00159580825449 new rank :  0.0041195065541 
+
+coast indegree: 12 new bias :  0.00168067360834 new rank :  0.00798179507114 
+
+guatemala indegree: 20 new bias :  0.00173610153973 new rank :  0.0119727809726 
+
+hear indegree: 6 new bias :  0.000959774998284 new rank :  0.00403013249281 
+
+report indegree: 6 new bias :  0.00155312052793 new rank :  0.0103050169602 
+
+search indegree: 10 new bias :  0.00157012603318 new rank :  0.00783393800359 
+
+salvador indegree: 18 new bias :  0.0016217339486 new rank :  0.0149630220799 
+
+die indegree: 16 new bias :  -0.000588482321237 new rank :  0.00394957508617 
+
+near indegree: 8 new bias :  0.00186938128283 new rank :  0.013897695291 
+
+kph indegree: 22 new bias :  0.00104611709789 new rank :  0.00987085864313 
+
+declare indegree: 12 new bias :  0.000608101699314 new rank :  0.00314730573964 
+
+wind indegree: 12 new bias :  0.000249939818338 new rank :  0.00271325358302 
+
+
+Total Nodes:  60
+
+Total Positive Nodes:  39
+Sentence Median =  0.567098166874 
+
+By late 
+Sunday, Mitch's winds, once near 180 mph (290 kph), had dropped to 
+near 30 mph (50 kph), and the storm _ now classified as a tropical 
+depression _ was near Tapachula, on Mexico's southern Pacific coast 
+near the Guatemalan border. << 1.2447866938 << 4 
+
+Mitch was moving west at 8 mph (13 kph) 
+and was dissipating but threatened to strengthen again if it moved 
+back out to sea.  << 0.655621872973 << 5 
+
+In the Caribbean, 
+the U.S. Coast Guard widened a search for a tourist schooner with 
+31 people aboard that hasn't been heard from since Tuesday. << 0.567098166874 << 3 
+
+El Salvador _ where 140 people 
+died in flash floods _ declared a state of emergency Saturday, as 
+did Guatemala, where 21 people died when floods swept away their homes. << 0.542956575422 << 1 
+
+Mexico reported one death from Mitch last Monday. << 0.526954844605 << 2 
+
+In Honduras, at least 231 deaths have been blamed on Mitch, the National 
+Emergency Commission said Saturday. << 0.44810113592 << 0 
+
+Top Weights: 
+1.2447866938 ,
+0.655621872973 ,
+0.567098166874 ,
+
+
+hasnt indegree: 2 new bias :  -0.00256650926948 new rank :  -9.05725017148e-06 
+
+widen indegree: 4 new bias :  -0.00160801650287 new rank :  -7.54770847623e-06 
+
+mitch indegree: 2 new bias :  -0.0033257552539 new rank :  -2.31892470585e-05 
+
+strengthen indegree: 2 new bias :  -0.0021219702994 new rank :  -2.50523168568e-06 
+
+southern indegree: 2 new bias :  -0.00296200928525 new rank :  -8.59375e-06 
+
+blame indegree: 2 new bias :  -0.00395282415272 new rank :  -1.69422685565e-05 
+
+flood indegree: 0 new bias :  -0.00277758292679 new rank :  -1.34588533001e-05 
+
+guard indegree: 2 new bias :  -0.00193052552846 new rank :  -9.05725017148e-06 
+
+dissipate indegree: 2 new bias :  -0.00247351874508 new rank :  -2.50523168568e-06 
+
+storm indegree: 0 new bias :  -0.00380145359388 new rank :  -8.59375e-06 
+
+tapachula indegree: 2 new bias :  -0.00289076229146 new rank :  -8.59375e-06 
+
+schooner indegree: 4 new bias :  -0.00149884559994 new rank :  -7.54770847623e-06 
+
+
+Total Nodes:  60
+
+Total Negative Nodes:  12
+
+Total Negative weights:  0.000117591999582
+Sentence Median =  0.00177536999016 
+
+By late 
+Sunday, Mitch's winds, once near 180 mph (290 kph), had dropped to 
+near 30 mph (50 kph), and the storm _ now classified as a tropical 
+depression _ was near Tapachula, on Mexico's southern Pacific coast 
+near the Guatemalan border. << 0.0243603590679 << 4 
+
+In the Caribbean, 
+the U.S. Coast Guard widened a search for a tourist schooner with 
+31 people aboard that hasn't been heard from since Tuesday. << 0.00534879675989 << 3 
+
+Mitch was moving west at 8 mph (13 kph) 
+and was dissipating but threatened to strengthen again if it moved 
+back out to sea.  << 0.00177536999016 << 5 
+
+In Honduras, at least 231 deaths have been blamed on Mitch, the National 
+Emergency Commission said Saturday. << 0.0 << 0 
+
+El Salvador _ where 140 people 
+died in flash floods _ declared a state of emergency Saturday, as 
+did Guatemala, where 21 people died when floods swept away their homes. << 0.0 << 1 
+
+Mexico reported one death from Mitch last Monday. << 0.0 << 2 
+
+Top Weights: 
+0.0243603590679 ,
+0.00534879675989 ,
+0.00177536999016 ,
+
+

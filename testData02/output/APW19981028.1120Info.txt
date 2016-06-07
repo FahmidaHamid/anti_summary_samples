@@ -1,0 +1,1549 @@
+0 >> Hurricane Mitch paused in its whirl through the western Caribbean 
+on Wednesday to punish Honduras with 120-mph (205-kph) winds, topping 
+trees, sweeping away bridges, flooding neighborhoods and killing at 
+least 32 people. 
+
+1 >> Mitch was drifting west at only 2 mph (3 kph) over 
+the Bay Islands, Honduras' most popular tourist area. 
+
+2 >> It also was 
+only 30 miles (50 kms) off the coast, and hurricane-force winds stretched 
+outward 105 miles (165 kms); tropical storm-force winds 175 miles 
+(280 kms). 
+
+3 >> That meant the Honduran coast had been under hurricane 
+conditions for more than a day. 
+
+4 >> ``The hurricane has destroyed almost 
+everything,'' said Mike Brown, a resident of Guanaja Island which 
+was within miles (kms) of the eye of the hurricane. 
+
+5 >> ``Few houses have 
+remained standing. 
+
+6 >> '' At its, 4th graf pvs. 
+
+hurricane --> n --> a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) --> 0#0 
+
+mitch --> n -->  --> 1#0 
+
+pause --> v --> interrupt temporarily an activity before continuing --> 2#0 
+
+whirl --> n --> confused movement --> 3#0 
+
+western --> a --> relating to or characteristic of the western parts of the world or the West as opposed to the eastern or oriental parts --> 4#0 
+
+caribbean --> n --> an arm of the Atlantic Ocean between North and South America; the origin of the Gulf stream --> 5#0 
+
+wednesday --> n --> the fourth day of the week; the third working day --> 6#0 
+
+punish --> v --> impose a penalty on; inflict punishment on --> 7#0 
+
+honduras --> n --> a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture --> 8#0 
+
+wind --> n --> air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure --> 9#0 
+
+top --> v --> be superior or better than some standard --> 10#0 
+
+tree --> n --> a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms --> 11#0 
+
+sweep --> v --> sweep across or over --> 12#0 
+
+away --> r --> from a particular thing or place or position (`forth' is obsolete) --> 13#0 
+
+bridge --> n --> a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc. --> 14#0 
+
+flood --> v --> fill quickly beyond capacity; as with a liquid --> 15#0 
+
+neighborhood --> n --> a surrounding or nearby region --> 16#0 
+
+kill --> v --> cause to die; put to death, usually intentionally or knowingly --> 17#0 
+
+least --> a --> the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree --> 18#0 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 19#0 
+
+mitch --> n -->  --> 0#1 
+
+drift --> v --> be in motion due to some air or water current --> 1#1 
+
+west --> n --> the countries of (originally) Europe and (now including) North America and South America --> 2#1 
+
+mph --> n --> the ratio of the distance traveled (in miles) to the time spent traveling (in hours) --> 3#1 
+
+kph --> n --> the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours) --> 4#1 
+
+bay --> n --> an indentation of a shoreline larger than a cove but smaller than a gulf --> 5#1 
+
+island --> n --> a land mass (smaller than a continent) that is surrounded by water --> 6#1 
+
+honduras --> n --> a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture --> 7#1 
+
+popular --> a --> regarded with great favor, approval, or affection especially by the general public --> 8#1 
+
+tourist --> n --> someone who travels for pleasure --> 9#1 
+
+area --> n --> a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography) --> 10#1 
+
+also --> r --> in addition --> 0#2 
+
+mile --> n --> a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters --> 1#2 
+
+km --> n --> a metric unit of length equal to 1000 meters (or 0.621371 miles) --> 2#2 
+
+coast --> a -->  --> 3#2 
+
+hurricaneforce --> n -->  --> 4#2 
+
+wind --> n --> air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure --> 5#2 
+
+stretch --> v --> occupy a large, elongated area --> 6#2 
+
+outward --> n -->  --> 7#2 
+
+mile --> n --> a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters --> 8#2 
+
+km --> n --> a metric unit of length equal to 1000 meters (or 0.621371 miles) --> 9#2 
+
+tropical --> a --> relating to or situated in or characteristic of the tropics (the region on either side of the equator) --> 10#2 
+
+stormforce --> n -->  --> 11#2 
+
+wind --> n --> air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure --> 12#2 
+
+mile --> n --> a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters --> 13#2 
+
+km --> n --> a metric unit of length equal to 1000 meters (or 0.621371 miles) --> 14#2 
+
+mean --> v --> mean or intend to express or convey --> 0#3 
+
+honduran --> n --> a native or inhabitant of Honduras --> 1#3 
+
+coast --> n --> the shore of a sea or ocean --> 2#3 
+
+hurricane --> n --> a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) --> 3#3 
+
+condition --> n --> a state at a particular time --> 4#3 
+
+day --> n --> time for Earth to make a complete rotation on its axis --> 5#3 
+
+hurricane --> n --> a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) --> 0#4 
+
+destroy --> v --> do away with, cause the destruction or undoing of --> 1#4 
+
+almost --> r --> (of actions or states) slightly short of or not quite accomplished; all but --> 2#4 
+
+everything --> n -->  --> 3#4 
+
+say --> v --> express in words --> 4#4 
+
+brown --> n --> an orange of low brightness and saturation --> 5#4 
+
+resident --> n --> someone who lives at a particular place for a prolonged period or who was born there --> 6#4 
+
+guanaja --> n -->  --> 7#4 
+
+island --> n --> a land mass (smaller than a continent) that is surrounded by water --> 8#4 
+
+mile --> n --> a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters --> 9#4 
+
+km --> n --> a metric unit of length equal to 1000 meters (or 0.621371 miles) --> 10#4 
+
+eye --> n --> the organ of sight --> 11#4 
+
+hurricane --> n --> a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) --> 12#4 
+
+house --> n --> a dwelling that serves as living quarters for one or more families --> 0#5 
+
+remain --> v --> stay the same; remain in a certain state --> 1#5 
+
+stand --> v --> be standing; be upright --> 2#5 
+
+4th --> a --> coming next after the third and just before the fifth in position or time or degree or magnitude --> 0#6 
+
+graf --> n --> German tennis player who won seven women's singles titles at Wimbledon (born in 1969) --> 1#6 
+
+pvs --> n -->  --> 2#6 
+
+Total Edges :  324 Edge Weight :  0.00308641975309
+similarity( hurricane ,  wind ) =  0.027027027027
+similarity( hurricane ,  kill ) =  0.0344827586207
+similarity( hurricane ,  least ) =  0.0217391304348
+similarity( hurricane ,  area ) =  0.025
+similarity( western ,  tropical ) =  0.05
+similarity( caribbean ,  honduras ) =  0.0294117647059
+similarity( caribbean ,  west ) =  0.1
+similarity( wednesday ,  4th ) =  0.0357142857143
+similarity( honduras ,  west ) =  0.0333333333333
+similarity( honduras ,  area ) =  0.0263157894737
+similarity( wind ,  drift ) =  0.0357142857143
+similarity( wind ,  stretch ) =  0.0869565217391
+similarity( wind ,  brown ) =  0.04
+similarity( away ,  area ) =  0.03125
+similarity( away ,  condition ) =  0.0588235294118
+similarity( away ,  resident ) =  0.0740740740741
+similarity( away ,  4th ) =  0.0344827586207
+similarity( bridge ,  area ) =  0.0243902439024
+similarity( neighborhood ,  area ) =  0.0384615384615
+similarity( neighborhood ,  tropical ) =  0.0434782608696
+similarity( kill ,  least ) =  0.027027027027
+similarity( kill ,  area ) =  0.0322580645161
+similarity( kill ,  destroy ) =  0.0526315789474
+similarity( least ,  island ) =  0.025641025641
+similarity( least ,  area ) =  0.0208333333333
+similarity( least ,  4th ) =  0.0222222222222
+similarity( drift ,  island ) =  0.0454545454545
+similarity( mph ,  kph ) =  0.233333333333
+similarity( mph ,  km ) =  0.037037037037
+similarity( mph ,  condition ) =  0.047619047619
+similarity( mph ,  day ) =  0.0384615384615
+similarity( mph ,  4th ) =  0.030303030303
+similarity( kph ,  condition ) =  0.047619047619
+similarity( kph ,  day ) =  0.0384615384615
+similarity( kph ,  4th ) =  0.030303030303
+similarity( bay ,  island ) =  0.0384615384615
+similarity( tourist ,  resident ) =  0.047619047619
+similarity( area ,  tropical ) =  0.025641025641
+similarity( area ,  condition ) =  0.037037037037
+similarity( area ,  resident ) =  0.027027027027
+similarity( mile ,  km ) =  0.153846153846
+similarity( mean ,  say ) =  0.1
+similarity( condition ,  day ) =  0.0588235294118
+similarity( condition ,  resident ) =  0.0454545454545
+similarity( condition ,  remain ) =  0.0714285714286
+similarity( condition ,  4th ) =  0.0416666666667
+similarity( day ,  4th ) =  0.0344827586207
+similarity( resident ,  graf ) =  0.0333333333333
+bridge bias :  0.0 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( bridge , neighborhood ) =  0.0 
+
+weight ( bridge , area ) =  0.0243902439024 
+
+weight ( bridge , away ) =  0.0 
+
+weight ( bridge , tree ) =  0.0 
+
+weight ( bridge , sweep ) =  0.0 
+
+weight ( bridge , flood ) =  0.0 
+
+weight ( bridge , kill ) =  0.0 
+
+pvs bias :  0.0 prestige : 0.00308641975309 >> out_deg : 2 >> in_deg : 2 
+
+weight ( pvs , 4th ) =  0.0 
+
+weight ( pvs , graf ) =  0.0 
+
+neighborhood bias :  0.0 prestige : 0.00308641975309 >> out_deg : 8 >> in_deg : 8 
+
+weight ( neighborhood , bridge ) =  0.0 
+
+weight ( neighborhood , people ) =  0.0 
+
+weight ( neighborhood , away ) =  0.0 
+
+weight ( neighborhood , area ) =  0.0384615384615 
+
+weight ( neighborhood , least ) =  0.0 
+
+weight ( neighborhood , tropical ) =  0.0434782608696 
+
+weight ( neighborhood , flood ) =  0.0 
+
+weight ( neighborhood , kill ) =  0.0 
+
+people bias :  0.0 prestige : 0.00308641975309 >> out_deg : 3 >> in_deg : 3 
+
+weight ( people , kill ) =  0.0 
+
+weight ( people , neighborhood ) =  0.0 
+
+weight ( people , least ) =  0.0 
+
+almost bias :  0.0 prestige : 0.00308641975309 >> out_deg : 5 >> in_deg : 5 
+
+weight ( almost , destroy ) =  0.0 
+
+weight ( almost , say ) =  0.0 
+
+weight ( almost , hurricane ) =  0.0 
+
+weight ( almost , brown ) =  0.0 
+
+weight ( almost , everything ) =  0.0 
+
+house bias :  0.0 prestige : 0.00308641975309 >> out_deg : 2 >> in_deg : 2 
+
+weight ( house , remain ) =  0.0 
+
+weight ( house , stand ) =  0.0 
+
+sweep bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( sweep , bridge ) =  0.0 
+
+weight ( sweep , top ) =  0.0 
+
+weight ( sweep , tree ) =  0.0 
+
+weight ( sweep , flood ) =  0.0 
+
+weight ( sweep , away ) =  0.0 
+
+weight ( sweep , wind ) =  0.0 
+
+guanaja bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( guanaja , brown ) =  0.0 
+
+weight ( guanaja , resident ) =  0.0 
+
+weight ( guanaja , island ) =  0.0 
+
+weight ( guanaja , km ) =  0.0 
+
+weight ( guanaja , say ) =  0.0 
+
+weight ( guanaja , mile ) =  0.0 
+
+hurricaneforce bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( hurricaneforce , stretch ) =  0.0 
+
+weight ( hurricaneforce , km ) =  0.0 
+
+weight ( hurricaneforce , coast ) =  0.0 
+
+weight ( hurricaneforce , mile ) =  0.0 
+
+weight ( hurricaneforce , outward ) =  0.0 
+
+weight ( hurricaneforce , wind ) =  0.0 
+
+say bias :  0.0 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( say , brown ) =  0.0 
+
+weight ( say , resident ) =  0.0 
+
+weight ( say , almost ) =  0.0 
+
+weight ( say , guanaja ) =  0.0 
+
+weight ( say , everything ) =  0.0 
+
+weight ( say , destroy ) =  0.0 
+
+weight ( say , mean ) =  0.1 
+
+mile bias :  0.0 prestige : 0.00308641975309 >> out_deg : 14 >> in_deg : 14 
+
+weight ( mile , tropical ) =  0.0 
+
+weight ( mile , stormforce ) =  0.0 
+
+weight ( mile , eye ) =  0.0 
+
+weight ( mile , stretch ) =  0.0 
+
+weight ( mile , island ) =  0.0 
+
+weight ( mile , hurricane ) =  0.0 
+
+weight ( mile , km ) =  0.153846153846 
+
+weight ( mile , coast ) =  0.0 
+
+weight ( mile , hurricaneforce ) =  0.0 
+
+weight ( mile , also ) =  0.0 
+
+weight ( mile , guanaja ) =  0.0 
+
+weight ( mile , resident ) =  0.0 
+
+weight ( mile , outward ) =  0.0 
+
+weight ( mile , wind ) =  0.0 
+
+kill bias :  -0.5 prestige : 0.00308641975309 >> out_deg : 8 >> in_deg : 8 
+
+weight ( kill , bridge ) =  -5e-05 
+
+weight ( kill , neighborhood ) =  -5e-05 
+
+weight ( kill , people ) =  -5e-05 
+
+weight ( kill , area ) =  0.0322580645161 
+
+weight ( kill , hurricane ) =  0.0344827586207 
+
+weight ( kill , least ) =  0.026977027027 
+
+weight ( kill , flood ) =  -5e-05 
+
+weight ( kill , destroy ) =  0.0526315789474 
+
+honduran bias :  0.0 prestige : 0.00308641975309 >> out_deg : 4 >> in_deg : 4 
+
+weight ( honduran , coast ) =  0.0 
+
+weight ( honduran , hurricane ) =  0.0 
+
+weight ( honduran , condition ) =  0.0 
+
+weight ( honduran , mean ) =  0.0 
+
+honduras bias :  0.0 prestige : 0.00308641975309 >> out_deg : 13 >> in_deg : 13 
+
+weight ( honduras , caribbean ) =  0.0 
+
+weight ( honduras , tourist ) =  0.0 
+
+weight ( honduras , area ) =  0.0263157894737 
+
+weight ( honduras , punish ) =  0.0 
+
+weight ( honduras , top ) =  0.0 
+
+weight ( honduras , tree ) =  0.0 
+
+weight ( honduras , wednesday ) =  0.0 
+
+weight ( honduras , bay ) =  0.0 
+
+weight ( honduras , popular ) =  0.0 
+
+weight ( honduras , island ) =  0.0 
+
+weight ( honduras , kph ) =  0.0 
+
+weight ( honduras , west ) =  0.0333333333333 
+
+weight ( honduras , wind ) =  0.0 
+
+outward bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( outward , tropical ) =  0.0 
+
+weight ( outward , stretch ) =  0.0 
+
+weight ( outward , km ) =  0.0 
+
+weight ( outward , hurricaneforce ) =  0.0 
+
+weight ( outward , mile ) =  0.0 
+
+weight ( outward , wind ) =  0.0 
+
+whirl bias :  -0.125 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( whirl , pause ) =  -1.25e-05 
+
+weight ( whirl , caribbean ) =  -1.25e-05 
+
+weight ( whirl , mitch ) =  -1.25e-05 
+
+weight ( whirl , hurricane ) =  -1.25e-05 
+
+weight ( whirl , wednesday ) =  -1.25e-05 
+
+weight ( whirl , western ) =  -1.25e-05 
+
+stormforce bias :  0.0 prestige : 0.00308641975309 >> out_deg : 4 >> in_deg : 4 
+
+weight ( stormforce , tropical ) =  0.0 
+
+weight ( stormforce , mile ) =  0.0 
+
+weight ( stormforce , wind ) =  0.0 
+
+weight ( stormforce , km ) =  0.0 
+
+pause bias :  0.0 prestige : 0.00308641975309 >> out_deg : 5 >> in_deg : 5 
+
+weight ( pause , whirl ) =  0.0 
+
+weight ( pause , caribbean ) =  0.0 
+
+weight ( pause , hurricane ) =  0.0 
+
+weight ( pause , western ) =  0.0 
+
+weight ( pause , mitch ) =  0.0 
+
+caribbean bias :  0.0 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( caribbean , whirl ) =  0.0 
+
+weight ( caribbean , pause ) =  0.0 
+
+weight ( caribbean , honduras ) =  0.0294117647059 
+
+weight ( caribbean , punish ) =  0.0 
+
+weight ( caribbean , wednesday ) =  0.0 
+
+weight ( caribbean , western ) =  0.0 
+
+weight ( caribbean , west ) =  0.1 
+
+mitch bias :  0.0 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( mitch , whirl ) =  0.0 
+
+weight ( mitch , pause ) =  0.0 
+
+weight ( mitch , hurricane ) =  0.0 
+
+weight ( mitch , drift ) =  0.0 
+
+weight ( mitch , mph ) =  0.0 
+
+weight ( mitch , western ) =  0.0 
+
+weight ( mitch , west ) =  0.0 
+
+area bias :  0.0 prestige : 0.00308641975309 >> out_deg : 12 >> in_deg : 12 
+
+weight ( area , bridge ) =  0.0243902439024 
+
+weight ( area , honduras ) =  0.0 
+
+weight ( area , tourist ) =  0.0 
+
+weight ( area , resident ) =  0.027027027027 
+
+weight ( area , away ) =  0.03125 
+
+weight ( area , hurricane ) =  0.025 
+
+weight ( area , least ) =  0.0208333333333 
+
+weight ( area , tropical ) =  0.025641025641 
+
+weight ( area , kill ) =  0.0322580645161 
+
+weight ( area , popular ) =  0.0 
+
+weight ( area , neighborhood ) =  0.0384615384615 
+
+weight ( area , condition ) =  0.037037037037 
+
+stretch bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( stretch , km ) =  0.0 
+
+weight ( stretch , coast ) =  0.0 
+
+weight ( stretch , hurricaneforce ) =  0.0 
+
+weight ( stretch , mile ) =  0.0 
+
+weight ( stretch , outward ) =  0.0 
+
+weight ( stretch , wind ) =  0.0 
+
+west bias :  0.0 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( west , caribbean ) =  0.1 
+
+weight ( west , mitch ) =  0.0 
+
+weight ( west , drift ) =  0.0 
+
+weight ( west , mph ) =  0.0 
+
+weight ( west , bay ) =  0.0 
+
+weight ( west , kph ) =  0.0 
+
+weight ( west , honduras ) =  0.0333333333333 
+
+top bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( top , honduras ) =  0.0 
+
+weight ( top , punish ) =  0.0 
+
+weight ( top , away ) =  0.0 
+
+weight ( top , tree ) =  0.0 
+
+weight ( top , sweep ) =  0.0 
+
+weight ( top , wind ) =  0.0 
+
+hurricane bias :  0.0 prestige : 0.00308641975309 >> out_deg : 18 >> in_deg : 18 
+
+weight ( hurricane , whirl ) =  0.0 
+
+weight ( hurricane , least ) =  0.0217391304348 
+
+weight ( hurricane , pause ) =  0.0 
+
+weight ( hurricane , eye ) =  0.0 
+
+weight ( hurricane , mitch ) =  0.0 
+
+weight ( hurricane , area ) =  0.025 
+
+weight ( hurricane , almost ) =  0.0 
+
+weight ( hurricane , km ) =  0.0 
+
+weight ( hurricane , coast ) =  0.0 
+
+weight ( hurricane , everything ) =  0.0 
+
+weight ( hurricane , mile ) =  0.0 
+
+weight ( hurricane , kill ) =  0.0344827586207 
+
+weight ( hurricane , wind ) =  0.027027027027 
+
+weight ( hurricane , destroy ) =  0.0 
+
+weight ( hurricane , honduran ) =  0.0 
+
+weight ( hurricane , day ) =  0.0 
+
+weight ( hurricane , condition ) =  0.0 
+
+weight ( hurricane , mean ) =  0.0 
+
+graf bias :  0.0 prestige : 0.00308641975309 >> out_deg : 3 >> in_deg : 3 
+
+weight ( graf , resident ) =  0.0333333333333 
+
+weight ( graf , pvs ) =  0.0 
+
+weight ( graf , 4th ) =  0.0 
+
+least bias :  0.0 prestige : 0.00308641975309 >> out_deg : 8 >> in_deg : 8 
+
+weight ( least , neighborhood ) =  0.0 
+
+weight ( least , people ) =  0.0 
+
+weight ( least , island ) =  0.025641025641 
+
+weight ( least , area ) =  0.0208333333333 
+
+weight ( least , hurricane ) =  0.0217391304348 
+
+weight ( least , flood ) =  0.0 
+
+weight ( least , 4th ) =  0.0222222222222 
+
+weight ( least , kill ) =  0.0 
+
+tropical bias :  0.0 prestige : 0.00308641975309 >> out_deg : 8 >> in_deg : 8 
+
+weight ( tropical , stormforce ) =  0.0 
+
+weight ( tropical , neighborhood ) =  0.0434782608696 
+
+weight ( tropical , area ) =  0.025641025641 
+
+weight ( tropical , km ) =  0.0 
+
+weight ( tropical , mile ) =  0.0 
+
+weight ( tropical , western ) =  0.05 
+
+weight ( tropical , outward ) =  0.0 
+
+weight ( tropical , wind ) =  0.0 
+
+flood bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( flood , bridge ) =  0.0 
+
+weight ( flood , neighborhood ) =  0.0 
+
+weight ( flood , away ) =  0.0 
+
+weight ( flood , sweep ) =  0.0 
+
+weight ( flood , least ) =  0.0 
+
+weight ( flood , kill ) =  0.0 
+
+destroy bias :  0.0 prestige : 0.00308641975309 >> out_deg : 5 >> in_deg : 5 
+
+weight ( destroy , almost ) =  0.0 
+
+weight ( destroy , everything ) =  0.0 
+
+weight ( destroy , say ) =  0.0 
+
+weight ( destroy , hurricane ) =  0.0 
+
+weight ( destroy , kill ) =  0.0526315789474 
+
+brown bias :  -0.375 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( brown , resident ) =  -3.75e-05 
+
+weight ( brown , almost ) =  -3.75e-05 
+
+weight ( brown , island ) =  -3.75e-05 
+
+weight ( brown , guanaja ) =  -3.75e-05 
+
+weight ( brown , everything ) =  -3.75e-05 
+
+weight ( brown , say ) =  -3.75e-05 
+
+weight ( brown , wind ) =  0.04 
+
+tourist bias :  -0.25 prestige : 0.00308641975309 >> out_deg : 5 >> in_deg : 5 
+
+weight ( tourist , popular ) =  -2.5e-05 
+
+weight ( tourist , island ) =  -2.5e-05 
+
+weight ( tourist , resident ) =  0.047619047619 
+
+weight ( tourist , honduras ) =  -2.5e-05 
+
+weight ( tourist , area ) =  -2.5e-05 
+
+punish bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( punish , honduras ) =  0.0 
+
+weight ( punish , top ) =  0.0 
+
+weight ( punish , wednesday ) =  0.0 
+
+weight ( punish , western ) =  0.0 
+
+weight ( punish , caribbean ) =  0.0 
+
+weight ( punish , wind ) =  0.0 
+
+drift bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( drift , mitch ) =  0.0 
+
+weight ( drift , west ) =  0.0 
+
+weight ( drift , mph ) =  0.0 
+
+weight ( drift , island ) =  0.0454545454545 
+
+weight ( drift , kph ) =  0.0 
+
+weight ( drift , wind ) =  0.0357142857143 
+
+mph bias :  0.0 prestige : 0.00308641975309 >> out_deg : 10 >> in_deg : 10 
+
+weight ( mph , mitch ) =  0.0 
+
+weight ( mph , west ) =  0.0 
+
+weight ( mph , drift ) =  0.0 
+
+weight ( mph , km ) =  0.037037037037 
+
+weight ( mph , bay ) =  0.0 
+
+weight ( mph , 4th ) =  0.030303030303 
+
+weight ( mph , island ) =  0.0 
+
+weight ( mph , kph ) =  0.233333333333 
+
+weight ( mph , day ) =  0.0384615384615 
+
+weight ( mph , condition ) =  0.047619047619 
+
+coast bias :  0.0 prestige : 0.00308641975309 >> out_deg : 11 >> in_deg : 11 
+
+weight ( coast , stretch ) =  0.0 
+
+weight ( coast , hurricane ) =  0.0 
+
+weight ( coast , km ) =  0.0 
+
+weight ( coast , hurricaneforce ) =  0.0 
+
+weight ( coast , also ) =  0.0 
+
+weight ( coast , mile ) =  0.0 
+
+weight ( coast , condition ) =  0.0 
+
+weight ( coast , honduran ) =  0.0 
+
+weight ( coast , day ) =  0.0 
+
+weight ( coast , wind ) =  0.0 
+
+weight ( coast , mean ) =  0.0 
+
+popular bias :  0.125 prestige : 0.00308641975309 >> out_deg : 5 >> in_deg : 5 
+
+weight ( popular , island ) =  1.25e-05 
+
+weight ( popular , area ) =  1.25e-05 
+
+weight ( popular , honduras ) =  1.25e-05 
+
+weight ( popular , tourist ) =  1.25e-05 
+
+weight ( popular , bay ) =  1.25e-05 
+
+4th bias :  0.0 prestige : 0.00308641975309 >> out_deg : 9 >> in_deg : 9 
+
+weight ( 4th , pvs ) =  0.0 
+
+weight ( 4th , away ) =  0.0344827586207 
+
+weight ( 4th , condition ) =  0.0416666666667 
+
+weight ( 4th , wednesday ) =  0.0357142857143 
+
+weight ( 4th , least ) =  0.0222222222222 
+
+weight ( 4th , mph ) =  0.030303030303 
+
+weight ( 4th , kph ) =  0.030303030303 
+
+weight ( 4th , day ) =  0.0344827586207 
+
+weight ( 4th , graf ) =  0.0 
+
+western bias :  0.0 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( western , whirl ) =  0.0 
+
+weight ( western , pause ) =  0.0 
+
+weight ( western , caribbean ) =  0.0 
+
+weight ( western , mitch ) =  0.0 
+
+weight ( western , punish ) =  0.0 
+
+weight ( western , wednesday ) =  0.0 
+
+weight ( western , tropical ) =  0.05 
+
+eye bias :  0.0 prestige : 0.00308641975309 >> out_deg : 4 >> in_deg : 4 
+
+weight ( eye , island ) =  0.0 
+
+weight ( eye , mile ) =  0.0 
+
+weight ( eye , hurricane ) =  0.0 
+
+weight ( eye , km ) =  0.0 
+
+day bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( day , hurricane ) =  0.0 
+
+weight ( day , mph ) =  0.0384615384615 
+
+weight ( day , coast ) =  0.0 
+
+weight ( day , 4th ) =  0.0344827586207 
+
+weight ( day , kph ) =  0.0384615384615 
+
+weight ( day , condition ) =  0.0 
+
+condition bias :  0.0 prestige : 0.00308641975309 >> out_deg : 11 >> in_deg : 11 
+
+weight ( condition , area ) =  0.037037037037 
+
+weight ( condition , resident ) =  0.0454545454545 
+
+weight ( condition , away ) =  0.0588235294118 
+
+weight ( condition , hurricane ) =  0.0 
+
+weight ( condition , mph ) =  0.047619047619 
+
+weight ( condition , coast ) =  0.0 
+
+weight ( condition , remain ) =  0.0714285714286 
+
+weight ( condition , 4th ) =  0.0416666666667 
+
+weight ( condition , kph ) =  0.047619047619 
+
+weight ( condition , honduran ) =  0.0 
+
+weight ( condition , day ) =  0.0588235294118 
+
+also bias :  0.0 prestige : 0.00308641975309 >> out_deg : 3 >> in_deg : 3 
+
+weight ( also , mile ) =  0.0 
+
+weight ( also , km ) =  0.0 
+
+weight ( also , coast ) =  0.0 
+
+resident bias :  0.0 prestige : 0.00308641975309 >> out_deg : 11 >> in_deg : 11 
+
+weight ( resident , brown ) =  0.0 
+
+weight ( resident , tourist ) =  0.047619047619 
+
+weight ( resident , area ) =  0.027027027027 
+
+weight ( resident , island ) =  0.0 
+
+weight ( resident , away ) =  0.0740740740741 
+
+weight ( resident , guanaja ) =  0.0 
+
+weight ( resident , everything ) =  0.0 
+
+weight ( resident , say ) =  0.0 
+
+weight ( resident , mile ) =  0.0 
+
+weight ( resident , graf ) =  0.0333333333333 
+
+weight ( resident , condition ) =  0.0454545454545 
+
+island bias :  0.0 prestige : 0.00308641975309 >> out_deg : 14 >> in_deg : 14 
+
+weight ( island , brown ) =  0.0 
+
+weight ( island , least ) =  0.025641025641 
+
+weight ( island , honduras ) =  0.0 
+
+weight ( island , tourist ) =  0.0 
+
+weight ( island , resident ) =  0.0 
+
+weight ( island , km ) =  0.0 
+
+weight ( island , drift ) =  0.0454545454545 
+
+weight ( island , mph ) =  0.0 
+
+weight ( island , bay ) =  0.0 
+
+weight ( island , popular ) =  0.0 
+
+weight ( island , mile ) =  0.0 
+
+weight ( island , guanaja ) =  0.0 
+
+weight ( island , kph ) =  0.0 
+
+weight ( island , eye ) =  0.0 
+
+tree bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( tree , bridge ) =  0.0 
+
+weight ( tree , honduras ) =  0.0 
+
+weight ( tree , top ) =  0.0 
+
+weight ( tree , sweep ) =  0.0 
+
+weight ( tree , away ) =  0.0 
+
+weight ( tree , wind ) =  0.0 
+
+wednesday bias :  0.0 prestige : 0.00308641975309 >> out_deg : 7 >> in_deg : 7 
+
+weight ( wednesday , whirl ) =  0.0 
+
+weight ( wednesday , honduras ) =  0.0 
+
+weight ( wednesday , punish ) =  0.0 
+
+weight ( wednesday , 4th ) =  0.0357142857143 
+
+weight ( wednesday , western ) =  0.0 
+
+weight ( wednesday , caribbean ) =  0.0 
+
+weight ( wednesday , wind ) =  0.0 
+
+km bias :  0.0 prestige : 0.00308641975309 >> out_deg : 14 >> in_deg : 14 
+
+weight ( km , tropical ) =  0.0 
+
+weight ( km , stormforce ) =  0.0 
+
+weight ( km , eye ) =  0.0 
+
+weight ( km , stretch ) =  0.0 
+
+weight ( km , island ) =  0.0 
+
+weight ( km , hurricane ) =  0.0 
+
+weight ( km , guanaja ) =  0.0 
+
+weight ( km , coast ) =  0.0 
+
+weight ( km , hurricaneforce ) =  0.0 
+
+weight ( km , also ) =  0.0 
+
+weight ( km , mile ) =  0.0 
+
+weight ( km , mph ) =  0.037037037037 
+
+weight ( km , outward ) =  0.0 
+
+weight ( km , wind ) =  0.0 
+
+bay bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( bay , honduras ) =  0.0 
+
+weight ( bay , west ) =  0.0 
+
+weight ( bay , mph ) =  0.0 
+
+weight ( bay , popular ) =  0.0 
+
+weight ( bay , island ) =  0.0384615384615 
+
+weight ( bay , kph ) =  0.0 
+
+remain bias :  0.0 prestige : 0.00308641975309 >> out_deg : 3 >> in_deg : 3 
+
+weight ( remain , house ) =  0.0 
+
+weight ( remain , stand ) =  0.0 
+
+weight ( remain , condition ) =  0.0714285714286 
+
+stand bias :  0.0 prestige : 0.00308641975309 >> out_deg : 2 >> in_deg : 2 
+
+weight ( stand , house ) =  0.0 
+
+weight ( stand , remain ) =  0.0 
+
+kph bias :  0.0 prestige : 0.00308641975309 >> out_deg : 9 >> in_deg : 9 
+
+weight ( kph , honduras ) =  0.0 
+
+weight ( kph , west ) =  0.0 
+
+weight ( kph , drift ) =  0.0 
+
+weight ( kph , mph ) =  0.0 
+
+weight ( kph , bay ) =  0.0 
+
+weight ( kph , 4th ) =  0.030303030303 
+
+weight ( kph , island ) =  0.0 
+
+weight ( kph , day ) =  0.0384615384615 
+
+weight ( kph , condition ) =  0.047619047619 
+
+everything bias :  0.0 prestige : 0.00308641975309 >> out_deg : 6 >> in_deg : 6 
+
+weight ( everything , brown ) =  0.0 
+
+weight ( everything , almost ) =  0.0 
+
+weight ( everything , hurricane ) =  0.0 
+
+weight ( everything , resident ) =  0.0 
+
+weight ( everything , say ) =  0.0 
+
+weight ( everything , destroy ) =  0.0 
+
+away bias :  0.0 prestige : 0.00308641975309 >> out_deg : 10 >> in_deg : 10 
+
+weight ( away , bridge ) =  0.0 
+
+weight ( away , neighborhood ) =  0.0 
+
+weight ( away , area ) =  0.03125 
+
+weight ( away , resident ) =  0.0740740740741 
+
+weight ( away , top ) =  0.0 
+
+weight ( away , tree ) =  0.0 
+
+weight ( away , sweep ) =  0.0 
+
+weight ( away , flood ) =  0.0 
+
+weight ( away , 4th ) =  0.0344827586207 
+
+weight ( away , condition ) =  0.0588235294118 
+
+wind bias :  0.0 prestige : 0.00308641975309 >> out_deg : 17 >> in_deg : 17 
+
+weight ( wind , tropical ) =  0.0 
+
+weight ( wind , stormforce ) =  0.0 
+
+weight ( wind , hurricane ) =  0.027027027027 
+
+weight ( wind , honduras ) =  0.0 
+
+weight ( wind , brown ) =  0.04 
+
+weight ( wind , drift ) =  0.0357142857143 
+
+weight ( wind , stretch ) =  0.0869565217391 
+
+weight ( wind , punish ) =  0.0 
+
+weight ( wind , top ) =  0.0 
+
+weight ( wind , tree ) =  0.0 
+
+weight ( wind , wednesday ) =  0.0 
+
+weight ( wind , km ) =  0.0 
+
+weight ( wind , sweep ) =  0.0 
+
+weight ( wind , hurricaneforce ) =  0.0 
+
+weight ( wind , mile ) =  0.0 
+
+weight ( wind , coast ) =  0.0 
+
+weight ( wind , outward ) =  0.0 
+
+mean bias :  0.0 prestige : 0.00308641975309 >> out_deg : 4 >> in_deg : 4 
+
+weight ( mean , honduran ) =  0.0 
+
+weight ( mean , say ) =  0.1 
+
+weight ( mean , hurricane ) =  0.0 
+
+weight ( mean , coast ) =  0.0 
+
+bridge bias :  -0.000980231062121 prestige : 0.00152945792523 
+
+pvs bias :  -0.00503557226698 prestige : 0.0 
+
+neighborhood bias :  0.000832600896261 prestige : 0.00478376048662 
+
+people bias :  -0.00404441450619 prestige : -2.5e-05 
+
+almost bias :  -0.0014046432983 prestige : -1.05011084391e-05 
+
+house bias :  -0.00193696681439 prestige : 0.0 
+
+sweep bias :  -0.0012195809619 prestige : 0.0 
+
+guanaja bias :  -0.0026828360562 prestige : -8.75092369921e-06 
+
+hurricaneforce bias :  -0.00162222140215 prestige : 0.0 
+
+say bias :  0.00141888406718 prestige : 0.00350933729594 
+
+mile bias :  0.00126548652168 prestige : 0.0 
+
+kill bias :  0.00148920706151 prestige : 0.00975883656028 
+
+honduran bias :  -0.00387758532871 prestige : 0.0 
+
+honduras bias :  -0.00017012345485 prestige : 0.0019789084713 
+
+outward bias :  -0.0024738233109 prestige : 0.0 
+
+whirl bias :  -0.0013195485231 prestige : 0.0 
+
+stormforce bias :  -0.00280398985915 prestige : 0.0 
+
+pause bias :  -0.00133892282723 prestige : -5.07120290176e-06 
+
+caribbean bias :  0.00188592602843 prestige : 0.00676745345819 
+
+mitch bias :  -0.00256299285841 prestige : -3.62228778697e-06 
+
+area bias :  0.00148717989051 prestige : 0.0156304351834 
+
+stretch bias :  -0.00101772466401 prestige : 0.0072539608576 
+
+west bias :  0.00147249037399 prestige : 0.00959386063594 
+
+top bias :  -0.00125807684074 prestige : 0.0 
+
+hurricane bias :  0.00035398993367 prestige : 0.00312251296016 
+
+graf bias :  0.000594025625911 prestige : 0.00465247652028 
+
+least bias :  0.000892392705832 prestige : 0.00972388999026 
+
+tropical bias :  0.00139669877404 prestige : 0.010219222905 
+
+flood bias :  -0.00281240762535 prestige : -1.25e-05 
+
+destroy bias :  0.00137803079392 prestige : 0.00456320051247 
+
+brown bias :  0.000588714606594 prestige : 0.00286013313814 
+
+tourist bias :  0.000637474502522 prestige : 0.00399002451739 
+
+punish bias :  -0.00164271685564 prestige : 0.0 
+
+drift bias :  0.00111055540636 prestige : 0.010555062928 
+
+mph bias :  0.00152681607705 prestige : 0.00911265055484 
+
+coast bias :  -0.00289319616898 prestige : 0.0 
+
+popular bias :  -0.00280088073405 prestige : -6.48971205744e-06 
+
+4th bias :  0.00153435094059 prestige : 0.0154898125476 
+
+western bias :  0.00107209367183 prestige : 0.00350288414176 
+
+eye bias :  -0.00207905570053 prestige : 0.0 
+
+day bias :  0.00129882880168 prestige : 0.0131629762623 
+
+condition bias :  0.00155534737305 prestige : 0.0147067239257 
+
+also bias :  -0.00117460481539 prestige : 0.0 
+
+resident bias :  0.00161436086487 prestige : 0.0123146295963 
+
+island bias :  -2.29823199742e-05 prestige : 0.00646230375174 
+
+tree bias :  -0.00138553166785 prestige : 0.0 
+
+wednesday bias :  0.000183576183053 prestige : 0.0022982891207 
+
+km bias :  -0.000153211790872 prestige : 0.00704762889237 
+
+bay bias :  -0.000237438410469 prestige : 1.82291666667e-06 
+
+remain bias :  0.00177139388353 prestige : 0.00774786725757 
+
+stand bias :  -0.00193696681439 prestige : 0.0 
+
+kph bias :  0.000905094574305 prestige : 0.0141695656854 
+
+everything bias :  -0.00219660936621 prestige : -8.75092369921e-06 
+
+away bias :  0.0014064897865 prestige : 0.00795294654185 
+
+wind bias :  0.00145919019668 prestige : 0.00516506707577 
+
+mean bias :  0.00224825204471 prestige : 0.0131914457438 
+
+bridge <new bias :  -0.000980231062121 new rank :  0.00152945792523 >
+
+pvs <new bias :  -0.00503557226698 new rank :  0.0 >
+
+neighborhood <new bias :  0.000832600896261 new rank :  0.00478376048662 >
+
+people <new bias :  -0.00404441450619 new rank :  -2.5e-05 >
+
+almost <new bias :  -0.0014046432983 new rank :  -1.05011084391e-05 >
+
+house <new bias :  -0.00193696681439 new rank :  0.0 >
+
+sweep <new bias :  -0.0012195809619 new rank :  0.0 >
+
+guanaja <new bias :  -0.0026828360562 new rank :  -8.75092369921e-06 >
+
+hurricaneforce <new bias :  -0.00162222140215 new rank :  0.0 >
+
+say <new bias :  0.00141888406718 new rank :  0.00350933729594 >
+
+mile <new bias :  0.00126548652168 new rank :  0.0 >
+
+kill <new bias :  0.00148920706151 new rank :  0.00975883656028 >
+
+honduran <new bias :  -0.00387758532871 new rank :  0.0 >
+
+honduras <new bias :  -0.00017012345485 new rank :  0.0019789084713 >
+
+outward <new bias :  -0.0024738233109 new rank :  0.0 >
+
+whirl <new bias :  -0.0013195485231 new rank :  0.0 >
+
+stormforce <new bias :  -0.00280398985915 new rank :  0.0 >
+
+pause <new bias :  -0.00133892282723 new rank :  -5.07120290176e-06 >
+
+caribbean <new bias :  0.00188592602843 new rank :  0.00676745345819 >
+
+mitch <new bias :  -0.00256299285841 new rank :  -3.62228778697e-06 >
+
+area <new bias :  0.00148717989051 new rank :  0.0156304351834 >
+
+stretch <new bias :  -0.00101772466401 new rank :  0.0072539608576 >
+
+west <new bias :  0.00147249037399 new rank :  0.00959386063594 >
+
+top <new bias :  -0.00125807684074 new rank :  0.0 >
+
+hurricane <new bias :  0.00035398993367 new rank :  0.00312251296016 >
+
+graf <new bias :  0.000594025625911 new rank :  0.00465247652028 >
+
+least <new bias :  0.000892392705832 new rank :  0.00972388999026 >
+
+tropical <new bias :  0.00139669877404 new rank :  0.010219222905 >
+
+flood <new bias :  -0.00281240762535 new rank :  -1.25e-05 >
+
+destroy <new bias :  0.00137803079392 new rank :  0.00456320051247 >
+
+brown <new bias :  0.000588714606594 new rank :  0.00286013313814 >
+
+tourist <new bias :  0.000637474502522 new rank :  0.00399002451739 >
+
+punish <new bias :  -0.00164271685564 new rank :  0.0 >
+
+drift <new bias :  0.00111055540636 new rank :  0.010555062928 >
+
+mph <new bias :  0.00152681607705 new rank :  0.00911265055484 >
+
+coast <new bias :  -0.00289319616898 new rank :  0.0 >
+
+popular <new bias :  -0.00280088073405 new rank :  -6.48971205744e-06 >
+
+4th <new bias :  0.00153435094059 new rank :  0.0154898125476 >
+
+western <new bias :  0.00107209367183 new rank :  0.00350288414176 >
+
+eye <new bias :  -0.00207905570053 new rank :  0.0 >
+
+day <new bias :  0.00129882880168 new rank :  0.0131629762623 >
+
+condition <new bias :  0.00155534737305 new rank :  0.0147067239257 >
+
+also <new bias :  -0.00117460481539 new rank :  0.0 >
+
+resident <new bias :  0.00161436086487 new rank :  0.0123146295963 >
+
+island <new bias :  -2.29823199742e-05 new rank :  0.00646230375174 >
+
+tree <new bias :  -0.00138553166785 new rank :  0.0 >
+
+wednesday <new bias :  0.000183576183053 new rank :  0.0022982891207 >
+
+km <new bias :  -0.000153211790872 new rank :  0.00704762889237 >
+
+bay <new bias :  -0.000237438410469 new rank :  1.82291666667e-06 >
+
+remain <new bias :  0.00177139388353 new rank :  0.00774786725757 >
+
+stand <new bias :  -0.00193696681439 new rank :  0.0 >
+
+kph <new bias :  0.000905094574305 new rank :  0.0141695656854 >
+
+everything <new bias :  -0.00219660936621 new rank :  -8.75092369921e-06 >
+
+away <new bias :  0.0014064897865 new rank :  0.00795294654185 >
+
+wind <new bias :  0.00145919019668 new rank :  0.00516506707577 >
+
+mean <new bias :  0.00224825204471 new rank :  0.0131914457438 >
+
+Final list of keywords: 
+area => 0.0156304351834
+4th => 0.0154898125476
+condition => 0.0147067239257
+kph => 0.0141695656854
+mean => 0.0131914457438
+day => 0.0131629762623
+resident => 0.0123146295963
+drift => 0.010555062928
+tropical => 0.010219222905
+kill => 0.00975883656028
+least => 0.00972388999026
+west => 0.00959386063594
+mph => 0.00911265055484
+away => 0.00795294654185
+remain => 0.00774786725757
+stretch => 0.0072539608576
+km => 0.00704762889237
+caribbean => 0.00676745345819
+island => 0.00646230375174
+wind => 0.00516506707577
+neighborhood => 0.00478376048662
+graf => 0.00465247652028
+destroy => 0.00456320051247
+tourist => 0.00399002451739
+say => 0.00350933729594
+western => 0.00350288414176
+hurricane => 0.00312251296016
+brown => 0.00286013313814
+wednesday => 0.0022982891207
+honduras => 0.0019789084713
+bridge => 0.00152945792523
+bay => 1.82291666667e-06
+bridge indegree: 8 new bias :  -0.000980231062121 new rank :  0.00152945792523 
+
+neighborhood indegree: 12 new bias :  0.000832600896261 new rank :  0.00478376048662 
+
+resident indegree: 16 new bias :  0.00161436086487 new rank :  0.0123146295963 
+
+say indegree: 8 new bias :  0.00141888406718 new rank :  0.00350933729594 
+
+kill indegree: 12 new bias :  0.00148920706151 new rank :  0.00975883656028 
+
+honduras indegree: 18 new bias :  -0.00017012345485 new rank :  0.0019789084713 
+
+caribbean indegree: 8 new bias :  0.00188592602843 new rank :  0.00676745345819 
+
+area indegree: 22 new bias :  0.00148717989051 new rank :  0.0156304351834 
+
+stretch indegree: 4 new bias :  -0.00101772466401 new rank :  0.0072539608576 
+
+west indegree: 12 new bias :  0.00147249037399 new rank :  0.00959386063594 
+
+away indegree: 12 new bias :  0.0014064897865 new rank :  0.00795294654185 
+
+hurricane indegree: 18 new bias :  0.00035398993367 new rank :  0.00312251296016 
+
+least indegree: 12 new bias :  0.000892392705832 new rank :  0.00972388999026 
+
+tropical indegree: 10 new bias :  0.00139669877404 new rank :  0.010219222905 
+
+destroy indegree: 6 new bias :  0.00137803079392 new rank :  0.00456320051247 
+
+brown indegree: 8 new bias :  0.000588714606594 new rank :  0.00286013313814 
+
+tourist indegree: 8 new bias :  0.000637474502522 new rank :  0.00399002451739 
+
+drift indegree: 10 new bias :  0.00111055540636 new rank :  0.010555062928 
+
+mph indegree: 18 new bias :  0.00152681607705 new rank :  0.00911265055484 
+
+4th indegree: 16 new bias :  0.00153435094059 new rank :  0.0154898125476 
+
+western indegree: 6 new bias :  0.00107209367183 new rank :  0.00350288414176 
+
+day indegree: 10 new bias :  0.00129882880168 new rank :  0.0131629762623 
+
+condition indegree: 18 new bias :  0.00155534737305 new rank :  0.0147067239257 
+
+island indegree: 20 new bias :  -2.29823199742e-05 new rank :  0.00646230375174 
+
+wednesday indegree: 10 new bias :  0.000183576183053 new rank :  0.0022982891207 
+
+km indegree: 12 new bias :  -0.000153211790872 new rank :  0.00704762889237 
+
+bay indegree: 10 new bias :  -0.000237438410469 new rank :  1.82291666667e-06 
+
+remain indegree: 2 new bias :  0.00177139388353 new rank :  0.00774786725757 
+
+wind indegree: 16 new bias :  0.00145919019668 new rank :  0.00516506707577 
+
+kph indegree: 18 new bias :  0.000905094574305 new rank :  0.0141695656854 
+
+graf indegree: 4 new bias :  0.000594025625911 new rank :  0.00465247652028 
+
+mean indegree: 4 new bias :  0.00224825204471 new rank :  0.0131914457438 
+
+
+Total Nodes:  56
+
+Total Positive Nodes:  32
+Sentence Median =  0.997023432961 
+
+It also was 
+only 30 miles (50 kms) off the coast, and hurricane-force winds stretched 
+outward 105 miles (165 kms); tropical storm-force winds 175 miles 
+(280 kms). << 1.34674359567 << 2 
+
+'' At its, 4th graf pvs. << 1.32722903965 << 6 
+
+``The hurricane has destroyed almost 
+everything,'' said Mike Brown, a resident of Guanaja Island which 
+was within miles (kms) of the eye of the hurricane. << 1.01719441226 << 4 
+
+Mitch was drifting west at only 2 mph (3 kph) over 
+the Bay Islands, Honduras' most popular tourist area. << 0.997023432961 << 1 
+
+Hurricane Mitch paused in its whirl through the western Caribbean 
+on Wednesday to punish Honduras with 120-mph (205-kph) winds, topping 
+trees, sweeping away bridges, flooding neighborhoods and killing at 
+least 32 people. << 0.930392113005 << 0 
+
+That meant the Honduran coast had been under hurricane 
+conditions for more than a day. << 0.411501380347 << 3 
+
+``Few houses have 
+remained standing. << 0.0 << 5 
+
+Top Weights: 
+1.34674359567 ,
+1.32722903965 ,
+1.01719441226 ,
+
+
+pause indegree: 2 new bias :  -0.00133892282723 new rank :  -5.07120290176e-06 
+
+mitch indegree: 2 new bias :  -0.00256299285841 new rank :  -3.62228778697e-06 
+
+people indegree: 0 new bias :  -0.00404441450619 new rank :  -2.5e-05 
+
+almost indegree: 2 new bias :  -0.0014046432983 new rank :  -1.05011084391e-05 
+
+guanaja indegree: 0 new bias :  -0.0026828360562 new rank :  -8.75092369921e-06 
+
+flood indegree: 0 new bias :  -0.00281240762535 new rank :  -1.25e-05 
+
+popular indegree: 0 new bias :  -0.00280088073405 new rank :  -6.48971205744e-06 
+
+everything indegree: 2 new bias :  -0.00219660936621 new rank :  -8.75092369921e-06 
+
+
+Total Nodes:  56
+
+Total Negative Nodes:  8
+
+Total Negative weights:  8.06861585837e-05
+Sentence Median =  0.0 
+
+``The hurricane has destroyed almost 
+everything,'' said Mike Brown, a resident of Guanaja Island which 
+was within miles (kms) of the eye of the hurricane. << 0.0162684477477 << 4 
+
+Mitch was drifting west at only 2 mph (3 kph) over 
+the Bay Islands, Honduras' most popular tourist area. << 0.010053942602 << 1 
+
+Hurricane Mitch paused in its whirl through the western Caribbean 
+on Wednesday to punish Honduras with 120-mph (205-kph) winds, topping 
+trees, sweeping away bridges, flooding neighborhoods and killing at 
+least 32 people. << 0.0 << 0 
+
+It also was 
+only 30 miles (50 kms) off the coast, and hurricane-force winds stretched 
+outward 105 miles (165 kms); tropical storm-force winds 175 miles 
+(280 kms). << 0.0 << 2 
+
+That meant the Honduran coast had been under hurricane 
+conditions for more than a day. << 0.0 << 3 
+
+``Few houses have 
+remained standing. << 0.0 << 5 
+
+'' At its, 4th graf pvs. << 0.0 << 6 
+
+Top Weights: 
+0.0162684477477 ,
+0.010053942602 ,
+0.0 ,
+
+

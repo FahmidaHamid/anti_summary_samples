@@ -1,0 +1,3045 @@
+0 >> <DOC>
+<DOCNO> APW19981103.0526 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+BRUSSELS, Belgium (AP) - The European Union on Tuesday approved 6.4 
+million European currency units (dlrs 7.7 million) in aid for thousands 
+of victims of the devastation caused by Hurricane Mitch in Central 
+America. 
+
+1 >> EU spokesman Pietro Petrucci said the funds will be used 
+to provide basic care such as medicine, food, water sanitation and 
+blankets to thousands of people whose homes were destroyed by torrential 
+rains and mudslides. 
+
+2 >> The aid will be distributed in Nicaragua, El 
+Salvador, Honduras and Guatemala which have most suffered from Mitch's 
+deadly passage, the EU executive Commission said in a statement. 
+
+3 >> Officials 
+in Central America estimated Tuesday that about 7,000 people have 
+died in the region. 
+
+4 >> The greatest losses were reported in Honduras, 
+where an estimated 5,000 people died and 600,000 people _ 10 percent 
+of the population _ were forced to flee their homes after last week's 
+storm. 
+
+5 >> El Salvador's National Emergency Committee listed 174 dead, 
+96 missing and 27,000 homeless. 
+
+6 >> But its own regional affiliate in 
+San Miguel province reported 125 dead there alone. 
+
+7 >> Guatemala reported 
+100 storm-related deaths. 
+
+8 >> The latest EU aid follows an initial 400,000 
+ecu (dlrs 480,000). 
+
+9 >> the EU approved for the region on Friday. 
+
+10 >> The 
+full 6.8 million ecu (dlrs 8.18 million) will be channeled through 
+humanitarian groups working in the region. 
+
+11 >> </TEXT>
+</DOC>
+
+
+doc --> n --> a licensed medical practitioner --> 0#0 
+
+docno --> v -->  --> 1#0 
+
+apw199811030526 --> n -->  --> 2#0 
+
+docno --> n -->  --> 3#0 
+
+doctype --> n -->  --> 4#0 
+
+news --> n --> information about recent and important events --> 5#0 
+
+doctype --> n -->  --> 6#0 
+
+txttype --> n -->  --> 7#0 
+
+newswire --> n -->  --> 8#0 
+
+txttype --> n -->  --> 9#0 
+
+text --> n --> the words of something written --> 10#0 
+
+brussels --> n --> the capital and largest city of Belgium; seat of the North Atlantic Treaty Organization --> 11#0 
+
+belgium --> n --> a monarchy in northwestern Europe; headquarters for the European Union and for the North Atlantic Treaty Organization --> 12#0 
+
+ap --> n -->  --> 13#0 
+
+european --> a --> of or relating to or characteristic of Europe or the people of Europe --> 14#0 
+
+union --> n --> an organization of employees formed to bargain with the employer --> 15#0 
+
+tuesday --> n --> the third day of the week; the second working day --> 16#0 
+
+approve --> v --> give sanction to --> 17#0 
+
+european --> a --> of or relating to or characteristic of Europe or the people of Europe --> 18#0 
+
+currency --> n --> the metal or paper medium of exchange that is presently used --> 19#0 
+
+unit --> n --> any division of quantity accepted as a standard of measurement or exchange --> 20#0 
+
+dlrs --> n -->  --> 21#0 
+
+aid --> n --> a resource --> 22#0 
+
+thousand --> n --> the cardinal number that is the product of 10 and 100 --> 23#0 
+
+victim --> n --> an unfortunate person who suffers from some adverse circumstance --> 24#0 
+
+devastation --> n --> the state of being decayed or destroyed --> 25#0 
+
+cause --> v --> give rise to; cause to happen or occur, not always intentionally --> 26#0 
+
+hurricane --> n --> a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) --> 27#0 
+
+mitch --> n -->  --> 28#0 
+
+central --> a --> serving as an essential component --> 29#0 
+
+america --> n --> North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776 --> 30#0 
+
+eu --> n --> a bivalent and trivalent metallic element of the rare earth group --> 0#1 
+
+spokesman --> n --> a male spokesperson --> 1#1 
+
+pietro --> n -->  --> 2#1 
+
+petrucci --> n -->  --> 3#1 
+
+say --> v --> express in words --> 4#1 
+
+fund --> n --> a reserve of money set aside for some purpose --> 5#1 
+
+use --> v --> put into service; make work or employ for a particular purpose or for its inherent or natural purpose --> 6#1 
+
+provide --> v --> give something useful or necessary to --> 7#1 
+
+basic --> a --> pertaining to or constituting a base or basis --> 8#1 
+
+care --> n --> the work of providing treatment for or attending to someone or something --> 9#1 
+
+medicine --> n --> the branches of medical science that deal with nonsurgical techniques --> 10#1 
+
+food --> n --> any substance that can be metabolized by an animal to give energy and build tissue --> 11#1 
+
+water --> n --> binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent --> 12#1 
+
+sanitation --> n --> the state of being clean and conducive to health --> 13#1 
+
+blanket --> n --> bedding that keeps a person warm in bed --> 14#1 
+
+thousand --> n --> the cardinal number that is the product of 10 and 100 --> 15#1 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 16#1 
+
+home --> n --> where you live at a particular time --> 17#1 
+
+destroy --> v --> do away with, cause the destruction or undoing of --> 18#1 
+
+torrential --> a --> relating to or resulting from the action of a torrent --> 19#1 
+
+rain --> n --> water falling in drops from vapor condensed in the atmosphere --> 20#1 
+
+mudslide --> n --> a landslide of mud --> 21#1 
+
+aid --> n --> a resource --> 0#2 
+
+distribute --> v --> administer or bestow, as in small portions --> 1#2 
+
+nicaragua --> n --> a republic in Central America; achieved independence from Spain in 1821 --> 2#2 
+
+el --> n --> angular distance above the horizon (especially of a celestial object) --> 3#2 
+
+salvador --> n --> a republic on the Pacific coast of Central America --> 4#2 
+
+honduras --> n --> a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture --> 5#2 
+
+guatemala --> n --> a republic in Central America; achieved independence from Spain in 1821; noted for low per capita income and illiteracy; politically unstable --> 6#2 
+
+suffer --> v --> undergo or be subjected to --> 7#2 
+
+mitchs --> n -->  --> 8#2 
+
+deadly --> r --> as if dead --> 9#2 
+
+passage --> n --> the act of passing from one state or place to the next --> 10#2 
+
+eu --> n --> a bivalent and trivalent metallic element of the rare earth group --> 11#2 
+
+executive --> n --> a person responsible for the administration of a business --> 12#2 
+
+commission --> n --> a special group delegated to consider some matter --> 13#2 
+
+say --> v --> express in words --> 14#2 
+
+statement --> n --> a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc --> 15#2 
+
+official --> n --> a worker who holds or is invested with an office --> 0#3 
+
+central --> a --> serving as an essential component --> 1#3 
+
+america --> n --> North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776 --> 2#3 
+
+estimate --> v --> judge tentatively or form an estimate of (quantities or time) --> 3#3 
+
+tuesday --> n --> the third day of the week; the second working day --> 4#3 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 5#3 
+
+die --> v --> pass from physical life and lose all bodily attributes and functions necessary to sustain life --> 6#3 
+
+region --> n --> the extended spatial location of something --> 7#3 
+
+great --> a --> relatively large in size or number or extent; larger than others of its kind --> 0#4 
+
+loss --> n --> something that is lost --> 1#4 
+
+report --> v --> to give an account or representation of in words --> 2#4 
+
+honduras --> n --> a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture --> 3#4 
+
+estimate --> v --> judge tentatively or form an estimate of (quantities or time) --> 4#4 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 5#4 
+
+die --> v --> pass from physical life and lose all bodily attributes and functions necessary to sustain life --> 6#4 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 7#4 
+
+percent --> n --> a proportion in relation to a whole (which is usually the amount per hundred) --> 8#4 
+
+population --> n --> the people who inhabit a territory or state --> 9#4 
+
+force --> v --> to cause to do through pressure or necessity, by physical, moral or intellectual means :"She forced him to take a job in the city" --> 10#4 
+
+flee --> v --> run away quickly --> 11#4 
+
+home --> n --> where you live at a particular time --> 12#4 
+
+last --> a --> immediately past --> 13#4 
+
+week --> n --> any period of seven consecutive days --> 14#4 
+
+storm --> n --> a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning --> 15#4 
+
+el --> n --> angular distance above the horizon (especially of a celestial object) --> 0#5 
+
+salvador --> n --> a republic on the Pacific coast of Central America --> 1#5 
+
+national --> a --> of or relating to or belonging to a nation or country --> 2#5 
+
+emergency --> n --> a sudden unforeseen crisis (usually involving danger) that requires immediate action --> 3#5 
+
+committee --> n --> a special group delegated to consider some matter --> 4#5 
+
+list --> v --> give or make a list of; name individually; give the names of --> 5#5 
+
+dead --> a --> no longer having or seeming to have or expecting to have life --> 6#5 
+
+miss --> v --> fail to perceive or to catch with the senses or the mind --> 7#5 
+
+homeless --> n --> someone unfortunate without housing --> 8#5 
+
+regional --> a --> characteristic of a region --> 0#6 
+
+affiliate --> n --> a subordinate or subsidiary associate; a person who is affiliated with another or with an organization --> 1#6 
+
+san --> n -->  --> 2#6 
+
+miguel --> n -->  --> 3#6 
+
+province --> n --> the territory occupied by one of the constituent administrative districts of a nation --> 4#6 
+
+report --> v --> to give an account or representation of in words --> 5#6 
+
+dead --> n --> people who are no longer living --> 6#6 
+
+alone --> r --> without any others being included or involved --> 7#6 
+
+guatemala --> n --> a republic in Central America; achieved independence from Spain in 1821; noted for low per capita income and illiteracy; politically unstable --> 0#7 
+
+report --> v --> to give an account or representation of in words --> 1#7 
+
+stormrelated --> v -->  --> 2#7 
+
+death --> n --> the event of dying or departure from life --> 3#7 
+
+late --> a --> being or occurring at an advanced period of time or after a usual or expected time --> 0#8 
+
+eu --> n --> a bivalent and trivalent metallic element of the rare earth group --> 1#8 
+
+aid --> n --> a resource --> 2#8 
+
+follow --> v --> to travel behind, go after, come after --> 3#8 
+
+initial --> a --> occurring at the beginning --> 4#8 
+
+ecu --> n -->  --> 5#8 
+
+dlrs --> n -->  --> 6#8 
+
+eu --> n --> a bivalent and trivalent metallic element of the rare earth group --> 0#9 
+
+approve --> v --> give sanction to --> 1#9 
+
+region --> n --> the extended spatial location of something --> 2#9 
+
+friday --> n --> the sixth day of the week; the fifth working day --> 3#9 
+
+full --> a --> containing as much or as many as is possible or normal --> 0#10 
+
+ecu --> n -->  --> 1#10 
+
+dlrs --> n -->  --> 2#10 
+
+channel --> v --> transmit or serve as the medium for transmission --> 3#10 
+
+humanitarian --> a --> marked by humanistic values and devotion to human welfare --> 4#10 
+
+group --> n --> any number of entities (members) considered as a unit --> 5#10 
+
+work --> v --> exert oneself by doing mental or physical work for a purpose or out of necessity --> 6#10 
+
+region --> n --> the extended spatial location of something --> 7#10 
+
+text --> n --> the words of something written --> 0#11 
+
+doc --> n --> a licensed medical practitioner --> 1#11 
+
+Total Edges :  622 Edge Weight :  0.0016077170418
+similarity( doc ,  medicine ) =  0.0714285714286
+similarity( text ,  say ) =  0.125
+similarity( text ,  provide ) =  0.0909090909091
+similarity( text ,  care ) =  0.0588235294118
+similarity( text ,  statement ) =  0.0434782608696
+similarity( text ,  region ) =  0.0909090909091
+similarity( text ,  loss ) =  0.111111111111
+similarity( text ,  report ) =  0.0714285714286
+similarity( brussels ,  belgium ) =  0.129032258065
+similarity( brussels ,  america ) =  0.0227272727273
+similarity( brussels ,  force ) =  0.0263157894737
+similarity( belgium ,  european ) =  0.0333333333333
+similarity( belgium ,  america ) =  0.0212765957447
+similarity( european ,  torrential ) =  0.0434782608696
+similarity( european ,  population ) =  0.047619047619
+similarity( european ,  national ) =  0.0416666666667
+similarity( european ,  regional ) =  0.0588235294118
+similarity( union ,  affiliate ) =  0.0384615384615
+similarity( tuesday ,  friday ) =  0.2
+similarity( approve ,  cause ) =  0.0714285714286
+similarity( approve ,  provide ) =  0.111111111111
+similarity( approve ,  food ) =  0.0555555555556
+similarity( approve ,  report ) =  0.0833333333333
+similarity( approve ,  list ) =  0.0666666666667
+similarity( currency ,  unit ) =  0.0434782608696
+similarity( currency ,  water ) =  0.0232558139535
+similarity( currency ,  channel ) =  0.0526315789474
+similarity( thousand ,  water ) =  0.0232558139535
+similarity( thousand ,  great ) =  0.04
+similarity( thousand ,  group ) =  0.05
+similarity( victim ,  blanket ) =  0.0588235294118
+similarity( victim ,  executive ) =  0.0555555555556
+similarity( victim ,  homeless ) =  0.0769230769231
+similarity( victim ,  affiliate ) =  0.04
+similarity( devastation ,  sanitation ) =  0.0625
+similarity( devastation ,  passage ) =  0.0526315789474
+similarity( devastation ,  population ) =  0.0666666666667
+similarity( cause ,  provide ) =  0.0588235294118
+similarity( cause ,  food ) =  0.0384615384615
+similarity( cause ,  destroy ) =  0.05
+similarity( cause ,  report ) =  0.05
+similarity( cause ,  force ) =  0.0285714285714
+similarity( cause ,  list ) =  0.0434782608696
+similarity( hurricane ,  percent ) =  0.030303030303
+similarity( hurricane ,  storm ) =  0.105263157895
+similarity( hurricane ,  emergency ) =  0.0333333333333
+similarity( america ,  nicaragua ) =  0.121951219512
+similarity( america ,  salvador ) =  0.102564102564
+similarity( america ,  honduras ) =  0.106382978723
+similarity( america ,  guatemala ) =  0.0980392156863
+similarity( america ,  full ) =  0.0243902439024
+similarity( eu ,  people ) =  0.0434782608696
+similarity( eu ,  commission ) =  0.0526315789474
+similarity( eu ,  committee ) =  0.0526315789474
+similarity( say ,  report ) =  0.0833333333333
+similarity( fund ,  use ) =  0.037037037037
+similarity( fund ,  work ) =  0.0416666666667
+similarity( use ,  care ) =  0.0333333333333
+similarity( use ,  home ) =  0.04
+similarity( use ,  list ) =  0.0333333333333
+similarity( use ,  work ) =  0.0909090909091
+similarity( provide ,  care ) =  0.0555555555556
+similarity( provide ,  food ) =  0.047619047619
+similarity( provide ,  die ) =  0.047619047619
+similarity( provide ,  region ) =  0.0833333333333
+similarity( provide ,  loss ) =  0.1
+similarity( provide ,  report ) =  0.0666666666667
+similarity( provide ,  list ) =  0.0555555555556
+similarity( care ,  region ) =  0.0555555555556
+similarity( care ,  loss ) =  0.0625
+similarity( care ,  homeless ) =  0.0625
+similarity( care ,  work ) =  0.037037037037
+similarity( food ,  report ) =  0.0416666666667
+similarity( food ,  list ) =  0.037037037037
+similarity( sanitation ,  passage ) =  0.047619047619
+similarity( sanitation ,  population ) =  0.0588235294118
+similarity( blanket ,  executive ) =  0.0588235294118
+similarity( blanket ,  affiliate ) =  0.0416666666667
+similarity( people ,  commission ) =  0.05
+similarity( people ,  committee ) =  0.05
+similarity( people ,  humanitarian ) =  0.047619047619
+similarity( home ,  estimate ) =  0.0588235294118
+similarity( home ,  late ) =  0.0434782608696
+similarity( destroy ,  force ) =  0.030303030303
+similarity( destroy ,  flee ) =  0.0833333333333
+similarity( torrential ,  national ) =  0.047619047619
+similarity( torrential ,  emergency ) =  0.047619047619
+similarity( nicaragua ,  salvador ) =  0.15
+similarity( nicaragua ,  honduras ) =  0.25
+similarity( nicaragua ,  guatemala ) =  0.21875
+similarity( salvador ,  honduras ) =  0.115384615385
+similarity( salvador ,  guatemala ) =  0.1
+similarity( honduras ,  guatemala ) =  0.184210526316
+similarity( guatemala ,  percent ) =  0.0285714285714
+similarity( passage ,  population ) =  0.05
+similarity( passage ,  province ) =  0.04
+similarity( executive ,  affiliate ) =  0.04
+similarity( commission ,  committee ) =  0.3125
+similarity( estimate ,  late ) =  0.0384615384615
+similarity( die ,  force ) =  0.025641025641
+similarity( die ,  dead ) =  0.0740740740741
+similarity( die ,  death ) =  0.0869565217391
+similarity( die ,  work ) =  0.0333333333333
+similarity( region ,  loss ) =  0.1
+similarity( great ,  alone ) =  0.047619047619
+similarity( great ,  group ) =  0.0434782608696
+similarity( report ,  list ) =  0.047619047619
+similarity( percent ,  emergency ) =  0.04
+similarity( population ,  province ) =  0.047619047619
+similarity( force ,  work ) =  0.0512820512821
+similarity( week ,  late ) =  0.0454545454545
+similarity( national ,  province ) =  0.0416666666667
+similarity( dead ,  death ) =  0.05
+similarity( homeless ,  alone ) =  0.0909090909091
+similarity( late ,  initial ) =  0.05
+text bias :  0.0 prestige : 0.0016077170418 >> out_deg : 13 >> in_deg : 13 
+
+weight ( text , loss ) =  0.111111111111 
+
+weight ( text , statement ) =  0.0434782608696 
+
+weight ( text , txttype ) =  0.0 
+
+weight ( text , provide ) =  0.0909090909091 
+
+weight ( text , doc ) =  0.0 
+
+weight ( text , region ) =  0.0909090909091 
+
+weight ( text , report ) =  0.0714285714286 
+
+weight ( text , ap ) =  0.0 
+
+weight ( text , say ) =  0.125 
+
+weight ( text , newswire ) =  0.0 
+
+weight ( text , belgium ) =  0.0 
+
+weight ( text , brussels ) =  0.0 
+
+weight ( text , care ) =  0.0588235294118 
+
+distribute bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( distribute , aid ) =  0.0 
+
+weight ( distribute , nicaragua ) =  0.0 
+
+weight ( distribute , salvador ) =  0.0 
+
+weight ( distribute , el ) =  0.0 
+
+report bias :  0.0 prestige : 0.0016077170418 >> out_deg : 20 >> in_deg : 20 
+
+weight ( report , province ) =  0.0 
+
+weight ( report , loss ) =  0.0 
+
+weight ( report , great ) =  0.0 
+
+weight ( report , death ) =  0.0 
+
+weight ( report , honduras ) =  0.0 
+
+weight ( report , san ) =  0.0 
+
+weight ( report , people ) =  0.0 
+
+weight ( report , stormrelated ) =  0.0 
+
+weight ( report , text ) =  0.0714285714286 
+
+weight ( report , list ) =  0.047619047619 
+
+weight ( report , say ) =  0.0833333333333 
+
+weight ( report , dead ) =  0.0 
+
+weight ( report , provide ) =  0.0666666666667 
+
+weight ( report , guatemala ) =  0.0 
+
+weight ( report , miguel ) =  0.0 
+
+weight ( report , food ) =  0.0416666666667 
+
+weight ( report , alone ) =  0.0 
+
+weight ( report , estimate ) =  0.0 
+
+weight ( report , approve ) =  0.0833333333333 
+
+weight ( report , cause ) =  0.05 
+
+committee bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( committee , salvador ) =  0.0 
+
+weight ( committee , emergency ) =  0.0 
+
+weight ( committee , people ) =  0.05 
+
+weight ( committee , national ) =  0.0 
+
+weight ( committee , list ) =  0.0 
+
+weight ( committee , dead ) =  0.0 
+
+weight ( committee , commission ) =  0.3125 
+
+weight ( committee , eu ) =  0.0526315789474 
+
+weight ( committee , miss ) =  0.0 
+
+follow bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( follow , dlrs ) =  0.0 
+
+weight ( follow , initial ) =  0.0 
+
+weight ( follow , late ) =  0.0 
+
+weight ( follow , ecu ) =  0.0 
+
+weight ( follow , eu ) =  0.0 
+
+weight ( follow , aid ) =  0.0 
+
+suffer bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( suffer , honduras ) =  0.0 
+
+weight ( suffer , salvador ) =  0.0 
+
+weight ( suffer , deadly ) =  0.0 
+
+weight ( suffer , passage ) =  0.0 
+
+weight ( suffer , guatemala ) =  0.0 
+
+weight ( suffer , mitchs ) =  0.0 
+
+petrucci bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( petrucci , use ) =  0.0 
+
+weight ( petrucci , pietro ) =  0.0 
+
+weight ( petrucci , spokesman ) =  0.0 
+
+weight ( petrucci , fund ) =  0.0 
+
+weight ( petrucci , say ) =  0.0 
+
+weight ( petrucci , eu ) =  0.0 
+
+apw199811030526 bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( apw199811030526 , doc ) =  0.0 
+
+weight ( apw199811030526 , docno ) =  0.0 
+
+weight ( apw199811030526 , doctype ) =  0.0 
+
+weight ( apw199811030526 , news ) =  0.0 
+
+passage bias :  0.0 prestige : 0.0016077170418 >> out_deg : 10 >> in_deg : 10 
+
+weight ( passage , province ) =  0.04 
+
+weight ( passage , devastation ) =  0.0526315789474 
+
+weight ( passage , sanitation ) =  0.047619047619 
+
+weight ( passage , deadly ) =  0.0 
+
+weight ( passage , executive ) =  0.0 
+
+weight ( passage , commission ) =  0.0 
+
+weight ( passage , eu ) =  0.0 
+
+weight ( passage , suffer ) =  0.0 
+
+weight ( passage , mitchs ) =  0.0 
+
+weight ( passage , population ) =  0.05 
+
+late bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( late , week ) =  0.0454545454545 
+
+weight ( late , initial ) =  0.05 
+
+weight ( late , follow ) =  0.0 
+
+weight ( late , home ) =  0.0434782608696 
+
+weight ( late , eu ) =  0.0 
+
+weight ( late , aid ) =  0.0 
+
+weight ( late , estimate ) =  0.0384615384615 
+
+executive bias :  0.25 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( executive , victim ) =  0.0555555555556 
+
+weight ( executive , deadly ) =  2.5e-05 
+
+weight ( executive , blanket ) =  0.0588235294118 
+
+weight ( executive , passage ) =  2.5e-05 
+
+weight ( executive , commission ) =  2.5e-05 
+
+weight ( executive , say ) =  2.5e-05 
+
+weight ( executive , affiliate ) =  0.04 
+
+weight ( executive , statement ) =  2.5e-05 
+
+weight ( executive , eu ) =  2.5e-05 
+
+emergency bias :  -0.625 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( emergency , el ) =  -6.25e-05 
+
+weight ( emergency , salvador ) =  -6.25e-05 
+
+weight ( emergency , hurricane ) =  0.0333333333333 
+
+weight ( emergency , national ) =  -6.25e-05 
+
+weight ( emergency , percent ) =  0.04 
+
+weight ( emergency , list ) =  -6.25e-05 
+
+weight ( emergency , dead ) =  -6.25e-05 
+
+weight ( emergency , committee ) =  -6.25e-05 
+
+weight ( emergency , torrential ) =  0.047619047619 
+
+loss bias :  -0.25 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( loss , great ) =  -2.5e-05 
+
+weight ( loss , honduras ) =  -2.5e-05 
+
+weight ( loss , provide ) =  0.1 
+
+weight ( loss , text ) =  0.111111111111 
+
+weight ( loss , region ) =  0.1 
+
+weight ( loss , report ) =  -2.5e-05 
+
+weight ( loss , estimate ) =  -2.5e-05 
+
+weight ( loss , care ) =  0.0625 
+
+food bias :  0.0 prestige : 0.0016077170418 >> out_deg : 11 >> in_deg : 11 
+
+weight ( food , sanitation ) =  0.0 
+
+weight ( food , provide ) =  0.047619047619 
+
+weight ( food , cause ) =  0.0384615384615 
+
+weight ( food , blanket ) =  0.0 
+
+weight ( food , list ) =  0.037037037037 
+
+weight ( food , water ) =  0.0 
+
+weight ( food , report ) =  0.0416666666667 
+
+weight ( food , basic ) =  0.0 
+
+weight ( food , medicine ) =  0.0 
+
+weight ( food , approve ) =  0.0555555555556 
+
+weight ( food , care ) =  0.0 
+
+blanket bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( blanket , sanitation ) =  0.0 
+
+weight ( blanket , people ) =  0.0 
+
+weight ( blanket , food ) =  0.0 
+
+weight ( blanket , thousand ) =  0.0 
+
+weight ( blanket , executive ) =  0.0588235294118 
+
+weight ( blanket , water ) =  0.0 
+
+weight ( blanket , affiliate ) =  0.0416666666667 
+
+weight ( blanket , victim ) =  0.0588235294118 
+
+weight ( blanket , home ) =  0.0 
+
+regional bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( regional , miguel ) =  0.0 
+
+weight ( regional , affiliate ) =  0.0 
+
+weight ( regional , san ) =  0.0 
+
+weight ( regional , european ) =  0.0588235294118 
+
+guatemala bias :  0.0 prestige : 0.0016077170418 >> out_deg : 12 >> in_deg : 12 
+
+weight ( guatemala , el ) =  0.0 
+
+weight ( guatemala , nicaragua ) =  0.21875 
+
+weight ( guatemala , death ) =  0.0 
+
+weight ( guatemala , honduras ) =  0.0 
+
+weight ( guatemala , salvador ) =  0.0 
+
+weight ( guatemala , stormrelated ) =  0.0 
+
+weight ( guatemala , deadly ) =  0.0 
+
+weight ( guatemala , percent ) =  0.0285714285714 
+
+weight ( guatemala , america ) =  0.0980392156863 
+
+weight ( guatemala , report ) =  0.0 
+
+weight ( guatemala , suffer ) =  0.0 
+
+weight ( guatemala , mitchs ) =  0.0 
+
+belgium bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( belgium , america ) =  0.0212765957447 
+
+weight ( belgium , txttype ) =  0.0 
+
+weight ( belgium , union ) =  0.0 
+
+weight ( belgium , text ) =  0.0 
+
+weight ( belgium , ap ) =  0.0 
+
+weight ( belgium , brussels ) =  0.0 
+
+weight ( belgium , european ) =  0.0333333333333 
+
+flee bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( flee , week ) =  0.0 
+
+weight ( flee , force ) =  0.0 
+
+weight ( flee , last ) =  0.0 
+
+weight ( flee , percent ) =  0.0 
+
+weight ( flee , destroy ) =  0.0833333333333 
+
+weight ( flee , home ) =  0.0 
+
+weight ( flee , population ) =  0.0 
+
+mudslide bias :  -0.25 prestige : 0.0016077170418 >> out_deg : 3 >> in_deg : 3 
+
+weight ( mudslide , destroy ) =  -2.5e-05 
+
+weight ( mudslide , torrential ) =  -2.5e-05 
+
+weight ( mudslide , rain ) =  -2.5e-05 
+
+die bias :  0.0 prestige : 0.0016077170418 >> out_deg : 12 >> in_deg : 12 
+
+weight ( die , death ) =  0.0869565217391 
+
+weight ( die , honduras ) =  0.0 
+
+weight ( die , people ) =  0.0 
+
+weight ( die , provide ) =  0.047619047619 
+
+weight ( die , region ) =  0.0 
+
+weight ( die , work ) =  0.0333333333333 
+
+weight ( die , percent ) =  0.0 
+
+weight ( die , dead ) =  0.0740740740741 
+
+weight ( die , force ) =  0.025641025641 
+
+weight ( die , estimate ) =  0.0 
+
+weight ( die , tuesday ) =  0.0 
+
+weight ( die , population ) =  0.0 
+
+list bias :  0.0 prestige : 0.0016077170418 >> out_deg : 12 >> in_deg : 12 
+
+weight ( list , use ) =  0.0333333333333 
+
+weight ( list , cause ) =  0.0434782608696 
+
+weight ( list , committee ) =  0.0 
+
+weight ( list , emergency ) =  0.0 
+
+weight ( list , provide ) =  0.0555555555556 
+
+weight ( list , approve ) =  0.0666666666667 
+
+weight ( list , national ) =  0.0 
+
+weight ( list , dead ) =  0.0 
+
+weight ( list , food ) =  0.037037037037 
+
+weight ( list , homeless ) =  0.0 
+
+weight ( list , report ) =  0.047619047619 
+
+weight ( list , miss ) =  0.0 
+
+affiliate bias :  0.0 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( affiliate , province ) =  0.0 
+
+weight ( affiliate , executive ) =  0.04 
+
+weight ( affiliate , san ) =  0.0 
+
+weight ( affiliate , union ) =  0.0384615384615 
+
+weight ( affiliate , blanket ) =  0.0416666666667 
+
+weight ( affiliate , regional ) =  0.0 
+
+weight ( affiliate , miguel ) =  0.0 
+
+weight ( affiliate , victim ) =  0.04 
+
+el bias :  0.0 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( el , honduras ) =  0.0 
+
+weight ( el , emergency ) =  0.0 
+
+weight ( el , salvador ) =  0.0 
+
+weight ( el , national ) =  0.0 
+
+weight ( el , distribute ) =  0.0 
+
+weight ( el , guatemala ) =  0.0 
+
+weight ( el , aid ) =  0.0 
+
+weight ( el , nicaragua ) =  0.0 
+
+work bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( work , use ) =  0.0909090909091 
+
+weight ( work , group ) =  0.0 
+
+weight ( work , die ) =  0.0333333333333 
+
+weight ( work , region ) =  0.0 
+
+weight ( work , humanitarian ) =  0.0 
+
+weight ( work , fund ) =  0.0416666666667 
+
+weight ( work , force ) =  0.0512820512821 
+
+weight ( work , channel ) =  0.0 
+
+weight ( work , care ) =  0.037037037037 
+
+force bias :  0.375 prestige : 0.0016077170418 >> out_deg : 11 >> in_deg : 11 
+
+weight ( force , last ) =  3.75e-05 
+
+weight ( force , die ) =  0.025641025641 
+
+weight ( force , people ) =  3.75e-05 
+
+weight ( force , cause ) =  0.0285714285714 
+
+weight ( force , work ) =  0.0512820512821 
+
+weight ( force , percent ) =  3.75e-05 
+
+weight ( force , destroy ) =  0.030303030303 
+
+weight ( force , home ) =  3.75e-05 
+
+weight ( force , brussels ) =  0.0263157894737 
+
+weight ( force , flee ) =  3.75e-05 
+
+weight ( force , population ) =  3.75e-05 
+
+victim bias :  0.0 prestige : 0.0016077170418 >> out_deg : 10 >> in_deg : 10 
+
+weight ( victim , dlrs ) =  0.0 
+
+weight ( victim , devastation ) =  0.0 
+
+weight ( victim , thousand ) =  0.0 
+
+weight ( victim , executive ) =  0.0555555555556 
+
+weight ( victim , hurricane ) =  0.0 
+
+weight ( victim , affiliate ) =  0.04 
+
+weight ( victim , homeless ) =  0.0769230769231 
+
+weight ( victim , aid ) =  0.0 
+
+weight ( victim , cause ) =  0.0 
+
+weight ( victim , blanket ) =  0.0588235294118 
+
+people bias :  0.0 prestige : 0.0016077170418 >> out_deg : 21 >> in_deg : 21 
+
+weight ( people , force ) =  0.0 
+
+weight ( people , eu ) =  0.0434782608696 
+
+weight ( people , honduras ) =  0.0 
+
+weight ( people , sanitation ) =  0.0 
+
+weight ( people , people ) =  0.0 
+
+weight ( people , estimate ) =  0.0 
+
+weight ( people , die ) =  0.0 
+
+weight ( people , blanket ) =  0.0 
+
+weight ( people , humanitarian ) =  0.047619047619 
+
+weight ( people , percent ) =  0.0 
+
+weight ( people , commission ) =  0.05 
+
+weight ( people , report ) =  0.0 
+
+weight ( people , tuesday ) =  0.0 
+
+weight ( people , committee ) =  0.05 
+
+weight ( people , destroy ) =  0.0 
+
+weight ( people , region ) =  0.0 
+
+weight ( people , home ) =  0.0 
+
+weight ( people , torrential ) =  0.0 
+
+weight ( people , america ) =  0.0 
+
+weight ( people , thousand ) =  0.0 
+
+weight ( people , population ) =  0.0 
+
+national bias :  0.0 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( national , province ) =  0.0416666666667 
+
+weight ( national , el ) =  0.0 
+
+weight ( national , salvador ) =  0.0 
+
+weight ( national , emergency ) =  0.0 
+
+weight ( national , list ) =  0.0 
+
+weight ( national , committee ) =  0.0 
+
+weight ( national , torrential ) =  0.047619047619 
+
+weight ( national , european ) =  0.0416666666667 
+
+dead bias :  0.0 prestige : 0.0016077170418 >> out_deg : 11 >> in_deg : 11 
+
+weight ( dead , province ) =  0.0 
+
+weight ( dead , death ) =  0.05 
+
+weight ( dead , committee ) =  -7.5e-05 
+
+weight ( dead , emergency ) =  -7.5e-05 
+
+weight ( dead , die ) =  0.0740740740741 
+
+weight ( dead , list ) =  -7.5e-05 
+
+weight ( dead , alone ) =  0.0 
+
+weight ( dead , miguel ) =  0.0 
+
+weight ( dead , homeless ) =  -7.5e-05 
+
+weight ( dead , report ) =  0.0 
+
+weight ( dead , miss ) =  -7.5e-05 
+
+group bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( group , dlrs ) =  0.0 
+
+weight ( group , great ) =  0.0434782608696 
+
+weight ( group , humanitarian ) =  0.0 
+
+weight ( group , region ) =  0.0 
+
+weight ( group , work ) =  0.0 
+
+weight ( group , thousand ) =  0.05 
+
+weight ( group , channel ) =  0.0 
+
+eu bias :  0.0 prestige : 0.0016077170418 >> out_deg : 18 >> in_deg : 18 
+
+weight ( eu , late ) =  0.0 
+
+weight ( eu , petrucci ) =  0.0 
+
+weight ( eu , friday ) =  0.0 
+
+weight ( eu , commission ) =  0.0526315789474 
+
+weight ( eu , deadly ) =  0.0 
+
+weight ( eu , region ) =  0.0 
+
+weight ( eu , executive ) =  0.0 
+
+weight ( eu , people ) =  0.0434782608696 
+
+weight ( eu , passage ) =  0.0 
+
+weight ( eu , spokesman ) =  0.0 
+
+weight ( eu , pietro ) =  0.0 
+
+weight ( eu , say ) =  0.0 
+
+weight ( eu , approve ) =  0.0 
+
+weight ( eu , committee ) =  0.0526315789474 
+
+weight ( eu , follow ) =  0.0 
+
+weight ( eu , aid ) =  0.0 
+
+weight ( eu , mitchs ) =  0.0 
+
+weight ( eu , initial ) =  0.0 
+
+home bias :  0.0 prestige : 0.0016077170418 >> out_deg : 15 >> in_deg : 15 
+
+weight ( home , week ) =  0.0 
+
+weight ( home , use ) =  0.04 
+
+weight ( home , force ) =  0.0 
+
+weight ( home , last ) =  0.0 
+
+weight ( home , people ) =  0.0 
+
+weight ( home , estimate ) =  0.0588235294118 
+
+weight ( home , blanket ) =  0.0 
+
+weight ( home , rain ) =  0.0 
+
+weight ( home , late ) =  0.0434782608696 
+
+weight ( home , storm ) =  0.0 
+
+weight ( home , destroy ) =  0.0 
+
+weight ( home , torrential ) =  0.0 
+
+weight ( home , flee ) =  0.0 
+
+weight ( home , thousand ) =  0.0 
+
+weight ( home , population ) =  0.0 
+
+docno bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( docno , doc ) =  0.0 
+
+weight ( docno , docno ) =  0.0 
+
+weight ( docno , apw199811030526 ) =  0.0 
+
+weight ( docno , doctype ) =  0.0 
+
+weight ( docno , news ) =  0.0 
+
+nicaragua bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( nicaragua , el ) =  0.0 
+
+weight ( nicaragua , honduras ) =  0.25 
+
+weight ( nicaragua , salvador ) =  0.15 
+
+weight ( nicaragua , distribute ) =  0.0 
+
+weight ( nicaragua , guatemala ) =  0.21875 
+
+weight ( nicaragua , aid ) =  0.0 
+
+weight ( nicaragua , america ) =  0.121951219512 
+
+mitch bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( mitch , devastation ) =  0.0 
+
+weight ( mitch , cause ) =  0.0 
+
+weight ( mitch , hurricane ) =  0.0 
+
+weight ( mitch , central ) =  0.0 
+
+weight ( mitch , america ) =  0.0 
+
+hurricane bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( hurricane , devastation ) =  0.0 
+
+weight ( hurricane , emergency ) =  0.0333333333333 
+
+weight ( hurricane , central ) =  0.0 
+
+weight ( hurricane , storm ) =  0.105263157895 
+
+weight ( hurricane , mitch ) =  0.0 
+
+weight ( hurricane , percent ) =  0.030303030303 
+
+weight ( hurricane , victim ) =  0.0 
+
+weight ( hurricane , america ) =  0.0 
+
+weight ( hurricane , cause ) =  0.0 
+
+spokesman bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( spokesman , eu ) =  0.0 
+
+weight ( spokesman , pietro ) =  0.0 
+
+weight ( spokesman , say ) =  0.0 
+
+weight ( spokesman , petrucci ) =  0.0 
+
+medicine bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( medicine , sanitation ) =  0.0 
+
+weight ( medicine , provide ) =  0.0 
+
+weight ( medicine , doc ) =  0.0714285714286 
+
+weight ( medicine , water ) =  0.0 
+
+weight ( medicine , food ) =  0.0 
+
+weight ( medicine , basic ) =  0.0 
+
+weight ( medicine , care ) =  0.0 
+
+cause bias :  0.0 prestige : 0.0016077170418 >> out_deg : 13 >> in_deg : 13 
+
+weight ( cause , devastation ) =  0.0 
+
+weight ( cause , force ) =  0.0285714285714 
+
+weight ( cause , central ) =  0.0 
+
+weight ( cause , mitch ) =  0.0 
+
+weight ( cause , provide ) =  0.0588235294118 
+
+weight ( cause , list ) =  0.0434782608696 
+
+weight ( cause , thousand ) =  0.0 
+
+weight ( cause , hurricane ) =  0.0 
+
+weight ( cause , food ) =  0.0384615384615 
+
+weight ( cause , victim ) =  0.0 
+
+weight ( cause , report ) =  0.05 
+
+weight ( cause , destroy ) =  0.05 
+
+weight ( cause , approve ) =  0.0714285714286 
+
+full bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( full , dlrs ) =  0.0 
+
+weight ( full , ecu ) =  0.0 
+
+weight ( full , america ) =  0.0243902439024 
+
+weight ( full , channel ) =  0.0 
+
+friday bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( friday , eu ) =  0.0 
+
+weight ( friday , region ) =  0.0 
+
+weight ( friday , approve ) =  0.0 
+
+weight ( friday , tuesday ) =  0.2 
+
+water bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( water , sanitation ) =  0.0 
+
+weight ( water , food ) =  0.0 
+
+weight ( water , blanket ) =  0.0 
+
+weight ( water , currency ) =  0.0232558139535 
+
+weight ( water , medicine ) =  0.0 
+
+weight ( water , thousand ) =  0.0 
+
+weight ( water , care ) =  0.0 
+
+pietro bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( pietro , eu ) =  0.0 
+
+weight ( pietro , spokesman ) =  0.0 
+
+weight ( pietro , say ) =  0.0 
+
+weight ( pietro , petrucci ) =  0.0 
+
+weight ( pietro , fund ) =  0.0 
+
+ecu bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( ecu , dlrs ) =  0.0 
+
+weight ( ecu , full ) =  0.0 
+
+weight ( ecu , initial ) =  0.0 
+
+weight ( ecu , humanitarian ) =  0.0 
+
+weight ( ecu , follow ) =  0.0 
+
+weight ( ecu , aid ) =  0.0 
+
+weight ( ecu , channel ) =  0.0 
+
+death bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( death , report ) =  0.0 
+
+weight ( death , stormrelated ) =  0.0 
+
+weight ( death , guatemala ) =  0.0 
+
+weight ( death , dead ) =  0.05 
+
+weight ( death , die ) =  0.0869565217391 
+
+alone bias :  0.25 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( alone , province ) =  2.5e-05 
+
+weight ( alone , report ) =  2.5e-05 
+
+weight ( alone , great ) =  0.047619047619 
+
+weight ( alone , homeless ) =  0.0909090909091 
+
+weight ( alone , dead ) =  2.5e-05 
+
+news bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( news , docno ) =  0.0 
+
+weight ( news , apw199811030526 ) =  0.0 
+
+weight ( news , doctype ) =  0.0 
+
+weight ( news , newswire ) =  0.0 
+
+weight ( news , txttype ) =  0.0 
+
+estimate bias :  0.0 prestige : 0.0016077170418 >> out_deg : 11 >> in_deg : 11 
+
+weight ( estimate , loss ) =  0.0 
+
+weight ( estimate , central ) =  0.0 
+
+weight ( estimate , people ) =  0.0 
+
+weight ( estimate , die ) =  0.0 
+
+weight ( estimate , tuesday ) =  0.0 
+
+weight ( estimate , official ) =  0.0 
+
+weight ( estimate , late ) =  0.0384615384615 
+
+weight ( estimate , home ) =  0.0588235294118 
+
+weight ( estimate , report ) =  0.0 
+
+weight ( estimate , honduras ) =  0.0 
+
+weight ( estimate , america ) =  0.0 
+
+mitchs bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( mitchs , honduras ) =  0.0 
+
+weight ( mitchs , deadly ) =  0.0 
+
+weight ( mitchs , passage ) =  0.0 
+
+weight ( mitchs , guatemala ) =  0.0 
+
+weight ( mitchs , eu ) =  0.0 
+
+weight ( mitchs , suffer ) =  0.0 
+
+care bias :  0.0 prestige : 0.0016077170418 >> out_deg : 11 >> in_deg : 11 
+
+weight ( care , loss ) =  0.0625 
+
+weight ( care , use ) =  0.0 
+
+weight ( care , provide ) =  0.0 
+
+weight ( care , text ) =  0.0588235294118 
+
+weight ( care , region ) =  0.0555555555556 
+
+weight ( care , work ) =  0.037037037037 
+
+weight ( care , water ) =  0.0 
+
+weight ( care , food ) =  0.0 
+
+weight ( care , homeless ) =  0.0625 
+
+weight ( care , basic ) =  0.0 
+
+weight ( care , medicine ) =  0.0 
+
+dlrs bias :  0.0 prestige : 0.0016077170418 >> out_deg : 13 >> in_deg : 13 
+
+weight ( dlrs , full ) =  0.0 
+
+weight ( dlrs , group ) =  0.0 
+
+weight ( dlrs , thousand ) =  0.0 
+
+weight ( dlrs , initial ) =  0.0 
+
+weight ( dlrs , humanitarian ) =  0.0 
+
+weight ( dlrs , currency ) =  0.0 
+
+weight ( dlrs , ecu ) =  0.0 
+
+weight ( dlrs , channel ) =  0.0 
+
+weight ( dlrs , victim ) =  0.0 
+
+weight ( dlrs , follow ) =  0.0 
+
+weight ( dlrs , aid ) =  0.0 
+
+weight ( dlrs , unit ) =  0.0 
+
+weight ( dlrs , european ) =  0.0 
+
+great bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( great , loss ) =  0.0 
+
+weight ( great , honduras ) =  0.0 
+
+weight ( great , thousand ) =  0.04 
+
+weight ( great , alone ) =  0.047619047619 
+
+weight ( great , report ) =  0.0 
+
+weight ( great , group ) =  0.0434782608696 
+
+central bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( central , mitch ) =  0.0 
+
+weight ( central , tuesday ) =  0.0 
+
+weight ( central , official ) =  0.0 
+
+weight ( central , hurricane ) =  0.0 
+
+weight ( central , estimate ) =  0.0 
+
+weight ( central , america ) =  0.0 
+
+weight ( central , cause ) =  0.0 
+
+sanitation bias :  0.625 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( sanitation , devastation ) =  0.0625 
+
+weight ( sanitation , people ) =  6.25e-05 
+
+weight ( sanitation , food ) =  6.25e-05 
+
+weight ( sanitation , blanket ) =  6.25e-05 
+
+weight ( sanitation , passage ) =  0.047619047619 
+
+weight ( sanitation , water ) =  6.25e-05 
+
+weight ( sanitation , medicine ) =  6.25e-05 
+
+weight ( sanitation , thousand ) =  6.25e-05 
+
+weight ( sanitation , population ) =  0.0588235294118 
+
+region bias :  0.0 prestige : 0.0016077170418 >> out_deg : 13 >> in_deg : 13 
+
+weight ( region , loss ) =  0.1 
+
+weight ( region , humanitarian ) =  0.0 
+
+weight ( region , group ) =  0.0 
+
+weight ( region , people ) =  0.0 
+
+weight ( region , provide ) =  0.0833333333333 
+
+weight ( region , die ) =  0.0 
+
+weight ( region , tuesday ) =  0.0 
+
+weight ( region , friday ) =  0.0 
+
+weight ( region , text ) =  0.0909090909091 
+
+weight ( region , eu ) =  0.0 
+
+weight ( region , work ) =  0.0 
+
+weight ( region , approve ) =  0.0 
+
+weight ( region , care ) =  0.0555555555556 
+
+torrential bias :  0.0 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( torrential , mudslide ) =  0.0 
+
+weight ( torrential , emergency ) =  0.047619047619 
+
+weight ( torrential , people ) =  0.0 
+
+weight ( torrential , national ) =  0.047619047619 
+
+weight ( torrential , rain ) =  0.0 
+
+weight ( torrential , home ) =  0.0 
+
+weight ( torrential , destroy ) =  0.0 
+
+weight ( torrential , european ) =  0.0434782608696 
+
+approve bias :  0.0 prestige : 0.0016077170418 >> out_deg : 13 >> in_deg : 13 
+
+weight ( approve , provide ) =  0.111111111111 
+
+weight ( approve , union ) =  0.0 
+
+weight ( approve , tuesday ) =  0.0 
+
+weight ( approve , friday ) =  0.0 
+
+weight ( approve , list ) =  0.0666666666667 
+
+weight ( approve , currency ) =  0.0 
+
+weight ( approve , report ) =  0.0833333333333 
+
+weight ( approve , food ) =  0.0555555555556 
+
+weight ( approve , eu ) =  0.0 
+
+weight ( approve , cause ) =  0.0714285714286 
+
+weight ( approve , region ) =  0.0 
+
+weight ( approve , unit ) =  0.0 
+
+weight ( approve , european ) =  0.0 
+
+tuesday bias :  0.0 prestige : 0.0016077170418 >> out_deg : 12 >> in_deg : 12 
+
+weight ( tuesday , friday ) =  0.2 
+
+weight ( tuesday , central ) =  0.0 
+
+weight ( tuesday , currency ) =  0.0 
+
+weight ( tuesday , union ) =  0.0 
+
+weight ( tuesday , die ) =  0.0 
+
+weight ( tuesday , region ) =  0.0 
+
+weight ( tuesday , people ) =  0.0 
+
+weight ( tuesday , ap ) =  0.0 
+
+weight ( tuesday , estimate ) =  0.0 
+
+weight ( tuesday , america ) =  0.0 
+
+weight ( tuesday , approve ) =  0.0 
+
+weight ( tuesday , european ) =  0.0 
+
+homeless bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( homeless , list ) =  0.0 
+
+weight ( homeless , dead ) =  0.0 
+
+weight ( homeless , victim ) =  0.0769230769231 
+
+weight ( homeless , alone ) =  0.0909090909091 
+
+weight ( homeless , miss ) =  0.0 
+
+weight ( homeless , care ) =  0.0625 
+
+honduras bias :  0.0 prestige : 0.0016077170418 >> out_deg : 13 >> in_deg : 13 
+
+weight ( honduras , el ) =  0.0 
+
+weight ( honduras , great ) =  0.0 
+
+weight ( honduras , america ) =  0.106382978723 
+
+weight ( honduras , salvador ) =  0.0 
+
+weight ( honduras , loss ) =  0.0 
+
+weight ( honduras , mitchs ) =  0.0 
+
+weight ( honduras , people ) =  0.0 
+
+weight ( honduras , guatemala ) =  0.184210526316 
+
+weight ( honduras , die ) =  0.0 
+
+weight ( honduras , report ) =  0.0 
+
+weight ( honduras , estimate ) =  0.0 
+
+weight ( honduras , suffer ) =  0.0 
+
+weight ( honduras , nicaragua ) =  0.0 
+
+miss bias :  -0.25 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( miss , homeless ) =  -2.5e-05 
+
+weight ( miss , list ) =  -2.5e-05 
+
+weight ( miss , dead ) =  -2.5e-05 
+
+weight ( miss , committee ) =  -2.5e-05 
+
+unit bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( unit , dlrs ) =  0.0 
+
+weight ( unit , thousand ) =  0.0 
+
+weight ( unit , currency ) =  0.0 
+
+weight ( unit , aid ) =  0.0 
+
+weight ( unit , approve ) =  0.0 
+
+weight ( unit , european ) =  0.0 
+
+devastation bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( devastation , sanitation ) =  0.0625 
+
+weight ( devastation , mitch ) =  0.0 
+
+weight ( devastation , thousand ) =  0.0 
+
+weight ( devastation , hurricane ) =  0.0 
+
+weight ( devastation , passage ) =  0.0526315789474 
+
+weight ( devastation , victim ) =  0.0 
+
+weight ( devastation , aid ) =  0.0 
+
+weight ( devastation , cause ) =  0.0 
+
+weight ( devastation , population ) =  0.0666666666667 
+
+use bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( use , petrucci ) =  0.0 
+
+weight ( use , provide ) =  0.0 
+
+weight ( use , work ) =  0.0909090909091 
+
+weight ( use , list ) =  0.0333333333333 
+
+weight ( use , fund ) =  0.0 
+
+weight ( use , say ) =  0.0 
+
+weight ( use , basic ) =  0.0 
+
+weight ( use , home ) =  0.04 
+
+weight ( use , care ) =  0.0333333333333 
+
+brussels bias :  0.0 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( brussels , force ) =  0.0263157894737 
+
+weight ( brussels , txttype ) =  0.0 
+
+weight ( brussels , text ) =  0.0 
+
+weight ( brussels , ap ) =  0.0 
+
+weight ( brussels , newswire ) =  0.0 
+
+weight ( brussels , belgium ) =  0.129032258065 
+
+weight ( brussels , america ) =  0.0227272727273 
+
+weight ( brussels , european ) =  0.0 
+
+province bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( province , san ) =  0.0 
+
+weight ( province , national ) =  0.0416666666667 
+
+weight ( province , dead ) =  0.0 
+
+weight ( province , passage ) =  0.04 
+
+weight ( province , alone ) =  0.0 
+
+weight ( province , miguel ) =  0.0 
+
+weight ( province , affiliate ) =  0.0 
+
+weight ( province , report ) =  0.0 
+
+weight ( province , population ) =  0.047619047619 
+
+txttype bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( txttype , txttype ) =  0.0 
+
+weight ( txttype , text ) =  0.0 
+
+weight ( txttype , doctype ) =  0.0 
+
+weight ( txttype , newswire ) =  0.0 
+
+weight ( txttype , belgium ) =  0.0 
+
+weight ( txttype , news ) =  0.0 
+
+weight ( txttype , brussels ) =  0.0 
+
+union bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( union , tuesday ) =  0.0 
+
+weight ( union , ap ) =  0.0 
+
+weight ( union , affiliate ) =  0.0384615384615 
+
+weight ( union , belgium ) =  0.0 
+
+weight ( union , approve ) =  0.0 
+
+weight ( union , european ) =  0.0 
+
+initial bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( initial , dlrs ) =  0.0 
+
+weight ( initial , late ) =  0.05 
+
+weight ( initial , ecu ) =  0.0 
+
+weight ( initial , follow ) =  0.0 
+
+weight ( initial , eu ) =  0.0 
+
+weight ( initial , aid ) =  0.0 
+
+commission bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( commission , committee ) =  0.3125 
+
+weight ( commission , people ) =  0.05 
+
+weight ( commission , executive ) =  0.0 
+
+weight ( commission , passage ) =  0.0 
+
+weight ( commission , say ) =  0.0 
+
+weight ( commission , statement ) =  0.0 
+
+weight ( commission , eu ) =  0.0 
+
+statement bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( statement , commission ) =  0.0 
+
+weight ( statement , say ) =  0.0 
+
+weight ( statement , executive ) =  0.0 
+
+weight ( statement , text ) =  0.0434782608696 
+
+basic bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( basic , use ) =  0.0 
+
+weight ( basic , provide ) =  0.0 
+
+weight ( basic , fund ) =  0.0 
+
+weight ( basic , food ) =  0.0 
+
+weight ( basic , medicine ) =  0.0 
+
+weight ( basic , care ) =  0.0 
+
+storm bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( storm , week ) =  0.0 
+
+weight ( storm , home ) =  0.0 
+
+weight ( storm , hurricane ) =  0.105263157895 
+
+weight ( storm , last ) =  0.0 
+
+thousand bias :  0.0 prestige : 0.0016077170418 >> out_deg : 14 >> in_deg : 14 
+
+weight ( thousand , dlrs ) =  0.0 
+
+weight ( thousand , great ) =  0.04 
+
+weight ( thousand , group ) =  0.05 
+
+weight ( thousand , sanitation ) =  0.0 
+
+weight ( thousand , devastation ) =  0.0 
+
+weight ( thousand , blanket ) =  0.0 
+
+weight ( thousand , people ) =  0.0 
+
+weight ( thousand , water ) =  0.0232558139535 
+
+weight ( thousand , destroy ) =  0.0 
+
+weight ( thousand , victim ) =  0.0 
+
+weight ( thousand , home ) =  0.0 
+
+weight ( thousand , aid ) =  0.0 
+
+weight ( thousand , cause ) =  0.0 
+
+weight ( thousand , unit ) =  0.0 
+
+fund bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( fund , use ) =  0.037037037037 
+
+weight ( fund , petrucci ) =  0.0 
+
+weight ( fund , provide ) =  0.0 
+
+weight ( fund , work ) =  0.0416666666667 
+
+weight ( fund , pietro ) =  0.0 
+
+weight ( fund , say ) =  0.0 
+
+weight ( fund , basic ) =  0.0 
+
+newswire bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( newswire , news ) =  0.0 
+
+weight ( newswire , brussels ) =  0.0 
+
+weight ( newswire , text ) =  0.0 
+
+weight ( newswire , doctype ) =  0.0 
+
+weight ( newswire , txttype ) =  0.0 
+
+last bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( last , flee ) =  0.0 
+
+weight ( last , home ) =  0.0 
+
+weight ( last , force ) =  0.0 
+
+weight ( last , week ) =  0.0 
+
+weight ( last , storm ) =  0.0 
+
+population bias :  0.0 prestige : 0.0016077170418 >> out_deg : 11 >> in_deg : 11 
+
+weight ( population , province ) =  0.047619047619 
+
+weight ( population , devastation ) =  0.0666666666667 
+
+weight ( population , force ) =  0.0 
+
+weight ( population , sanitation ) =  0.0588235294118 
+
+weight ( population , people ) =  0.0 
+
+weight ( population , die ) =  0.0 
+
+weight ( population , percent ) =  0.0 
+
+weight ( population , passage ) =  0.05 
+
+weight ( population , home ) =  0.0 
+
+weight ( population , flee ) =  0.0 
+
+weight ( population , european ) =  0.047619047619 
+
+salvador bias :  0.0 prestige : 0.0016077170418 >> out_deg : 10 >> in_deg : 10 
+
+weight ( salvador , el ) =  0.0 
+
+weight ( salvador , america ) =  0.102564102564 
+
+weight ( salvador , honduras ) =  0.115384615385 
+
+weight ( salvador , emergency ) =  0.0 
+
+weight ( salvador , national ) =  0.0 
+
+weight ( salvador , distribute ) =  0.0 
+
+weight ( salvador , guatemala ) =  0.1 
+
+weight ( salvador , committee ) =  0.0 
+
+weight ( salvador , suffer ) =  0.0 
+
+weight ( salvador , nicaragua ) =  0.0 
+
+ap bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( ap , union ) =  0.0 
+
+weight ( ap , text ) =  0.0 
+
+weight ( ap , tuesday ) =  0.0 
+
+weight ( ap , belgium ) =  0.0 
+
+weight ( ap , brussels ) =  0.0 
+
+weight ( ap , european ) =  0.0 
+
+official bias :  0.0 prestige : 0.0016077170418 >> out_deg : 3 >> in_deg : 3 
+
+weight ( official , estimate ) =  0.0 
+
+weight ( official , america ) =  0.0 
+
+weight ( official , central ) =  0.0 
+
+doctype bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( doctype , apw199811030526 ) =  0.0 
+
+weight ( doctype , txttype ) =  0.0 
+
+weight ( doctype , doctype ) =  0.0 
+
+weight ( doctype , newswire ) =  0.0 
+
+weight ( doctype , news ) =  0.0 
+
+weight ( doctype , docno ) =  0.0 
+
+miguel bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( miguel , province ) =  0.0 
+
+weight ( miguel , san ) =  0.0 
+
+weight ( miguel , regional ) =  0.0 
+
+weight ( miguel , dead ) =  0.0 
+
+weight ( miguel , affiliate ) =  0.0 
+
+weight ( miguel , report ) =  0.0 
+
+aid bias :  -0.25 prestige : 0.0016077170418 >> out_deg : 14 >> in_deg : 14 
+
+weight ( aid , devastation ) =  -2.5e-05 
+
+weight ( aid , initial ) =  -2.5e-05 
+
+weight ( aid , dlrs ) =  -2.5e-05 
+
+weight ( aid , thousand ) =  -2.5e-05 
+
+weight ( aid , distribute ) =  -2.5e-05 
+
+weight ( aid , late ) =  -2.5e-05 
+
+weight ( aid , currency ) =  -2.5e-05 
+
+weight ( aid , ecu ) =  -2.5e-05 
+
+weight ( aid , victim ) =  -2.5e-05 
+
+weight ( aid , el ) =  -2.5e-05 
+
+weight ( aid , follow ) =  -2.5e-05 
+
+weight ( aid , nicaragua ) =  -2.5e-05 
+
+weight ( aid , eu ) =  -2.5e-05 
+
+weight ( aid , unit ) =  -2.5e-05 
+
+san bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( san , province ) =  0.0 
+
+weight ( san , report ) =  0.0 
+
+weight ( san , miguel ) =  0.0 
+
+weight ( san , regional ) =  0.0 
+
+weight ( san , affiliate ) =  0.0 
+
+currency bias :  0.0 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( currency , dlrs ) =  0.0 
+
+weight ( currency , tuesday ) =  0.0 
+
+weight ( currency , water ) =  0.0232558139535 
+
+weight ( currency , channel ) =  0.0526315789474 
+
+weight ( currency , aid ) =  0.0 
+
+weight ( currency , approve ) =  0.0 
+
+weight ( currency , unit ) =  0.0434782608696 
+
+weight ( currency , european ) =  0.0 
+
+say bias :  0.0 prestige : 0.0016077170418 >> out_deg : 12 >> in_deg : 12 
+
+weight ( say , use ) =  0.0 
+
+weight ( say , petrucci ) =  0.0 
+
+weight ( say , fund ) =  0.0 
+
+weight ( say , provide ) =  0.0 
+
+weight ( say , text ) =  0.125 
+
+weight ( say , executive ) =  0.0 
+
+weight ( say , commission ) =  0.0 
+
+weight ( say , spokesman ) =  0.0 
+
+weight ( say , pietro ) =  0.0 
+
+weight ( say , report ) =  0.0833333333333 
+
+weight ( say , statement ) =  0.0 
+
+weight ( say , eu ) =  0.0 
+
+provide bias :  0.0 prestige : 0.0016077170418 >> out_deg : 15 >> in_deg : 15 
+
+weight ( provide , loss ) =  0.1 
+
+weight ( provide , use ) =  0.0 
+
+weight ( provide , cause ) =  0.0588235294118 
+
+weight ( provide , die ) =  0.047619047619 
+
+weight ( provide , food ) =  0.047619047619 
+
+weight ( provide , text ) =  0.0909090909091 
+
+weight ( provide , region ) =  0.0833333333333 
+
+weight ( provide , list ) =  0.0555555555556 
+
+weight ( provide , report ) =  0.0666666666667 
+
+weight ( provide , fund ) =  0.0 
+
+weight ( provide , say ) =  0.0 
+
+weight ( provide , basic ) =  0.0 
+
+weight ( provide , medicine ) =  0.0 
+
+weight ( provide , approve ) =  0.111111111111 
+
+weight ( provide , care ) =  0.0555555555556 
+
+deadly bias :  0.0 prestige : 0.0016077170418 >> out_deg : 6 >> in_deg : 6 
+
+weight ( deadly , executive ) =  0.0 
+
+weight ( deadly , passage ) =  0.0 
+
+weight ( deadly , guatemala ) =  0.0 
+
+weight ( deadly , eu ) =  0.0 
+
+weight ( deadly , suffer ) =  0.0 
+
+weight ( deadly , mitchs ) =  0.0 
+
+percent bias :  0.0 prestige : 0.0016077170418 >> out_deg : 8 >> in_deg : 8 
+
+weight ( percent , force ) =  0.0 
+
+weight ( percent , emergency ) =  0.04 
+
+weight ( percent , people ) =  0.0 
+
+weight ( percent , die ) =  0.0 
+
+weight ( percent , hurricane ) =  0.030303030303 
+
+weight ( percent , guatemala ) =  0.0285714285714 
+
+weight ( percent , flee ) =  0.0 
+
+weight ( percent , population ) =  0.0 
+
+stormrelated bias :  0.0 prestige : 0.0016077170418 >> out_deg : 3 >> in_deg : 3 
+
+weight ( stormrelated , report ) =  0.0 
+
+weight ( stormrelated , guatemala ) =  0.0 
+
+weight ( stormrelated , death ) =  0.0 
+
+destroy bias :  0.0 prestige : 0.0016077170418 >> out_deg : 9 >> in_deg : 9 
+
+weight ( destroy , mudslide ) =  0.0 
+
+weight ( destroy , force ) =  0.030303030303 
+
+weight ( destroy , people ) =  0.0 
+
+weight ( destroy , flee ) =  0.0833333333333 
+
+weight ( destroy , thousand ) =  0.0 
+
+weight ( destroy , rain ) =  0.0 
+
+weight ( destroy , home ) =  0.0 
+
+weight ( destroy , torrential ) =  0.0 
+
+weight ( destroy , cause ) =  0.05 
+
+channel bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( channel , dlrs ) =  0.0 
+
+weight ( channel , full ) =  0.0 
+
+weight ( channel , group ) =  0.0 
+
+weight ( channel , work ) =  0.0 
+
+weight ( channel , humanitarian ) =  0.0 
+
+weight ( channel , currency ) =  0.0526315789474 
+
+weight ( channel , ecu ) =  0.0 
+
+european bias :  0.0 prestige : 0.0016077170418 >> out_deg : 13 >> in_deg : 13 
+
+weight ( european , dlrs ) =  0.0 
+
+weight ( european , currency ) =  0.0 
+
+weight ( european , union ) =  0.0 
+
+weight ( european , tuesday ) =  0.0 
+
+weight ( european , regional ) =  0.0588235294118 
+
+weight ( european , ap ) =  0.0 
+
+weight ( european , belgium ) =  0.0 
+
+weight ( european , torrential ) =  0.0434782608696 
+
+weight ( european , brussels ) =  0.0 
+
+weight ( european , approve ) =  0.0 
+
+weight ( european , national ) =  0.0416666666667 
+
+weight ( european , unit ) =  0.0 
+
+weight ( european , population ) =  0.047619047619 
+
+week bias :  0.0 prestige : 0.0016077170418 >> out_deg : 5 >> in_deg : 5 
+
+weight ( week , flee ) =  0.0 
+
+weight ( week , home ) =  0.0 
+
+weight ( week , last ) =  0.0 
+
+weight ( week , storm ) =  0.0 
+
+weight ( week , late ) =  0.0454545454545 
+
+rain bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( rain , home ) =  0.0 
+
+weight ( rain , torrential ) =  0.0 
+
+weight ( rain , mudslide ) =  0.0 
+
+weight ( rain , destroy ) =  0.0 
+
+america bias :  0.0 prestige : 0.0016077170418 >> out_deg : 14 >> in_deg : 14 
+
+weight ( america , full ) =  0.0243902439024 
+
+weight ( america , central ) =  0.0 
+
+weight ( america , salvador ) =  0.102564102564 
+
+weight ( america , mitch ) =  0.0 
+
+weight ( america , people ) =  0.0 
+
+weight ( america , tuesday ) =  0.0 
+
+weight ( america , official ) =  0.0 
+
+weight ( america , hurricane ) =  0.0 
+
+weight ( america , guatemala ) =  0.0980392156863 
+
+weight ( america , belgium ) =  0.0212765957447 
+
+weight ( america , honduras ) =  0.106382978723 
+
+weight ( america , estimate ) =  0.0 
+
+weight ( america , brussels ) =  0.0227272727273 
+
+weight ( america , nicaragua ) =  0.121951219512 
+
+doc bias :  0.0 prestige : 0.0016077170418 >> out_deg : 4 >> in_deg : 4 
+
+weight ( doc , medicine ) =  0.0714285714286 
+
+weight ( doc , text ) =  0.0 
+
+weight ( doc , docno ) =  0.0 
+
+weight ( doc , apw199811030526 ) =  0.0 
+
+humanitarian bias :  0.0 prestige : 0.0016077170418 >> out_deg : 7 >> in_deg : 7 
+
+weight ( humanitarian , dlrs ) =  0.0 
+
+weight ( humanitarian , group ) =  0.0 
+
+weight ( humanitarian , people ) =  0.047619047619 
+
+weight ( humanitarian , region ) =  0.0 
+
+weight ( humanitarian , work ) =  0.0 
+
+weight ( humanitarian , ecu ) =  0.0 
+
+weight ( humanitarian , channel ) =  0.0 
+
+text bias :  0.00086643581125 prestige : 0.02074404088 
+
+distribute bias :  -0.00170098876188 prestige : -5.88249193249e-05 
+
+report bias :  0.000848992743294 prestige : 0.00809224597119 
+
+committee bias :  0.000856700901363 prestige : 0.0156859277376 
+
+follow bias :  -0.00211938203897 prestige : -3.92166128832e-05 
+
+suffer bias :  -0.00240960853463 prestige : 0.0 
+
+petrucci bias :  -0.00180905828041 prestige : 0.0 
+
+apw199811030526 bias :  -0.00212536558377 prestige : 0.0 
+
+passage bias :  0.000755904276661 prestige : 0.00772519663861 
+
+late bias :  0.00105819291179 prestige : 0.0212369187412 
+
+executive bias :  0.000653697865567 prestige : 0.00674906800329 
+
+emergency bias :  0.000831677102349 prestige : 0.00715672158834 
+
+loss bias :  0.000816991550717 prestige : 0.0158521781888 
+
+food bias :  0.0008845719318 prestige : 0.00727799376961 
+
+blanket bias :  0.000751340024141 prestige : 0.0073135147404 
+
+regional bias :  0.00069241968774 prestige : 0.00719716577614 
+
+guatemala bias :  0.000992550941892 prestige : 0.0130874925016 
+
+belgium bias :  0.000449369389324 prestige : 0.00744934293382 
+
+flee bias :  0.000765721780595 prestige : 0.00425037913762 
+
+mudslide bias :  -0.00332290954949 prestige : 0.0 
+
+die bias :  0.000828310849613 prestige : 0.0108107167699 
+
+list bias :  0.000864329091765 prestige : 0.00807002763704 
+
+affiliate bias :  0.000919258199557 prestige : 0.0116151754688 
+
+el bias :  -0.0029319654087 prestige : -4.32332642375e-05 
+
+work bias :  0.000782096673058 prestige : 0.0141327896318 
+
+force bias :  0.000547099692379 prestige : 0.00523880716581 
+
+victim bias :  0.000848036519014 prestige : 0.00853788884599 
+
+people bias :  0.000405771975638 prestige : 0.00491535192543 
+
+national bias :  0.000813601892892 prestige : 0.0078326579802 
+
+dead bias :  0.000639399660083 prestige : 0.00387574161877 
+
+group bias :  0.000677908463725 prestige : 0.00941201483303 
+
+eu bias :  0.000328181471082 prestige : 0.00282288538519 
+
+home bias :  0.000552549495708 prestige : 0.00530471960259 
+
+docno bias :  -0.00170029246702 prestige : 0.0 
+
+nicaragua bias :  0.0011229008407 prestige : 0.0107929240357 
+
+mitch bias :  -0.00359001633972 prestige : 0.0 
+
+hurricane bias :  0.000843535445063 prestige : 0.00736349545408 
+
+spokesman bias :  -0.00100716966045 prestige : 0.0 
+
+medicine bias :  0.000425716857343 prestige : 0.00452331551803 
+
+cause bias :  0.000897931999836 prestige : 0.0103241257564 
+
+full bias :  0.000666997851598 prestige : 0.00113271950179 
+
+friday bias :  0.000975058065189 prestige : 0.028898593239 
+
+water bias :  -0.00177297735911 prestige : 0.00434586254246 
+
+pietro bias :  -0.000991554873612 prestige : 0.0 
+
+ecu bias :  -0.000854087049076 prestige : -3.36142396142e-05 
+
+death bias :  0.00092483437843 prestige : 0.0165518775574 
+
+alone bias :  0.000886183933095 prestige : 0.00845922769985 
+
+news bias :  0.0 prestige : 0.0 
+
+estimate bias :  0.000378197141789 prestige : 0.00523413053508 
+
+mitchs bias :  -0.00240666403977 prestige : 0.0 
+
+care bias :  0.000835339423645 prestige : 0.00981039387008 
+
+dlrs bias :  -0.00205678760081 prestige : -1.80999751769e-05 
+
+great bias :  0.000869139374347 prestige : 0.0136918057463 
+
+central bias :  -0.00259527284241 prestige : 0.0 
+
+sanitation bias :  0.000254717702847 prestige : 0.00706096695726 
+
+region bias :  0.000748024210936 prestige : 0.00690564172465 
+
+torrential bias :  0.000766634821624 prestige : 0.00960979839172 
+
+approve bias :  0.000831425319078 prestige : 0.011257976949 
+
+tuesday bias :  0.000724758057628 prestige : 0.00261699714367 
+
+homeless bias :  0.00102645500373 prestige : 0.0148689249378 
+
+honduras bias :  0.00085743837052 prestige : 0.00524225602902 
+
+miss bias :  -0.00846483735333 prestige : -3.23779326066e-05 
+
+unit bias :  -0.00266743952388 prestige : 0.00281547220665 
+
+devastation bias :  0.000850536527234 prestige : 0.00741747128232 
+
+use bias :  0.000885079861797 prestige : 0.0117931506288 
+
+brussels bias :  0.000850308440967 prestige : 0.00234585821286 
+
+province bias :  0.000801974495617 prestige : 0.00611670035959 
+
+txttype bias :  -0.00218137443048 prestige : 0.0 
+
+union bias :  -0.000263003268404 prestige : 0.00211102872887 
+
+initial bias :  0.000463935966799 prestige : 0.00142449455603 
+
+commission bias :  0.00083175170814 prestige : 0.0221761377595 
+
+statement bias :  -0.00142818220896 prestige : 0.00209513076122 
+
+basic bias :  -0.00431804717561 prestige : 0.0 
+
+storm bias :  0.000982846155122 prestige : 0.0120308926816 
+
+thousand bias :  0.000472066593354 prestige : 0.00349772851616 
+
+fund bias :  0.000730600616712 prestige : 0.0018581914525 
+
+newswire bias :  -0.00230898990928 prestige : 0.0 
+
+last bias :  -0.00284215744083 prestige : 4.14529969091e-06 
+
+population bias :  0.000792542086528 prestige : 0.01074792303 
+
+salvador bias :  0.000932815476959 prestige : 0.00285821932358 
+
+ap bias :  -0.00366211275719 prestige : 0.0 
+
+official bias :  -0.00267153357326 prestige : 0.0 
+
+doctype bias :  0.0 prestige : 0.0 
+
+miguel bias :  -0.00307475243287 prestige : 0.0 
+
+aid bias :  -0.00250859191606 prestige : 0.0 
+
+san bias :  -0.00330212875757 prestige : 0.0 
+
+currency bias :  0.000897840376211 prestige : 0.00859358360943 
+
+say bias :  0.000752898691893 prestige : 0.00523447189843 
+
+provide bias :  0.000872886460603 prestige : 0.0165535208682 
+
+deadly bias :  -0.00253205354406 prestige : 2.13792280101e-06 
+
+percent bias :  0.000719959255921 prestige : 0.00577064759535 
+
+stormrelated bias :  -0.0062886026717 prestige : 0.0 
+
+destroy bias :  0.000853053833057 prestige : 0.00908261774881 
+
+channel bias :  0.000429531997771 prestige : 0.00296200794809 
+
+european bias :  0.000815562043126 prestige : 0.00867808518713 
+
+week bias :  0.000210368788234 prestige : 0.00159677582063 
+
+rain bias :  -0.00299964196789 prestige : -0.000113185559672 
+
+america bias :  0.00104816139007 prestige : 0.0107950709045 
+
+doc bias :  0.000796604664045 prestige : 0.0170029246702 
+
+humanitarian bias :  0.000423189274573 prestige : 0.00649531326921 
+
+text <new bias :  0.00086643581125 new rank :  0.02074404088 >
+
+distribute <new bias :  -0.00170098876188 new rank :  -5.88249193249e-05 >
+
+report <new bias :  0.000848992743294 new rank :  0.00809224597119 >
+
+committee <new bias :  0.000856700901363 new rank :  0.0156859277376 >
+
+follow <new bias :  -0.00211938203897 new rank :  -3.92166128832e-05 >
+
+suffer <new bias :  -0.00240960853463 new rank :  0.0 >
+
+petrucci <new bias :  -0.00180905828041 new rank :  0.0 >
+
+apw199811030526 <new bias :  -0.00212536558377 new rank :  0.0 >
+
+passage <new bias :  0.000755904276661 new rank :  0.00772519663861 >
+
+late <new bias :  0.00105819291179 new rank :  0.0212369187412 >
+
+executive <new bias :  0.000653697865567 new rank :  0.00674906800329 >
+
+emergency <new bias :  0.000831677102349 new rank :  0.00715672158834 >
+
+loss <new bias :  0.000816991550717 new rank :  0.0158521781888 >
+
+food <new bias :  0.0008845719318 new rank :  0.00727799376961 >
+
+blanket <new bias :  0.000751340024141 new rank :  0.0073135147404 >
+
+regional <new bias :  0.00069241968774 new rank :  0.00719716577614 >
+
+guatemala <new bias :  0.000992550941892 new rank :  0.0130874925016 >
+
+belgium <new bias :  0.000449369389324 new rank :  0.00744934293382 >
+
+flee <new bias :  0.000765721780595 new rank :  0.00425037913762 >
+
+mudslide <new bias :  -0.00332290954949 new rank :  0.0 >
+
+die <new bias :  0.000828310849613 new rank :  0.0108107167699 >
+
+list <new bias :  0.000864329091765 new rank :  0.00807002763704 >
+
+affiliate <new bias :  0.000919258199557 new rank :  0.0116151754688 >
+
+el <new bias :  -0.0029319654087 new rank :  -4.32332642375e-05 >
+
+work <new bias :  0.000782096673058 new rank :  0.0141327896318 >
+
+force <new bias :  0.000547099692379 new rank :  0.00523880716581 >
+
+victim <new bias :  0.000848036519014 new rank :  0.00853788884599 >
+
+people <new bias :  0.000405771975638 new rank :  0.00491535192543 >
+
+national <new bias :  0.000813601892892 new rank :  0.0078326579802 >
+
+dead <new bias :  0.000639399660083 new rank :  0.00387574161877 >
+
+group <new bias :  0.000677908463725 new rank :  0.00941201483303 >
+
+eu <new bias :  0.000328181471082 new rank :  0.00282288538519 >
+
+home <new bias :  0.000552549495708 new rank :  0.00530471960259 >
+
+docno <new bias :  -0.00170029246702 new rank :  0.0 >
+
+nicaragua <new bias :  0.0011229008407 new rank :  0.0107929240357 >
+
+mitch <new bias :  -0.00359001633972 new rank :  0.0 >
+
+hurricane <new bias :  0.000843535445063 new rank :  0.00736349545408 >
+
+spokesman <new bias :  -0.00100716966045 new rank :  0.0 >
+
+medicine <new bias :  0.000425716857343 new rank :  0.00452331551803 >
+
+cause <new bias :  0.000897931999836 new rank :  0.0103241257564 >
+
+full <new bias :  0.000666997851598 new rank :  0.00113271950179 >
+
+friday <new bias :  0.000975058065189 new rank :  0.028898593239 >
+
+water <new bias :  -0.00177297735911 new rank :  0.00434586254246 >
+
+pietro <new bias :  -0.000991554873612 new rank :  0.0 >
+
+ecu <new bias :  -0.000854087049076 new rank :  -3.36142396142e-05 >
+
+death <new bias :  0.00092483437843 new rank :  0.0165518775574 >
+
+alone <new bias :  0.000886183933095 new rank :  0.00845922769985 >
+
+news <new bias :  0.0 new rank :  0.0 >
+
+estimate <new bias :  0.000378197141789 new rank :  0.00523413053508 >
+
+mitchs <new bias :  -0.00240666403977 new rank :  0.0 >
+
+care <new bias :  0.000835339423645 new rank :  0.00981039387008 >
+
+dlrs <new bias :  -0.00205678760081 new rank :  -1.80999751769e-05 >
+
+great <new bias :  0.000869139374347 new rank :  0.0136918057463 >
+
+central <new bias :  -0.00259527284241 new rank :  0.0 >
+
+sanitation <new bias :  0.000254717702847 new rank :  0.00706096695726 >
+
+region <new bias :  0.000748024210936 new rank :  0.00690564172465 >
+
+torrential <new bias :  0.000766634821624 new rank :  0.00960979839172 >
+
+approve <new bias :  0.000831425319078 new rank :  0.011257976949 >
+
+tuesday <new bias :  0.000724758057628 new rank :  0.00261699714367 >
+
+homeless <new bias :  0.00102645500373 new rank :  0.0148689249378 >
+
+honduras <new bias :  0.00085743837052 new rank :  0.00524225602902 >
+
+miss <new bias :  -0.00846483735333 new rank :  -3.23779326066e-05 >
+
+unit <new bias :  -0.00266743952388 new rank :  0.00281547220665 >
+
+devastation <new bias :  0.000850536527234 new rank :  0.00741747128232 >
+
+use <new bias :  0.000885079861797 new rank :  0.0117931506288 >
+
+brussels <new bias :  0.000850308440967 new rank :  0.00234585821286 >
+
+province <new bias :  0.000801974495617 new rank :  0.00611670035959 >
+
+txttype <new bias :  -0.00218137443048 new rank :  0.0 >
+
+union <new bias :  -0.000263003268404 new rank :  0.00211102872887 >
+
+initial <new bias :  0.000463935966799 new rank :  0.00142449455603 >
+
+commission <new bias :  0.00083175170814 new rank :  0.0221761377595 >
+
+statement <new bias :  -0.00142818220896 new rank :  0.00209513076122 >
+
+basic <new bias :  -0.00431804717561 new rank :  0.0 >
+
+storm <new bias :  0.000982846155122 new rank :  0.0120308926816 >
+
+thousand <new bias :  0.000472066593354 new rank :  0.00349772851616 >
+
+fund <new bias :  0.000730600616712 new rank :  0.0018581914525 >
+
+newswire <new bias :  -0.00230898990928 new rank :  0.0 >
+
+last <new bias :  -0.00284215744083 new rank :  4.14529969091e-06 >
+
+population <new bias :  0.000792542086528 new rank :  0.01074792303 >
+
+salvador <new bias :  0.000932815476959 new rank :  0.00285821932358 >
+
+ap <new bias :  -0.00366211275719 new rank :  0.0 >
+
+official <new bias :  -0.00267153357326 new rank :  0.0 >
+
+doctype <new bias :  0.0 new rank :  0.0 >
+
+miguel <new bias :  -0.00307475243287 new rank :  0.0 >
+
+aid <new bias :  -0.00250859191606 new rank :  0.0 >
+
+san <new bias :  -0.00330212875757 new rank :  0.0 >
+
+currency <new bias :  0.000897840376211 new rank :  0.00859358360943 >
+
+say <new bias :  0.000752898691893 new rank :  0.00523447189843 >
+
+provide <new bias :  0.000872886460603 new rank :  0.0165535208682 >
+
+deadly <new bias :  -0.00253205354406 new rank :  2.13792280101e-06 >
+
+percent <new bias :  0.000719959255921 new rank :  0.00577064759535 >
+
+stormrelated <new bias :  -0.0062886026717 new rank :  0.0 >
+
+destroy <new bias :  0.000853053833057 new rank :  0.00908261774881 >
+
+channel <new bias :  0.000429531997771 new rank :  0.00296200794809 >
+
+european <new bias :  0.000815562043126 new rank :  0.00867808518713 >
+
+week <new bias :  0.000210368788234 new rank :  0.00159677582063 >
+
+rain <new bias :  -0.00299964196789 new rank :  -0.000113185559672 >
+
+america <new bias :  0.00104816139007 new rank :  0.0107950709045 >
+
+doc <new bias :  0.000796604664045 new rank :  0.0170029246702 >
+
+humanitarian <new bias :  0.000423189274573 new rank :  0.00649531326921 >
+
+Final list of keywords: 
+friday => 0.028898593239
+commission => 0.0221761377595
+late => 0.0212369187412
+text => 0.02074404088
+doc => 0.0170029246702
+provide => 0.0165535208682
+death => 0.0165518775574
+loss => 0.0158521781888
+committee => 0.0156859277376
+homeless => 0.0148689249378
+work => 0.0141327896318
+great => 0.0136918057463
+guatemala => 0.0130874925016
+storm => 0.0120308926816
+use => 0.0117931506288
+affiliate => 0.0116151754688
+approve => 0.011257976949
+die => 0.0108107167699
+america => 0.0107950709045
+nicaragua => 0.0107929240357
+population => 0.01074792303
+cause => 0.0103241257564
+care => 0.00981039387008
+torrential => 0.00960979839172
+group => 0.00941201483303
+destroy => 0.00908261774881
+european => 0.00867808518713
+currency => 0.00859358360943
+victim => 0.00853788884599
+alone => 0.00845922769985
+report => 0.00809224597119
+list => 0.00807002763704
+national => 0.0078326579802
+passage => 0.00772519663861
+belgium => 0.00744934293382
+devastation => 0.00741747128232
+hurricane => 0.00736349545408
+blanket => 0.0073135147404
+food => 0.00727799376961
+regional => 0.00719716577614
+emergency => 0.00715672158834
+sanitation => 0.00706096695726
+region => 0.00690564172465
+executive => 0.00674906800329
+humanitarian => 0.00649531326921
+province => 0.00611670035959
+percent => 0.00577064759535
+home => 0.00530471960259
+honduras => 0.00524225602902
+force => 0.00523880716581
+say => 0.00523447189843
+estimate => 0.00523413053508
+people => 0.00491535192543
+medicine => 0.00452331551803
+water => 0.00434586254246
+flee => 0.00425037913762
+dead => 0.00387574161877
+thousand => 0.00349772851616
+channel => 0.00296200794809
+salvador => 0.00285821932358
+eu => 0.00282288538519
+unit => 0.00281547220665
+tuesday => 0.00261699714367
+brussels => 0.00234585821286
+union => 0.00211102872887
+statement => 0.00209513076122
+fund => 0.0018581914525
+week => 0.00159677582063
+initial => 0.00142449455603
+full => 0.00113271950179
+last => 4.14529969091e-06
+deadly => 2.13792280101e-06
+week indegree: 10 new bias :  0.000210368788234 new rank :  0.00159677582063 
+
+humanitarian indegree: 10 new bias :  0.000423189274573 new rank :  0.00649531326921 
+
+force indegree: 22 new bias :  0.000547099692379 new rank :  0.00523880716581 
+
+committee indegree: 16 new bias :  0.000856700901363 new rank :  0.0156859277376 
+
+people indegree: 42 new bias :  0.000405771975638 new rank :  0.00491535192543 
+
+text indegree: 20 new bias :  0.00086643581125 new rank :  0.02074404088 
+
+national indegree: 14 new bias :  0.000813601892892 new rank :  0.0078326579802 
+
+executive indegree: 18 new bias :  0.000653697865567 new rank :  0.00674906800329 
+
+dead indegree: 18 new bias :  0.000639399660083 new rank :  0.00387574161877 
+
+report indegree: 34 new bias :  0.000848992743294 new rank :  0.00809224597119 
+
+homeless indegree: 10 new bias :  0.00102645500373 new rank :  0.0148689249378 
+
+victim indegree: 16 new bias :  0.000848036519014 new rank :  0.00853788884599 
+
+eu indegree: 24 new bias :  0.000328181471082 new rank :  0.00282288538519 
+
+home indegree: 28 new bias :  0.000552549495708 new rank :  0.00530471960259 
+
+nicaragua indegree: 8 new bias :  0.0011229008407 new rank :  0.0107929240357 
+
+honduras indegree: 20 new bias :  0.00085743837052 new rank :  0.00524225602902 
+
+unit indegree: 8 new bias :  -0.00266743952388 new rank :  0.00281547220665 
+
+devastation indegree: 14 new bias :  0.000850536527234 new rank :  0.00741747128232 
+
+use indegree: 14 new bias :  0.000885079861797 new rank :  0.0117931506288 
+
+death indegree: 8 new bias :  0.00092483437843 new rank :  0.0165518775574 
+
+group indegree: 12 new bias :  0.000677908463725 new rank :  0.00941201483303 
+
+union indegree: 10 new bias :  -0.000263003268404 new rank :  0.00211102872887 
+
+deadly indegree: 8 new bias :  -0.00253205354406 new rank :  2.13792280101e-06 
+
+initial indegree: 4 new bias :  0.000463935966799 new rank :  0.00142449455603 
+
+hurricane indegree: 14 new bias :  0.000843535445063 new rank :  0.00736349545408 
+
+passage indegree: 16 new bias :  0.000755904276661 new rank :  0.00772519663861 
+
+late indegree: 10 new bias :  0.00105819291179 new rank :  0.0212369187412 
+
+commission indegree: 14 new bias :  0.00083175170814 new rank :  0.0221761377595 
+
+statement indegree: 8 new bias :  -0.00142818220896 new rank :  0.00209513076122 
+
+medicine indegree: 12 new bias :  0.000425716857343 new rank :  0.00452331551803 
+
+destroy indegree: 14 new bias :  0.000853053833057 new rank :  0.00908261774881 
+
+population indegree: 22 new bias :  0.000792542086528 new rank :  0.01074792303 
+
+cause indegree: 22 new bias :  0.000897931999836 new rank :  0.0103241257564 
+
+tuesday indegree: 20 new bias :  0.000724758057628 new rank :  0.00261699714367 
+
+channel indegree: 10 new bias :  0.000429531997771 new rank :  0.00296200794809 
+
+european indegree: 22 new bias :  0.000815562043126 new rank :  0.00867808518713 
+
+province indegree: 14 new bias :  0.000801974495617 new rank :  0.00611670035959 
+
+full indegree: 4 new bias :  0.000666997851598 new rank :  0.00113271950179 
+
+storm indegree: 8 new bias :  0.000982846155122 new rank :  0.0120308926816 
+
+emergency indegree: 16 new bias :  0.000831677102349 new rank :  0.00715672158834 
+
+food indegree: 20 new bias :  0.0008845719318 new rank :  0.00727799376961 
+
+blanket indegree: 18 new bias :  0.000751340024141 new rank :  0.0073135147404 
+
+regional indegree: 4 new bias :  0.00069241968774 new rank :  0.00719716577614 
+
+thousand indegree: 24 new bias :  0.000472066593354 new rank :  0.00349772851616 
+
+water indegree: 14 new bias :  -0.00177297735911 new rank :  0.00434586254246 
+
+fund indegree: 8 new bias :  0.000730600616712 new rank :  0.0018581914525 
+
+guatemala indegree: 16 new bias :  0.000992550941892 new rank :  0.0130874925016 
+
+percent indegree: 16 new bias :  0.000719959255921 new rank :  0.00577064759535 
+
+belgium indegree: 10 new bias :  0.000449369389324 new rank :  0.00744934293382 
+
+estimate indegree: 18 new bias :  0.000378197141789 new rank :  0.00523413053508 
+
+brussels indegree: 10 new bias :  0.000850308440967 new rank :  0.00234585821286 
+
+flee indegree: 14 new bias :  0.000765721780595 new rank :  0.00425037913762 
+
+care indegree: 20 new bias :  0.000835339423645 new rank :  0.00981039387008 
+
+loss indegree: 16 new bias :  0.000816991550717 new rank :  0.0158521781888 
+
+great indegree: 12 new bias :  0.000869139374347 new rank :  0.0136918057463 
+
+last indegree: 10 new bias :  -0.00284215744083 new rank :  4.14529969091e-06 
+
+sanitation indegree: 18 new bias :  0.000254717702847 new rank :  0.00706096695726 
+
+friday indegree: 8 new bias :  0.000975058065189 new rank :  0.028898593239 
+
+currency indegree: 12 new bias :  0.000897840376211 new rank :  0.00859358360943 
+
+die indegree: 24 new bias :  0.000828310849613 new rank :  0.0108107167699 
+
+region indegree: 26 new bias :  0.000748024210936 new rank :  0.00690564172465 
+
+work indegree: 18 new bias :  0.000782096673058 new rank :  0.0141327896318 
+
+list indegree: 22 new bias :  0.000864329091765 new rank :  0.00807002763704 
+
+say indegree: 18 new bias :  0.000752898691893 new rank :  0.00523447189843 
+
+alone indegree: 10 new bias :  0.000886183933095 new rank :  0.00845922769985 
+
+provide indegree: 28 new bias :  0.000872886460603 new rank :  0.0165535208682 
+
+affiliate indegree: 12 new bias :  0.000919258199557 new rank :  0.0116151754688 
+
+salvador indegree: 14 new bias :  0.000932815476959 new rank :  0.00285821932358 
+
+doc indegree: 4 new bias :  0.000796604664045 new rank :  0.0170029246702 
+
+america indegree: 22 new bias :  0.00104816139007 new rank :  0.0107950709045 
+
+torrential indegree: 12 new bias :  0.000766634821624 new rank :  0.00960979839172 
+
+approve indegree: 26 new bias :  0.000831425319078 new rank :  0.011257976949 
+
+
+Total Nodes:  100
+
+Total Positive Nodes:  72
+Sentence Median =  0.586773698674 
+
+EU spokesman Pietro Petrucci said the funds will be used 
+to provide basic care such as medicine, food, water sanitation and 
+blankets to thousands of people whose homes were destroyed by torrential 
+rains and mudslides. << 1.04047671931 << 1 
+
+<DOC>
+<DOCNO> APW19981103.0526 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+BRUSSELS, Belgium (AP) - The European Union on Tuesday approved 6.4 
+million European currency units (dlrs 7.7 million) in aid for thousands 
+of victims of the devastation caused by Hurricane Mitch in Central 
+America. << 0.955665641143 << 0 
+
+But its own regional affiliate in 
+San Miguel province reported 125 dead there alone. << 0.859647968643 << 6 
+
+the EU approved for the region on Friday. << 0.82436598599 << 9 
+
+The greatest losses were reported in Honduras, 
+where an estimated 5,000 people died and 600,000 people _ 10 percent 
+of the population _ were forced to flee their homes after last week's 
+storm. << 0.608891779415 << 4 
+
+Officials 
+in Central America estimated Tuesday that about 7,000 people have 
+died in the region. << 0.586773698674 << 3 
+
+The 
+full 6.8 million ecu (dlrs 8.18 million) will be channeled through 
+humanitarian groups working in the region. << 0.455300970364 << 10 
+
+The aid will be distributed in Nicaragua, El 
+Salvador, Honduras and Guatemala which have most suffered from Mitch's 
+deadly passage, the EU executive Commission said in a statement. << 0.402965050302 << 2 
+
+The latest EU aid follows an initial 400,000 
+ecu (dlrs 480,000). << 0.170050070079 << 8 
+
+El Salvador's National Emergency Committee listed 174 dead, 
+96 missing and 27,000 homeless. << 0.0 << 5 
+
+Guatemala reported 
+100 storm-related deaths. << 0.0 << 7 
+
+</TEXT>
+</DOC>
+<< 0.0 << 11 
+
+Top Weights: 
+1.04047671931 ,
+0.955665641143 ,
+0.859647968643 ,
+
+
+dlrs indegree: 4 new bias :  -0.00205678760081 new rank :  -1.80999751769e-05 
+
+el indegree: 2 new bias :  -0.0029319654087 new rank :  -4.32332642375e-05 
+
+distribute indegree: 2 new bias :  -0.00170098876188 new rank :  -5.88249193249e-05 
+
+rain indegree: 0 new bias :  -0.00299964196789 new rank :  -0.000113185559672 
+
+ecu indegree: 4 new bias :  -0.000854087049076 new rank :  -3.36142396142e-05 
+
+follow indegree: 4 new bias :  -0.00211938203897 new rank :  -3.92166128832e-05 
+
+miss indegree: 0 new bias :  -0.00846483735333 new rank :  -3.23779326066e-05 
+
+
+Total Nodes:  100
+
+Total Negative Nodes:  7
+
+Total Negative weights:  0.000338552503515
+Sentence Median =  0.0 
+
+The latest EU aid follows an initial 400,000 
+ecu (dlrs 480,000). << 0.0141840163069 << 8 
+
+The 
+full 6.8 million ecu (dlrs 8.18 million) will be channeled through 
+humanitarian groups working in the region. << 0.0141840163069 << 10 
+
+<DOC>
+<DOCNO> APW19981103.0526 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+BRUSSELS, Belgium (AP) - The European Union on Tuesday approved 6.4 
+million European currency units (dlrs 7.7 million) in aid for thousands 
+of victims of the devastation caused by Hurricane Mitch in Central 
+America. << 0.0 << 0 
+
+EU spokesman Pietro Petrucci said the funds will be used 
+to provide basic care such as medicine, food, water sanitation and 
+blankets to thousands of people whose homes were destroyed by torrential 
+rains and mudslides. << 0.0 << 1 
+
+The aid will be distributed in Nicaragua, El 
+Salvador, Honduras and Guatemala which have most suffered from Mitch's 
+deadly passage, the EU executive Commission said in a statement. << 0.0 << 2 
+
+Officials 
+in Central America estimated Tuesday that about 7,000 people have 
+died in the region. << 0.0 << 3 
+
+The greatest losses were reported in Honduras, 
+where an estimated 5,000 people died and 600,000 people _ 10 percent 
+of the population _ were forced to flee their homes after last week's 
+storm. << 0.0 << 4 
+
+El Salvador's National Emergency Committee listed 174 dead, 
+96 missing and 27,000 homeless. << 0.0 << 5 
+
+But its own regional affiliate in 
+San Miguel province reported 125 dead there alone. << 0.0 << 6 
+
+Guatemala reported 
+100 storm-related deaths. << 0.0 << 7 
+
+the EU approved for the region on Friday. << 0.0 << 9 
+
+</TEXT>
+</DOC>
+<< 0.0 << 11 
+
+Top Weights: 
+0.0141840163069 ,
+0.0141840163069 ,
+0.0 ,
+
+

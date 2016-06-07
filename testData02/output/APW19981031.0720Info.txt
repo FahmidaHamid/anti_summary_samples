@@ -1,0 +1,459 @@
+0 >> At least 231 people have been confirmed dead in Honduras from former-hurricane 
+Mitch, bringing the storm's death toll in the region to 357, the National 
+Emergency Commission said Saturday. 
+
+1 >> Mitch _ once, 2nd graf pvs 
+
+
+least --> a --> the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree --> 0#0 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 1#0 
+
+confirm --> v --> establish or strengthen as with new evidence or facts --> 2#0 
+
+dead --> a --> no longer having or seeming to have or expecting to have life --> 3#0 
+
+honduras --> n --> a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture --> 4#0 
+
+formerhurricane --> n -->  --> 5#0 
+
+mitch --> n -->  --> 6#0 
+
+bring --> v --> take something or somebody with oneself somewhere --> 7#0 
+
+storm --> n --> a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning --> 8#0 
+
+death --> n --> the event of dying or departure from life --> 9#0 
+
+toll --> n --> a fee levied for the use of roads or bridges (used for maintenance) --> 10#0 
+
+region --> n --> the extended spatial location of something --> 11#0 
+
+national --> a --> of or relating to or belonging to a nation or country --> 12#0 
+
+emergency --> n --> a sudden unforeseen crisis (usually involving danger) that requires immediate action --> 13#0 
+
+commission --> n --> a special group delegated to consider some matter --> 14#0 
+
+say --> v --> express in words --> 15#0 
+
+saturday --> n --> the seventh and last day of the week; observed as the Sabbath by Jews and some Christians --> 16#0 
+
+mitch --> n -->  --> 0#1 
+
+graf --> n --> German tennis player who won seven women's singles titles at Wimbledon (born in 1969) --> 1#1 
+
+pvs --> n -->  --> 2#1 
+
+Total Edges :  96 Edge Weight :  0.0104166666667
+similarity( least ,  toll ) =  0.025
+similarity( least ,  emergency ) =  0.0263157894737
+similarity( people ,  commission ) =  0.05
+similarity( dead ,  death ) =  0.05
+similarity( bring ,  region ) =  0.0769230769231
+saturday bias :  0.0 prestige : 0.0104166666667 >> out_deg : 3 >> in_deg : 3 
+
+weight ( saturday , commission ) =  0.0 
+
+weight ( saturday , say ) =  0.0 
+
+weight ( saturday , emergency ) =  0.0 
+
+pvs bias :  0.0 prestige : 0.0104166666667 >> out_deg : 2 >> in_deg : 2 
+
+weight ( pvs , graf ) =  0.0 
+
+weight ( pvs , mitch ) =  0.0 
+
+death bias :  0.0 prestige : 0.0104166666667 >> out_deg : 7 >> in_deg : 7 
+
+weight ( death , mitch ) =  0.0 
+
+weight ( death , national ) =  0.0 
+
+weight ( death , dead ) =  0.05 
+
+weight ( death , bring ) =  0.0 
+
+weight ( death , storm ) =  0.0 
+
+weight ( death , toll ) =  0.0 
+
+weight ( death , region ) =  0.0 
+
+honduras bias :  0.0 prestige : 0.0104166666667 >> out_deg : 6 >> in_deg : 6 
+
+weight ( honduras , mitch ) =  0.0 
+
+weight ( honduras , confirm ) =  0.0 
+
+weight ( honduras , people ) =  0.0 
+
+weight ( honduras , dead ) =  0.0 
+
+weight ( honduras , formerhurricane ) =  0.0 
+
+weight ( honduras , bring ) =  0.0 
+
+emergency bias :  -0.625 prestige : 0.0104166666667 >> out_deg : 7 >> in_deg : 7 
+
+weight ( emergency , region ) =  -6.25e-05 
+
+weight ( emergency , least ) =  0.0263157894737 
+
+weight ( emergency , commission ) =  -6.25e-05 
+
+weight ( emergency , say ) =  -6.25e-05 
+
+weight ( emergency , national ) =  -6.25e-05 
+
+weight ( emergency , toll ) =  -6.25e-05 
+
+weight ( emergency , saturday ) =  -6.25e-05 
+
+mitch bias :  0.0 prestige : 0.0104166666667 >> out_deg : 8 >> in_deg : 8 
+
+weight ( mitch , pvs ) =  0.0 
+
+weight ( mitch , death ) =  0.0 
+
+weight ( mitch , honduras ) =  0.0 
+
+weight ( mitch , dead ) =  0.0 
+
+weight ( mitch , formerhurricane ) =  0.0 
+
+weight ( mitch , bring ) =  0.0 
+
+weight ( mitch , storm ) =  0.0 
+
+weight ( mitch , graf ) =  0.0 
+
+confirm bias :  0.0 prestige : 0.0104166666667 >> out_deg : 5 >> in_deg : 5 
+
+weight ( confirm , formerhurricane ) =  0.0 
+
+weight ( confirm , honduras ) =  0.0 
+
+weight ( confirm , dead ) =  0.0 
+
+weight ( confirm , least ) =  0.0 
+
+weight ( confirm , people ) =  0.0 
+
+region bias :  0.0 prestige : 0.0104166666667 >> out_deg : 7 >> in_deg : 7 
+
+weight ( region , death ) =  0.0 
+
+weight ( region , emergency ) =  0.0 
+
+weight ( region , bring ) =  0.0769230769231 
+
+weight ( region , national ) =  0.0 
+
+weight ( region , commission ) =  0.0 
+
+weight ( region , storm ) =  0.0 
+
+weight ( region , toll ) =  0.0 
+
+people bias :  0.0 prestige : 0.0104166666667 >> out_deg : 5 >> in_deg : 5 
+
+weight ( people , commission ) =  0.05 
+
+weight ( people , honduras ) =  0.0 
+
+weight ( people , dead ) =  0.0 
+
+weight ( people , least ) =  0.0 
+
+weight ( people , confirm ) =  0.0 
+
+commission bias :  0.0 prestige : 0.0104166666667 >> out_deg : 6 >> in_deg : 6 
+
+weight ( commission , emergency ) =  0.0 
+
+weight ( commission , people ) =  0.05 
+
+weight ( commission , region ) =  0.0 
+
+weight ( commission , saturday ) =  0.0 
+
+weight ( commission , say ) =  0.0 
+
+weight ( commission , national ) =  0.0 
+
+dead bias :  -0.75 prestige : 0.0104166666667 >> out_deg : 7 >> in_deg : 7 
+
+weight ( dead , death ) =  0.05 
+
+weight ( dead , honduras ) =  -7.5e-05 
+
+weight ( dead , mitch ) =  -7.5e-05 
+
+weight ( dead , confirm ) =  -7.5e-05 
+
+weight ( dead , people ) =  -7.5e-05 
+
+weight ( dead , least ) =  -7.5e-05 
+
+weight ( dead , formerhurricane ) =  -7.5e-05 
+
+formerhurricane bias :  0.0 prestige : 0.0104166666667 >> out_deg : 6 >> in_deg : 6 
+
+weight ( formerhurricane , honduras ) =  0.0 
+
+weight ( formerhurricane , mitch ) =  0.0 
+
+weight ( formerhurricane , confirm ) =  0.0 
+
+weight ( formerhurricane , dead ) =  0.0 
+
+weight ( formerhurricane , bring ) =  0.0 
+
+weight ( formerhurricane , storm ) =  0.0 
+
+bring bias :  0.0 prestige : 0.0104166666667 >> out_deg : 7 >> in_deg : 7 
+
+weight ( bring , death ) =  0.0 
+
+weight ( bring , honduras ) =  0.0 
+
+weight ( bring , mitch ) =  0.0 
+
+weight ( bring , region ) =  0.0769230769231 
+
+weight ( bring , formerhurricane ) =  0.0 
+
+weight ( bring , storm ) =  0.0 
+
+weight ( bring , toll ) =  0.0 
+
+say bias :  0.0 prestige : 0.0104166666667 >> out_deg : 4 >> in_deg : 4 
+
+weight ( say , commission ) =  0.0 
+
+weight ( say , national ) =  0.0 
+
+weight ( say , saturday ) =  0.0 
+
+weight ( say , emergency ) =  0.0 
+
+least bias :  0.0 prestige : 0.0104166666667 >> out_deg : 5 >> in_deg : 5 
+
+weight ( least , confirm ) =  0.0 
+
+weight ( least , emergency ) =  0.0263157894737 
+
+weight ( least , toll ) =  0.025 
+
+weight ( least , dead ) =  0.0 
+
+weight ( least , people ) =  0.0 
+
+storm bias :  0.0 prestige : 0.0104166666667 >> out_deg : 6 >> in_deg : 6 
+
+weight ( storm , death ) =  0.0 
+
+weight ( storm , mitch ) =  0.0 
+
+weight ( storm , region ) =  0.0 
+
+weight ( storm , formerhurricane ) =  0.0 
+
+weight ( storm , bring ) =  0.0 
+
+weight ( storm , toll ) =  0.0 
+
+toll bias :  0.0 prestige : 0.0104166666667 >> out_deg : 7 >> in_deg : 7 
+
+weight ( toll , death ) =  0.0 
+
+weight ( toll , emergency ) =  0.0 
+
+weight ( toll , region ) =  0.0 
+
+weight ( toll , least ) =  0.025 
+
+weight ( toll , bring ) =  0.0 
+
+weight ( toll , storm ) =  0.0 
+
+weight ( toll , national ) =  0.0 
+
+national bias :  0.0 prestige : 0.0104166666667 >> out_deg : 6 >> in_deg : 6 
+
+weight ( national , death ) =  0.0 
+
+weight ( national , emergency ) =  0.0 
+
+weight ( national , region ) =  0.0 
+
+weight ( national , commission ) =  0.0 
+
+weight ( national , say ) =  0.0 
+
+weight ( national , toll ) =  0.0 
+
+graf bias :  0.0 prestige : 0.0104166666667 >> out_deg : 2 >> in_deg : 2 
+
+weight ( graf , pvs ) =  0.0 
+
+weight ( graf , mitch ) =  0.0 
+
+saturday bias :  -0.00163695320186 prestige : -3.48964150586e-05 
+
+pvs bias :  4.1015625e-06 prestige : 0.0 
+
+death bias :  0.00132361073072 prestige : 0.00624375714032 
+
+honduras bias :  -0.00192289044402 prestige : -2.1875e-05 
+
+emergency bias :  -0.000155643778852 prestige : 0.00301251376358 
+
+mitch bias :  -0.00131688381003 prestige : -1.640625e-05 
+
+confirm bias :  -0.00247822017642 prestige : -2.625e-05 
+
+region bias :  0.00231285023773 prestige : 0.00802596571786 
+
+people bias :  0.00177728340336 prestige : 0.00826908275811 
+
+commission bias :  0.00185396820707 prestige : 0.0068353777589 
+
+dead bias :  0.00130396131708 prestige : 0.00631996111136 
+
+formerhurricane bias :  -0.00123380021417 prestige : -2.1875e-05 
+
+bring bias :  0.00280213929951 prestige : 0.00855017270873 
+
+say bias :  -0.00122444336249 prestige : -2.6172311294e-05 
+
+least bias :  0.00206985727708 prestige : 0.0102369078947 
+
+storm bias :  -0.00213571223216 prestige : 0.0 
+
+toll bias :  -0.00078941921555 prestige : 0.00284693246894 
+
+national bias :  -0.00224486454486 prestige : -1.74482075293e-05 
+
+graf bias :  4.1015625e-06 prestige : 0.0 
+
+saturday <new bias :  -0.00163695320186 new rank :  -3.48964150586e-05 >
+
+pvs <new bias :  4.1015625e-06 new rank :  0.0 >
+
+death <new bias :  0.00132361073072 new rank :  0.00624375714032 >
+
+honduras <new bias :  -0.00192289044402 new rank :  -2.1875e-05 >
+
+emergency <new bias :  -0.000155643778852 new rank :  0.00301251376358 >
+
+mitch <new bias :  -0.00131688381003 new rank :  -1.640625e-05 >
+
+confirm <new bias :  -0.00247822017642 new rank :  -2.625e-05 >
+
+region <new bias :  0.00231285023773 new rank :  0.00802596571786 >
+
+people <new bias :  0.00177728340336 new rank :  0.00826908275811 >
+
+commission <new bias :  0.00185396820707 new rank :  0.0068353777589 >
+
+dead <new bias :  0.00130396131708 new rank :  0.00631996111136 >
+
+formerhurricane <new bias :  -0.00123380021417 new rank :  -2.1875e-05 >
+
+bring <new bias :  0.00280213929951 new rank :  0.00855017270873 >
+
+say <new bias :  -0.00122444336249 new rank :  -2.6172311294e-05 >
+
+least <new bias :  0.00206985727708 new rank :  0.0102369078947 >
+
+storm <new bias :  -0.00213571223216 new rank :  0.0 >
+
+toll <new bias :  -0.00078941921555 new rank :  0.00284693246894 >
+
+national <new bias :  -0.00224486454486 new rank :  -1.74482075293e-05 >
+
+graf <new bias :  4.1015625e-06 new rank :  0.0 >
+
+Final list of keywords: 
+least => 0.0102369078947
+bring => 0.00855017270873
+people => 0.00826908275811
+region => 0.00802596571786
+commission => 0.0068353777589
+dead => 0.00631996111136
+death => 0.00624375714032
+emergency => 0.00301251376358
+toll => 0.00284693246894
+death indegree: 8 new bias :  0.00132361073072 new rank :  0.00624375714032 
+
+bring indegree: 6 new bias :  0.00280213929951 new rank :  0.00855017270873 
+
+emergency indegree: 8 new bias :  -0.000155643778852 new rank :  0.00301251376358 
+
+people indegree: 6 new bias :  0.00177728340336 new rank :  0.00826908275811 
+
+region indegree: 10 new bias :  0.00231285023773 new rank :  0.00802596571786 
+
+dead indegree: 6 new bias :  0.00130396131708 new rank :  0.00631996111136 
+
+commission indegree: 6 new bias :  0.00185396820707 new rank :  0.0068353777589 
+
+least indegree: 8 new bias :  0.00206985727708 new rank :  0.0102369078947 
+
+toll indegree: 10 new bias :  -0.00078941921555 new rank :  0.00284693246894 
+
+
+Total Nodes:  19
+
+Total Positive Nodes:  9
+Sentence Median =  1.04264518869 
+
+At least 231 people have been confirmed dead in Honduras from former-hurricane 
+Mitch, bringing the storm's death toll in the region to 357, the National 
+Emergency Commission said Saturday. << 1.04264518869 << 0 
+
+Mitch _ once, 2nd graf pvs 
+<< 0.0 << 1 
+
+Top Weights: 
+1.04264518869 ,
+0.0 ,
+
+
+honduras indegree: 6 new bias :  -0.00192289044402 new rank :  -2.1875e-05 
+
+mitch indegree: 4 new bias :  -0.00131688381003 new rank :  -1.640625e-05 
+
+confirm indegree: 4 new bias :  -0.00247822017642 new rank :  -2.625e-05 
+
+national indegree: 2 new bias :  -0.00224486454486 new rank :  -1.74482075293e-05 
+
+formerhurricane indegree: 6 new bias :  -0.00123380021417 new rank :  -2.1875e-05 
+
+say indegree: 4 new bias :  -0.00122444336249 new rank :  -2.6172311294e-05 
+
+saturday indegree: 2 new bias :  -0.00163695320186 new rank :  -3.48964150586e-05 
+
+
+Total Nodes:  19
+
+Total Negative Nodes:  7
+
+Total Negative weights:  0.000164923183882
+Sentence Median =  0.0 
+
+At least 231 people have been confirmed dead in Honduras from former-hurricane 
+Mitch, bringing the storm's death toll in the region to 357, the National 
+Emergency Commission said Saturday. << 0.0 << 0 
+
+Mitch _ once, 2nd graf pvs 
+<< 0.0 << 1 
+
+Top Weights: 
+0.0 ,
+0.0 ,
+
+

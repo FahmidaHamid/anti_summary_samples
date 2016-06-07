@@ -1,0 +1,1575 @@
+0 >> <DOC>
+<DOCNO> APW19981104.0539 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Pope John Paul II appealed for aid Wednesday for the Central American 
+countries stricken by hurricane Mitch and said he feels close to the 
+thousands who are suffering. 
+
+1 >> Speaking during his general audience, 
+the pope urged ``all public and private institutions and all men of 
+good will'' to do all they can ``in this grave moment of destruction 
+and death. 
+
+2 >> '' Hurricane Mitch killed an estimated 9,000 people throughout 
+Central America in a disaster of such proportions that relief agencies 
+have been overwhelmed. 
+
+3 >> Among those attending the audience were six 
+Russian cosmonauts taking a special course in Italy. 
+
+4 >> As a gift, they 
+gave John Paul a spacesuit. 
+
+5 >> </TEXT>
+</DOC>
+
+
+doc --> n --> a licensed medical practitioner --> 0#0 
+
+docno --> v -->  --> 1#0 
+
+apw199811040539 --> n -->  --> 2#0 
+
+docno --> n -->  --> 3#0 
+
+doctype --> n -->  --> 4#0 
+
+news --> n --> information about recent and important events --> 5#0 
+
+doctype --> n -->  --> 6#0 
+
+txttype --> n -->  --> 7#0 
+
+newswire --> n -->  --> 8#0 
+
+txttype --> n -->  --> 9#0 
+
+text --> n --> the words of something written --> 10#0 
+
+pope --> n --> the head of the Roman Catholic Church --> 11#0 
+
+john --> n --> a room or building equipped with one or more toilets --> 12#0 
+
+paul --> n --> United States feminist (1885-1977) --> 13#0 
+
+ii --> n --> the cardinal number that is the sum of one and one or a numeral representing this number --> 14#0 
+
+appeal --> v --> take a court case to a higher court for review --> 15#0 
+
+aid --> n --> a resource --> 16#0 
+
+wednesday --> n --> the fourth day of the week; the third working day --> 17#0 
+
+central --> a --> serving as an essential component --> 18#0 
+
+american --> n --> a native or inhabitant of the United States --> 19#0 
+
+country --> n --> a politically organized body of people under a single government --> 20#0 
+
+stricken --> v -->  --> 21#0 
+
+hurricane --> n --> a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) --> 22#0 
+
+mitch --> n -->  --> 23#0 
+
+say --> v --> express in words --> 24#0 
+
+feel --> v --> undergo an emotional sensation or be in a particular state of mind --> 25#0 
+
+close --> a --> at or within a short distance in space or time or having elements near each other --> 26#0 
+
+thousand --> n --> the cardinal number that is the product of 10 and 100 --> 27#0 
+
+suffer --> v --> undergo or be subjected to --> 28#0 
+
+speak --> v --> express in speech --> 0#1 
+
+general --> a --> applying to all or most members of a category or group --> 1#1 
+
+audience --> n --> a gathering of spectators or listeners at a (usually public) performance --> 2#1 
+
+pope --> n --> the head of the Roman Catholic Church --> 3#1 
+
+urge --> v --> force or impel in an indicated direction --> 4#1 
+
+public --> a --> not private; open to or concerning the people as a whole --> 5#1 
+
+private --> a --> confined to particular persons or groups or providing privacy --> 6#1 
+
+institution --> n --> an organization founded and united for a specific purpose --> 7#1 
+
+men --> n --> the force of workers available --> 8#1 
+
+good --> a --> having desirable or positive qualities especially those suitable for a thing specified --> 9#1 
+
+grave --> n --> death of a person --> 10#1 
+
+moment --> n --> a particular point in time --> 11#1 
+
+destruction --> n --> the termination of something by causing so much damage to it that it cannot be repaired or no longer exists --> 12#1 
+
+death --> n --> the event of dying or departure from life --> 13#1 
+
+hurricane --> n --> a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) --> 0#2 
+
+mitch --> n -->  --> 1#2 
+
+kill --> v --> cause to die; put to death, usually intentionally or knowingly --> 2#2 
+
+estimate --> v --> judge tentatively or form an estimate of (quantities or time) --> 3#2 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 4#2 
+
+central --> a --> serving as an essential component --> 5#2 
+
+america --> n --> North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776 --> 6#2 
+
+disaster --> n --> a state of extreme (usually irremediable) ruin and misfortune --> 7#2 
+
+proportion --> n --> the quotient obtained when the magnitude of a part is divided by the magnitude of the whole --> 8#2 
+
+relief --> n --> the feeling that comes when something burdensome is removed or reduced --> 9#2 
+
+agency --> n --> an administrative unit of government --> 10#2 
+
+overwhelm --> v --> overcome, as with emotions or perceptual stimuli --> 11#2 
+
+attend --> v --> be present at (meetings, church services, university), etc. --> 0#3 
+
+audience --> n --> a gathering of spectators or listeners at a (usually public) performance --> 1#3 
+
+russian --> a --> of or pertaining to or characteristic of Russia or its people or culture or language --> 2#3 
+
+cosmonaut --> n --> a person trained to travel in a spacecraft --> 3#3 
+
+take --> v --> carry out --> 4#3 
+
+special --> a --> unique or specific to a person or thing or category --> 5#3 
+
+course --> n --> education imparted in a series of lessons or meetings --> 6#3 
+
+italy --> r -->  --> 7#3 
+
+gift --> n --> something acquired without compensation --> 0#4 
+
+give --> v --> cause to have, in the abstract sense or physical sense --> 1#4 
+
+john --> a -->  --> 2#4 
+
+paul --> n --> United States feminist (1885-1977) --> 3#4 
+
+spacesuit --> n --> a pressure suit worn by astronauts while in outer space --> 4#4 
+
+text --> n --> the words of something written --> 0#5 
+
+doc --> n --> a licensed medical practitioner --> 1#5 
+
+Total Edges :  325 Edge Weight :  0.00307692307692
+similarity( text ,  say ) =  0.125
+similarity( text ,  destruction ) =  0.0384615384615
+similarity( text ,  relief ) =  0.0625
+similarity( text ,  gift ) =  0.111111111111
+similarity( john ,  ii ) =  0.037037037037
+similarity( paul ,  american ) =  0.166666666667
+similarity( ii ,  thousand ) =  0.107142857143
+similarity( country ,  public ) =  0.047619047619
+similarity( country ,  agency ) =  0.0666666666667
+similarity( country ,  russian ) =  0.04
+similarity( hurricane ,  audience ) =  0.0333333333333
+similarity( hurricane ,  kill ) =  0.0344827586207
+similarity( hurricane ,  disaster ) =  0.0357142857143
+similarity( say ,  speak ) =  0.166666666667
+similarity( feel ,  suffer ) =  0.0588235294118
+similarity( feel ,  private ) =  0.047619047619
+similarity( feel ,  moment ) =  0.0588235294118
+similarity( feel ,  disaster ) =  0.047619047619
+similarity( close ,  moment ) =  0.047619047619
+similarity( close ,  estimate ) =  0.0384615384615
+similarity( close ,  spacesuit ) =  0.0384615384615
+similarity( general ,  people ) =  0.0434782608696
+similarity( general ,  special ) =  0.047619047619
+similarity( audience ,  kill ) =  0.047619047619
+similarity( audience ,  disaster ) =  0.05
+similarity( urge ,  men ) =  0.0833333333333
+similarity( public ,  proportion ) =  0.0357142857143
+similarity( public ,  russian ) =  0.0384615384615
+similarity( private ,  moment ) =  0.0714285714286
+similarity( institution ,  special ) =  0.0526315789474
+similarity( good ,  special ) =  0.0454545454545
+similarity( grave ,  kill ) =  0.0714285714286
+similarity( grave ,  cosmonaut ) =  0.0833333333333
+similarity( grave ,  special ) =  0.0714285714286
+similarity( moment ,  estimate ) =  0.0666666666667
+similarity( destruction ,  relief ) =  0.03125
+similarity( destruction ,  gift ) =  0.04
+similarity( kill ,  disaster ) =  0.0526315789474
+similarity( kill ,  give ) =  0.05
+similarity( relief ,  gift ) =  0.0666666666667
+similarity( attend ,  course ) =  0.0588235294118
+similarity( cosmonaut ,  special ) =  0.0555555555556
+proportion bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( proportion , central ) =  0.0 
+
+weight ( proportion , disaster ) =  0.0 
+
+weight ( proportion , overwhelm ) =  0.0 
+
+weight ( proportion , agency ) =  0.0 
+
+weight ( proportion , relief ) =  0.0 
+
+weight ( proportion , america ) =  0.0 
+
+weight ( proportion , public ) =  0.0357142857143 
+
+disaster bias :  -0.375 prestige : 0.00307692307692 >> out_deg : 10 >> in_deg : 10 
+
+weight ( disaster , central ) =  -3.75e-05 
+
+weight ( disaster , people ) =  -3.75e-05 
+
+weight ( disaster , feel ) =  0.047619047619 
+
+weight ( disaster , hurricane ) =  0.0357142857143 
+
+weight ( disaster , agency ) =  -3.75e-05 
+
+weight ( disaster , proportion ) =  -3.75e-05 
+
+weight ( disaster , audience ) =  0.05 
+
+weight ( disaster , kill ) =  0.0526315789474 
+
+weight ( disaster , relief ) =  -3.75e-05 
+
+weight ( disaster , america ) =  -3.75e-05 
+
+pope bias :  0.0 prestige : 0.00307692307692 >> out_deg : 12 >> in_deg : 12 
+
+weight ( pope , urge ) =  0.0 
+
+weight ( pope , txttype ) =  0.0 
+
+weight ( pope , text ) =  0.0 
+
+weight ( pope , private ) =  0.0 
+
+weight ( pope , general ) =  0.0 
+
+weight ( pope , ii ) =  0.0 
+
+weight ( pope , audience ) =  0.0 
+
+weight ( pope , newswire ) =  0.0 
+
+weight ( pope , paul ) =  0.0 
+
+weight ( pope , john ) =  0.0 
+
+weight ( pope , public ) =  0.0 
+
+weight ( pope , speak ) =  0.0 
+
+people bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( people , central ) =  0.0 
+
+weight ( people , disaster ) =  0.0 
+
+weight ( people , mitch ) =  0.0 
+
+weight ( people , general ) =  0.0434782608696 
+
+weight ( people , kill ) =  0.0 
+
+weight ( people , estimate ) =  0.0 
+
+weight ( people , america ) =  0.0 
+
+feel bias :  -0.25 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( feel , disaster ) =  0.047619047619 
+
+weight ( feel , mitch ) =  -2.5e-05 
+
+weight ( feel , thousand ) =  -2.5e-05 
+
+weight ( feel , hurricane ) =  -2.5e-05 
+
+weight ( feel , moment ) =  0.0588235294118 
+
+weight ( feel , private ) =  0.047619047619 
+
+weight ( feel , say ) =  -2.5e-05 
+
+weight ( feel , close ) =  -2.5e-05 
+
+weight ( feel , suffer ) =  0.0587985294118 
+
+text bias :  0.0 prestige : 0.00307692307692 >> out_deg : 10 >> in_deg : 10 
+
+weight ( text , gift ) =  0.111111111111 
+
+weight ( text , pope ) =  0.0 
+
+weight ( text , txttype ) =  0.0 
+
+weight ( text , doc ) =  0.0 
+
+weight ( text , say ) =  0.125 
+
+weight ( text , relief ) =  0.0625 
+
+weight ( text , newswire ) =  0.0 
+
+weight ( text , paul ) =  0.0 
+
+weight ( text , john ) =  0.0 
+
+weight ( text , destruction ) =  0.0384615384615 
+
+private bias :  -0.125 prestige : 0.00307692307692 >> out_deg : 8 >> in_deg : 8 
+
+weight ( private , urge ) =  -1.25e-05 
+
+weight ( private , good ) =  -1.25e-05 
+
+weight ( private , pope ) =  -1.25e-05 
+
+weight ( private , feel ) =  0.047619047619 
+
+weight ( private , men ) =  -1.25e-05 
+
+weight ( private , institution ) =  -1.25e-05 
+
+weight ( private , moment ) =  0.0714285714286 
+
+weight ( private , public ) =  -1.25e-05 
+
+doctype bias :  0.0 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( doctype , txttype ) =  0.0 
+
+weight ( doctype , doctype ) =  0.0 
+
+weight ( doctype , apw199811040539 ) =  0.0 
+
+weight ( doctype , newswire ) =  0.0 
+
+weight ( doctype , news ) =  0.0 
+
+weight ( doctype , docno ) =  0.0 
+
+ii bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( ii , appeal ) =  0.0 
+
+weight ( ii , pope ) =  0.0 
+
+weight ( ii , thousand ) =  0.107142857143 
+
+weight ( ii , wednesday ) =  0.0 
+
+weight ( ii , aid ) =  0.0 
+
+weight ( ii , paul ) =  0.0 
+
+weight ( ii , john ) =  0.0 
+
+course bias :  0.0 prestige : 0.00307692307692 >> out_deg : 5 >> in_deg : 5 
+
+weight ( course , attend ) =  0.0588235294118 
+
+weight ( course , italy ) =  0.0 
+
+weight ( course , cosmonaut ) =  0.0 
+
+weight ( course , take ) =  0.0 
+
+weight ( course , special ) =  0.0 
+
+say bias :  0.0 prestige : 0.00307692307692 >> out_deg : 8 >> in_deg : 8 
+
+weight ( say , mitch ) =  0.0 
+
+weight ( say , feel ) =  0.0 
+
+weight ( say , text ) =  0.125 
+
+weight ( say , thousand ) =  0.0 
+
+weight ( say , hurricane ) =  0.0 
+
+weight ( say , stricken ) =  0.0 
+
+weight ( say , close ) =  0.0 
+
+weight ( say , speak ) =  0.166666666667 
+
+kill bias :  -0.5 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( kill , central ) =  -5e-05 
+
+weight ( kill , disaster ) =  0.0526315789474 
+
+weight ( kill , mitch ) =  -5e-05 
+
+weight ( kill , people ) =  -5e-05 
+
+weight ( kill , give ) =  0.05 
+
+weight ( kill , hurricane ) =  -5e-05 
+
+weight ( kill , audience ) =  0.047619047619 
+
+weight ( kill , estimate ) =  -5e-05 
+
+weight ( kill , grave ) =  0.0714285714286 
+
+close bias :  0.0 prestige : 0.00307692307692 >> out_deg : 8 >> in_deg : 8 
+
+weight ( close , mitch ) =  0.0 
+
+weight ( close , feel ) =  0.0 
+
+weight ( close , thousand ) =  0.0 
+
+weight ( close , say ) =  0.0 
+
+weight ( close , moment ) =  0.047619047619 
+
+weight ( close , spacesuit ) =  0.0384615384615 
+
+weight ( close , estimate ) =  0.0384615384615 
+
+weight ( close , suffer ) =  0.0 
+
+docno bias :  0.0 prestige : 0.00307692307692 >> out_deg : 5 >> in_deg : 5 
+
+weight ( docno , doc ) =  0.0 
+
+weight ( docno , docno ) =  0.0 
+
+weight ( docno , news ) =  0.0 
+
+weight ( docno , doctype ) =  0.0 
+
+weight ( docno , apw199811040539 ) =  0.0 
+
+suffer bias :  0.0 prestige : 0.00307692307692 >> out_deg : 3 >> in_deg : 3 
+
+weight ( suffer , feel ) =  0.0 
+
+weight ( suffer , close ) =  0.0 
+
+weight ( suffer , thousand ) =  0.0 
+
+paul bias :  0.0 prestige : 0.00307692307692 >> out_deg : 10 >> in_deg : 10 
+
+weight ( paul , appeal ) =  0.0 
+
+weight ( paul , gift ) =  0.0 
+
+weight ( paul , pope ) =  0.0 
+
+weight ( paul , give ) =  0.0 
+
+weight ( paul , text ) =  0.0 
+
+weight ( paul , ii ) =  0.0 
+
+weight ( paul , american ) =  0.166666666667 
+
+weight ( paul , spacesuit ) =  0.0 
+
+weight ( paul , aid ) =  0.0 
+
+weight ( paul , john ) =  0.0 
+
+special bias :  0.0 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( special , good ) =  0.0454545454545 
+
+weight ( special , italy ) =  0.0 
+
+weight ( special , general ) =  0.047619047619 
+
+weight ( special , course ) =  0.0 
+
+weight ( special , take ) =  0.0 
+
+weight ( special , russian ) =  0.0 
+
+weight ( special , cosmonaut ) =  0.0 
+
+weight ( special , institution ) =  0.0526315789474 
+
+weight ( special , grave ) =  0.0714285714286 
+
+speak bias :  0.0 prestige : 0.00307692307692 >> out_deg : 4 >> in_deg : 4 
+
+weight ( speak , audience ) =  0.0 
+
+weight ( speak , say ) =  0.166666666667 
+
+weight ( speak , pope ) =  0.0 
+
+weight ( speak , general ) =  0.0 
+
+death bias :  0.0 prestige : 0.00307692307692 >> out_deg : 3 >> in_deg : 3 
+
+weight ( death , moment ) =  0.0 
+
+weight ( death , grave ) =  0.0 
+
+weight ( death , destruction ) =  0.0 
+
+italy bias :  0.0 prestige : 0.00307692307692 >> out_deg : 3 >> in_deg : 3 
+
+weight ( italy , course ) =  0.0 
+
+weight ( italy , take ) =  0.0 
+
+weight ( italy , special ) =  0.0 
+
+give bias :  -0.125 prestige : 0.00307692307692 >> out_deg : 5 >> in_deg : 5 
+
+weight ( give , spacesuit ) =  -1.25e-05 
+
+weight ( give , paul ) =  -1.25e-05 
+
+weight ( give , john ) =  -1.25e-05 
+
+weight ( give , kill ) =  0.05 
+
+weight ( give , gift ) =  -1.25e-05 
+
+mitch bias :  0.0 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( mitch , people ) =  0.0 
+
+weight ( mitch , feel ) =  0.0 
+
+weight ( mitch , country ) =  0.0 
+
+weight ( mitch , hurricane ) =  0.0 
+
+weight ( mitch , stricken ) =  0.0 
+
+weight ( mitch , say ) =  0.0 
+
+weight ( mitch , kill ) =  0.0 
+
+weight ( mitch , close ) =  0.0 
+
+weight ( mitch , estimate ) =  0.0 
+
+txttype bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( txttype , pope ) =  0.0 
+
+weight ( txttype , txttype ) =  0.0 
+
+weight ( txttype , text ) =  0.0 
+
+weight ( txttype , doctype ) =  0.0 
+
+weight ( txttype , newswire ) =  0.0 
+
+weight ( txttype , news ) =  0.0 
+
+weight ( txttype , john ) =  0.0 
+
+agency bias :  0.0 prestige : 0.00307692307692 >> out_deg : 5 >> in_deg : 5 
+
+weight ( agency , overwhelm ) =  0.0 
+
+weight ( agency , country ) =  0.0666666666667 
+
+weight ( agency , proportion ) =  0.0 
+
+weight ( agency , disaster ) =  0.0 
+
+weight ( agency , relief ) =  0.0 
+
+hurricane bias :  0.0 prestige : 0.00307692307692 >> out_deg : 10 >> in_deg : 10 
+
+weight ( hurricane , disaster ) =  0.0357142857143 
+
+weight ( hurricane , mitch ) =  0.0 
+
+weight ( hurricane , feel ) =  0.0 
+
+weight ( hurricane , country ) =  0.0 
+
+weight ( hurricane , say ) =  0.0 
+
+weight ( hurricane , stricken ) =  0.0 
+
+weight ( hurricane , american ) =  0.0 
+
+weight ( hurricane , kill ) =  0.0344827586207 
+
+weight ( hurricane , audience ) =  0.0333333333333 
+
+weight ( hurricane , estimate ) =  0.0 
+
+audience bias :  0.0 prestige : 0.00307692307692 >> out_deg : 12 >> in_deg : 12 
+
+weight ( audience , disaster ) =  0.05 
+
+weight ( audience , urge ) =  0.0 
+
+weight ( audience , cosmonaut ) =  0.0 
+
+weight ( audience , pope ) =  0.0 
+
+weight ( audience , attend ) =  0.0 
+
+weight ( audience , hurricane ) =  0.0333333333333 
+
+weight ( audience , general ) =  0.0 
+
+weight ( audience , kill ) =  0.047619047619 
+
+weight ( audience , take ) =  0.0 
+
+weight ( audience , russian ) =  0.0 
+
+weight ( audience , public ) =  0.0 
+
+weight ( audience , speak ) =  0.0 
+
+overwhelm bias :  0.375 prestige : 0.00307692307692 >> out_deg : 3 >> in_deg : 3 
+
+weight ( overwhelm , agency ) =  3.75e-05 
+
+weight ( overwhelm , proportion ) =  3.75e-05 
+
+weight ( overwhelm , relief ) =  3.75e-05 
+
+spacesuit bias :  0.0 prestige : 0.00307692307692 >> out_deg : 4 >> in_deg : 4 
+
+weight ( spacesuit , close ) =  0.0384615384615 
+
+weight ( spacesuit , paul ) =  0.0 
+
+weight ( spacesuit , john ) =  0.0 
+
+weight ( spacesuit , give ) =  0.0 
+
+take bias :  0.0 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( take , italy ) =  0.0 
+
+weight ( take , course ) =  0.0 
+
+weight ( take , audience ) =  0.0 
+
+weight ( take , russian ) =  0.0 
+
+weight ( take , cosmonaut ) =  0.0 
+
+weight ( take , special ) =  0.0 
+
+appeal bias :  0.0 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( appeal , central ) =  0.0 
+
+weight ( appeal , wednesday ) =  0.0 
+
+weight ( appeal , ii ) =  0.0 
+
+weight ( appeal , aid ) =  0.0 
+
+weight ( appeal , paul ) =  0.0 
+
+weight ( appeal , john ) =  0.0 
+
+public bias :  -0.125 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( public , urge ) =  -1.25e-05 
+
+weight ( public , pope ) =  -1.25e-05 
+
+weight ( public , country ) =  0.047619047619 
+
+weight ( public , men ) =  -1.25e-05 
+
+weight ( public , proportion ) =  0.0357142857143 
+
+weight ( public , private ) =  -1.25e-05 
+
+weight ( public , audience ) =  -1.25e-05 
+
+weight ( public , russian ) =  0.0384615384615 
+
+weight ( public , institution ) =  -1.25e-05 
+
+urge bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( urge , pope ) =  0.0 
+
+weight ( urge , men ) =  0.0833333333333 
+
+weight ( urge , private ) =  0.0 
+
+weight ( urge , public ) =  0.0 
+
+weight ( urge , audience ) =  0.0 
+
+weight ( urge , general ) =  0.0 
+
+weight ( urge , institution ) =  0.0 
+
+good bias :  0.75 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( good , men ) =  7.5e-05 
+
+weight ( good , private ) =  7.5e-05 
+
+weight ( good , moment ) =  7.5e-05 
+
+weight ( good , special ) =  0.0454545454545 
+
+weight ( good , institution ) =  7.5e-05 
+
+weight ( good , grave ) =  7.5e-05 
+
+weight ( good , destruction ) =  7.5e-05 
+
+attend bias :  0.0 prestige : 0.00307692307692 >> out_deg : 4 >> in_deg : 4 
+
+weight ( attend , russian ) =  0.0 
+
+weight ( attend , course ) =  0.0588235294118 
+
+weight ( attend , audience ) =  0.0 
+
+weight ( attend , cosmonaut ) =  0.0 
+
+thousand bias :  0.0 prestige : 0.00307692307692 >> out_deg : 5 >> in_deg : 5 
+
+weight ( thousand , feel ) =  0.0 
+
+weight ( thousand , close ) =  0.0 
+
+weight ( thousand , say ) =  0.0 
+
+weight ( thousand , suffer ) =  0.0 
+
+weight ( thousand , ii ) =  0.107142857143 
+
+men bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( men , urge ) =  0.0833333333333 
+
+weight ( men , good ) =  0.0 
+
+weight ( men , private ) =  0.0 
+
+weight ( men , institution ) =  0.0 
+
+weight ( men , moment ) =  0.0 
+
+weight ( men , public ) =  0.0 
+
+weight ( men , grave ) =  0.0 
+
+cosmonaut bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( cosmonaut , attend ) =  0.0 
+
+weight ( cosmonaut , grave ) =  0.0833333333333 
+
+weight ( cosmonaut , course ) =  0.0 
+
+weight ( cosmonaut , audience ) =  0.0 
+
+weight ( cosmonaut , take ) =  0.0 
+
+weight ( cosmonaut , russian ) =  0.0 
+
+weight ( cosmonaut , special ) =  0.0555555555556 
+
+america bias :  0.0 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( america , central ) =  0.0 
+
+weight ( america , disaster ) =  0.0 
+
+weight ( america , people ) =  0.0 
+
+weight ( america , proportion ) =  0.0 
+
+weight ( america , relief ) =  0.0 
+
+weight ( america , estimate ) =  0.0 
+
+moment bias :  0.0 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( moment , death ) =  0.0 
+
+weight ( moment , feel ) =  0.0588235294118 
+
+weight ( moment , men ) =  0.0 
+
+weight ( moment , private ) =  0.0714285714286 
+
+weight ( moment , good ) =  0.0 
+
+weight ( moment , close ) =  0.047619047619 
+
+weight ( moment , estimate ) =  0.0666666666667 
+
+weight ( moment , grave ) =  0.0 
+
+weight ( moment , destruction ) =  0.0 
+
+newswire bias :  0.0 prestige : 0.00307692307692 >> out_deg : 5 >> in_deg : 5 
+
+weight ( newswire , news ) =  0.0 
+
+weight ( newswire , text ) =  0.0 
+
+weight ( newswire , doctype ) =  0.0 
+
+weight ( newswire , pope ) =  0.0 
+
+weight ( newswire , txttype ) =  0.0 
+
+russian bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( russian , cosmonaut ) =  0.0 
+
+weight ( russian , attend ) =  0.0 
+
+weight ( russian , country ) =  0.04 
+
+weight ( russian , audience ) =  0.0 
+
+weight ( russian , take ) =  0.0 
+
+weight ( russian , public ) =  0.0384615384615 
+
+weight ( russian , special ) =  0.0 
+
+news bias :  0.0 prestige : 0.00307692307692 >> out_deg : 5 >> in_deg : 5 
+
+weight ( news , docno ) =  0.0 
+
+weight ( news , txttype ) =  0.0 
+
+weight ( news , doctype ) =  0.0 
+
+weight ( news , newswire ) =  0.0 
+
+weight ( news , apw199811040539 ) =  0.0 
+
+estimate bias :  0.0 prestige : 0.00307692307692 >> out_deg : 8 >> in_deg : 8 
+
+weight ( estimate , central ) =  0.0 
+
+weight ( estimate , mitch ) =  0.0 
+
+weight ( estimate , people ) =  0.0 
+
+weight ( estimate , hurricane ) =  0.0 
+
+weight ( estimate , moment ) =  0.0666666666667 
+
+weight ( estimate , kill ) =  0.0 
+
+weight ( estimate , close ) =  0.0384615384615 
+
+weight ( estimate , america ) =  0.0 
+
+general bias :  0.0 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( general , urge ) =  0.0 
+
+weight ( general , pope ) =  0.0 
+
+weight ( general , people ) =  0.0434782608696 
+
+weight ( general , audience ) =  0.0 
+
+weight ( general , special ) =  0.047619047619 
+
+weight ( general , speak ) =  0.0 
+
+institution bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( institution , urge ) =  0.0 
+
+weight ( institution , good ) =  0.0 
+
+weight ( institution , men ) =  0.0 
+
+weight ( institution , private ) =  0.0 
+
+weight ( institution , special ) =  0.0526315789474 
+
+weight ( institution , public ) =  0.0 
+
+weight ( institution , grave ) =  0.0 
+
+grave bias :  0.0 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( grave , death ) =  0.0 
+
+weight ( grave , cosmonaut ) =  0.0833333333333 
+
+weight ( grave , men ) =  0.0 
+
+weight ( grave , moment ) =  0.0 
+
+weight ( grave , good ) =  0.0 
+
+weight ( grave , kill ) =  0.0714285714286 
+
+weight ( grave , institution ) =  0.0 
+
+weight ( grave , special ) =  0.0714285714286 
+
+weight ( grave , destruction ) =  0.0 
+
+destruction bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( destruction , death ) =  0.0 
+
+weight ( destruction , gift ) =  0.04 
+
+weight ( destruction , text ) =  0.0384615384615 
+
+weight ( destruction , moment ) =  0.0 
+
+weight ( destruction , good ) =  0.0 
+
+weight ( destruction , relief ) =  0.03125 
+
+weight ( destruction , grave ) =  0.0 
+
+john bias :  0.0 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( john , gift ) =  0.0 
+
+weight ( john , pope ) =  0.0 
+
+weight ( john , txttype ) =  0.0 
+
+weight ( john , text ) =  0.0 
+
+weight ( john , give ) =  0.0 
+
+weight ( john , ii ) =  0.037037037037 
+
+weight ( john , spacesuit ) =  0.0 
+
+weight ( john , paul ) =  0.0 
+
+weight ( john , appeal ) =  0.0 
+
+central bias :  0.0 prestige : 0.00307692307692 >> out_deg : 12 >> in_deg : 12 
+
+weight ( central , america ) =  0.0 
+
+weight ( central , disaster ) =  0.0 
+
+weight ( central , people ) =  0.0 
+
+weight ( central , country ) =  0.0 
+
+weight ( central , proportion ) =  0.0 
+
+weight ( central , wednesday ) =  0.0 
+
+weight ( central , stricken ) =  0.0 
+
+weight ( central , american ) =  0.0 
+
+weight ( central , kill ) =  0.0 
+
+weight ( central , aid ) =  0.0 
+
+weight ( central , estimate ) =  0.0 
+
+weight ( central , appeal ) =  0.0 
+
+gift bias :  0.25 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( gift , give ) =  2.5e-05 
+
+weight ( gift , text ) =  0.111111111111 
+
+weight ( gift , relief ) =  0.0666666666667 
+
+weight ( gift , paul ) =  2.5e-05 
+
+weight ( gift , john ) =  2.5e-05 
+
+weight ( gift , destruction ) =  0.04 
+
+doc bias :  0.0 prestige : 0.00307692307692 >> out_deg : 3 >> in_deg : 3 
+
+weight ( doc , text ) =  0.0 
+
+weight ( doc , docno ) =  0.0 
+
+weight ( doc , apw199811040539 ) =  0.0 
+
+wednesday bias :  0.0 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( wednesday , central ) =  0.0 
+
+weight ( wednesday , country ) =  0.0 
+
+weight ( wednesday , ii ) =  0.0 
+
+weight ( wednesday , american ) =  0.0 
+
+weight ( wednesday , aid ) =  0.0 
+
+weight ( wednesday , appeal ) =  0.0 
+
+apw199811040539 bias :  0.0 prestige : 0.00307692307692 >> out_deg : 4 >> in_deg : 4 
+
+weight ( apw199811040539 , doc ) =  0.0 
+
+weight ( apw199811040539 , docno ) =  0.0 
+
+weight ( apw199811040539 , doctype ) =  0.0 
+
+weight ( apw199811040539 , news ) =  0.0 
+
+stricken bias :  0.0 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( stricken , central ) =  0.0 
+
+weight ( stricken , mitch ) =  0.0 
+
+weight ( stricken , country ) =  0.0 
+
+weight ( stricken , hurricane ) =  0.0 
+
+weight ( stricken , say ) =  0.0 
+
+weight ( stricken , american ) =  0.0 
+
+american bias :  0.0 prestige : 0.00307692307692 >> out_deg : 7 >> in_deg : 7 
+
+weight ( american , central ) =  0.0 
+
+weight ( american , country ) =  0.0 
+
+weight ( american , hurricane ) =  0.0 
+
+weight ( american , wednesday ) =  0.0 
+
+weight ( american , stricken ) =  0.0 
+
+weight ( american , aid ) =  0.0 
+
+weight ( american , paul ) =  0.166666666667 
+
+relief bias :  0.125 prestige : 0.00307692307692 >> out_deg : 8 >> in_deg : 8 
+
+weight ( relief , disaster ) =  1.25e-05 
+
+weight ( relief , gift ) =  0.0666666666667 
+
+weight ( relief , overwhelm ) =  1.25e-05 
+
+weight ( relief , text ) =  0.0625 
+
+weight ( relief , agency ) =  1.25e-05 
+
+weight ( relief , proportion ) =  1.25e-05 
+
+weight ( relief , america ) =  1.25e-05 
+
+weight ( relief , destruction ) =  0.03125 
+
+country bias :  0.0 prestige : 0.00307692307692 >> out_deg : 9 >> in_deg : 9 
+
+weight ( country , central ) =  0.0 
+
+weight ( country , mitch ) =  0.0 
+
+weight ( country , agency ) =  0.0666666666667 
+
+weight ( country , hurricane ) =  0.0 
+
+weight ( country , wednesday ) =  0.0 
+
+weight ( country , stricken ) =  0.0 
+
+weight ( country , american ) =  0.0 
+
+weight ( country , russian ) =  0.04 
+
+weight ( country , public ) =  0.047619047619 
+
+aid bias :  -0.25 prestige : 0.00307692307692 >> out_deg : 6 >> in_deg : 6 
+
+weight ( aid , central ) =  -2.5e-05 
+
+weight ( aid , wednesday ) =  -2.5e-05 
+
+weight ( aid , ii ) =  -2.5e-05 
+
+weight ( aid , american ) =  -2.5e-05 
+
+weight ( aid , paul ) =  -2.5e-05 
+
+weight ( aid , appeal ) =  -2.5e-05 
+
+proportion bias :  4.74105040378e-05 prestige : 0.00316565961321 
+
+disaster bias :  0.00140837668717 prestige : 0.0120811901876 
+
+pope bias :  -0.00358425580668 prestige : -2.34375e-06 
+
+people bias :  -0.000367704700696 prestige : 0.00435434135302 
+
+feel bias :  0.00153347289478 prestige : 0.00822100186071 
+
+text bias :  0.00212165582893 prestige : 0.0123264190018 
+
+private bias :  0.00112121031744 prestige : 0.00602236886943 
+
+doctype bias :  0.0 prestige : 0.0 
+
+ii bias :  0.00195016271122 prestige : 0.0144330790428 
+
+course bias :  0.000924475806538 prestige : 0.00695268009908 
+
+say bias :  0.00187353616967 prestige : 0.00878977740008 
+
+kill bias :  0.00167022720689 prestige : 0.0203225251436 
+
+close bias :  0.00138896722832 prestige : 0.00876528559515 
+
+docno bias :  0.0 prestige : 0.0 
+
+suffer bias :  -0.00416726172182 prestige : 0.00944011151539 
+
+paul bias :  0.00142086047301 prestige : 0.00483576157708 
+
+special bias :  0.00173431275253 prestige : 0.0177925507445 
+
+speak bias :  0.00185236269933 prestige : 0.0119980295027 
+
+death bias :  -0.00541635933689 prestige : 0.0 
+
+italy bias :  -0.00412420514059 prestige : 0.0 
+
+give bias :  0.00028117554957 prestige : 0.00351685611387 
+
+mitch bias :  -0.00410112973709 prestige : -1.18055555556e-05 
+
+txttype bias :  -0.000880178226699 prestige : 0.0 
+
+agency bias :  0.00108704568412 prestige : 0.00582173009316 
+
+hurricane bias :  0.00057938779317 prestige : 0.00469341452405 
+
+audience bias :  0.000699922924177 prestige : 0.00602386377137 
+
+overwhelm bias :  -0.00265004393789 prestige : 1.99822998117e-06 
+
+spacesuit bias :  0.00126306052145 prestige : 0.00668145877512 
+
+take bias :  -0.0035055078889 prestige : 0.0 
+
+appeal bias :  -0.00160261775104 prestige : -1.68671029432e-05 
+
+public bias :  0.00116749279736 prestige : 0.0101752441369 
+
+urge bias :  0.00103595179101 prestige : 0.010226586662 
+
+good bias :  -0.00397442434173 prestige : 0.00223652839545 
+
+attend bias :  0.00131123207164 prestige : 0.0108082694137 
+
+thousand bias :  0.00144464634659 prestige : 0.00801728287506 
+
+men bias :  0.000915598128789 prestige : 0.00821435021268 
+
+cosmonaut bias :  0.001261682705 prestige : 0.00538749943112 
+
+america bias :  -0.0027369851866 prestige : -7.59463500942e-06 
+
+moment bias :  0.00172980691138 prestige : 0.0169677884253 
+
+newswire bias :  -0.00123240752518 prestige : 0.0 
+
+russian bias :  0.000641886139642 prestige : 0.00590950062073 
+
+news bias :  0.0 prestige : 0.0 
+
+estimate bias :  0.00101839181209 prestige : 0.00627842509083 
+
+general bias :  0.00114465195546 prestige : 0.00998236687428 
+
+institution bias :  -0.000900910008266 prestige : 0.00259065129999 
+
+grave bias :  0.00132760655471 prestige : 0.0105766900421 
+
+destruction bias :  0.00132379957316 prestige : 0.00495367755385 
+
+john bias :  -0.00109057146809 prestige : -1.5800780049e-06 
+
+central bias :  -0.00299641840094 prestige : -1.89804264716e-05 
+
+gift bias :  0.00191730241731 prestige : 0.0148929598049 
+
+doc bias :  -0.00205440316697 prestige : 0.0 
+
+wednesday bias :  -0.00334587171571 prestige : -1.68671029432e-05 
+
+apw199811040539 bias :  0.0 prestige : 0.0 
+
+stricken bias :  -0.00326713625144 prestige : 0.0 
+
+american bias :  0.00189886758704 prestige : 0.013357664775 
+
+relief bias :  0.00148286174219 prestige : 0.00698318642094 
+
+country bias :  0.00152816937393 prestige : 0.0123955643002 
+
+aid bias :  -0.00276508387237 prestige : 0.0 
+
+proportion <new bias :  4.74105040378e-05 new rank :  0.00316565961321 >
+
+disaster <new bias :  0.00140837668717 new rank :  0.0120811901876 >
+
+pope <new bias :  -0.00358425580668 new rank :  -2.34375e-06 >
+
+people <new bias :  -0.000367704700696 new rank :  0.00435434135302 >
+
+feel <new bias :  0.00153347289478 new rank :  0.00822100186071 >
+
+text <new bias :  0.00212165582893 new rank :  0.0123264190018 >
+
+private <new bias :  0.00112121031744 new rank :  0.00602236886943 >
+
+doctype <new bias :  0.0 new rank :  0.0 >
+
+ii <new bias :  0.00195016271122 new rank :  0.0144330790428 >
+
+course <new bias :  0.000924475806538 new rank :  0.00695268009908 >
+
+say <new bias :  0.00187353616967 new rank :  0.00878977740008 >
+
+kill <new bias :  0.00167022720689 new rank :  0.0203225251436 >
+
+close <new bias :  0.00138896722832 new rank :  0.00876528559515 >
+
+docno <new bias :  0.0 new rank :  0.0 >
+
+suffer <new bias :  -0.00416726172182 new rank :  0.00944011151539 >
+
+paul <new bias :  0.00142086047301 new rank :  0.00483576157708 >
+
+special <new bias :  0.00173431275253 new rank :  0.0177925507445 >
+
+speak <new bias :  0.00185236269933 new rank :  0.0119980295027 >
+
+death <new bias :  -0.00541635933689 new rank :  0.0 >
+
+italy <new bias :  -0.00412420514059 new rank :  0.0 >
+
+give <new bias :  0.00028117554957 new rank :  0.00351685611387 >
+
+mitch <new bias :  -0.00410112973709 new rank :  -1.18055555556e-05 >
+
+txttype <new bias :  -0.000880178226699 new rank :  0.0 >
+
+agency <new bias :  0.00108704568412 new rank :  0.00582173009316 >
+
+hurricane <new bias :  0.00057938779317 new rank :  0.00469341452405 >
+
+audience <new bias :  0.000699922924177 new rank :  0.00602386377137 >
+
+overwhelm <new bias :  -0.00265004393789 new rank :  1.99822998117e-06 >
+
+spacesuit <new bias :  0.00126306052145 new rank :  0.00668145877512 >
+
+take <new bias :  -0.0035055078889 new rank :  0.0 >
+
+appeal <new bias :  -0.00160261775104 new rank :  -1.68671029432e-05 >
+
+public <new bias :  0.00116749279736 new rank :  0.0101752441369 >
+
+urge <new bias :  0.00103595179101 new rank :  0.010226586662 >
+
+good <new bias :  -0.00397442434173 new rank :  0.00223652839545 >
+
+attend <new bias :  0.00131123207164 new rank :  0.0108082694137 >
+
+thousand <new bias :  0.00144464634659 new rank :  0.00801728287506 >
+
+men <new bias :  0.000915598128789 new rank :  0.00821435021268 >
+
+cosmonaut <new bias :  0.001261682705 new rank :  0.00538749943112 >
+
+america <new bias :  -0.0027369851866 new rank :  -7.59463500942e-06 >
+
+moment <new bias :  0.00172980691138 new rank :  0.0169677884253 >
+
+newswire <new bias :  -0.00123240752518 new rank :  0.0 >
+
+russian <new bias :  0.000641886139642 new rank :  0.00590950062073 >
+
+news <new bias :  0.0 new rank :  0.0 >
+
+estimate <new bias :  0.00101839181209 new rank :  0.00627842509083 >
+
+general <new bias :  0.00114465195546 new rank :  0.00998236687428 >
+
+institution <new bias :  -0.000900910008266 new rank :  0.00259065129999 >
+
+grave <new bias :  0.00132760655471 new rank :  0.0105766900421 >
+
+destruction <new bias :  0.00132379957316 new rank :  0.00495367755385 >
+
+john <new bias :  -0.00109057146809 new rank :  -1.5800780049e-06 >
+
+central <new bias :  -0.00299641840094 new rank :  -1.89804264716e-05 >
+
+gift <new bias :  0.00191730241731 new rank :  0.0148929598049 >
+
+doc <new bias :  -0.00205440316697 new rank :  0.0 >
+
+wednesday <new bias :  -0.00334587171571 new rank :  -1.68671029432e-05 >
+
+apw199811040539 <new bias :  0.0 new rank :  0.0 >
+
+stricken <new bias :  -0.00326713625144 new rank :  0.0 >
+
+american <new bias :  0.00189886758704 new rank :  0.013357664775 >
+
+relief <new bias :  0.00148286174219 new rank :  0.00698318642094 >
+
+country <new bias :  0.00152816937393 new rank :  0.0123955643002 >
+
+aid <new bias :  -0.00276508387237 new rank :  0.0 >
+
+Final list of keywords: 
+kill => 0.0203225251436
+special => 0.0177925507445
+moment => 0.0169677884253
+gift => 0.0148929598049
+ii => 0.0144330790428
+american => 0.013357664775
+country => 0.0123955643002
+text => 0.0123264190018
+disaster => 0.0120811901876
+speak => 0.0119980295027
+attend => 0.0108082694137
+grave => 0.0105766900421
+urge => 0.010226586662
+public => 0.0101752441369
+general => 0.00998236687428
+suffer => 0.00944011151539
+say => 0.00878977740008
+close => 0.00876528559515
+feel => 0.00822100186071
+men => 0.00821435021268
+thousand => 0.00801728287506
+relief => 0.00698318642094
+course => 0.00695268009908
+spacesuit => 0.00668145877512
+estimate => 0.00627842509083
+audience => 0.00602386377137
+private => 0.00602236886943
+russian => 0.00590950062073
+agency => 0.00582173009316
+cosmonaut => 0.00538749943112
+destruction => 0.00495367755385
+paul => 0.00483576157708
+hurricane => 0.00469341452405
+people => 0.00435434135302
+give => 0.00351685611387
+proportion => 0.00316565961321
+institution => 0.00259065129999
+good => 0.00223652839545
+overwhelm => 1.99822998117e-06
+disaster indegree: 16 new bias :  0.00140837668717 new rank :  0.0120811901876 
+
+people indegree: 8 new bias :  -0.000367704700696 new rank :  0.00435434135302 
+
+feel indegree: 16 new bias :  0.00153347289478 new rank :  0.00822100186071 
+
+text indegree: 10 new bias :  0.00212165582893 new rank :  0.0123264190018 
+
+private indegree: 14 new bias :  0.00112121031744 new rank :  0.00602236886943 
+
+proportion indegree: 10 new bias :  4.74105040378e-05 new rank :  0.00316565961321 
+
+ii indegree: 4 new bias :  0.00195016271122 new rank :  0.0144330790428 
+
+course indegree: 6 new bias :  0.000924475806538 new rank :  0.00695268009908 
+
+say indegree: 12 new bias :  0.00187353616967 new rank :  0.00878977740008 
+
+kill indegree: 14 new bias :  0.00167022720689 new rank :  0.0203225251436 
+
+close indegree: 14 new bias :  0.00138896722832 new rank :  0.00876528559515 
+
+paul indegree: 12 new bias :  0.00142086047301 new rank :  0.00483576157708 
+
+suffer indegree: 6 new bias :  -0.00416726172182 new rank :  0.00944011151539 
+
+special indegree: 14 new bias :  0.00173431275253 new rank :  0.0177925507445 
+
+speak indegree: 6 new bias :  0.00185236269933 new rank :  0.0119980295027 
+
+agency indegree: 10 new bias :  0.00108704568412 new rank :  0.00582173009316 
+
+hurricane indegree: 16 new bias :  0.00057938779317 new rank :  0.00469341452405 
+
+american indegree: 6 new bias :  0.00189886758704 new rank :  0.013357664775 
+
+overwhelm indegree: 6 new bias :  -0.00265004393789 new rank :  1.99822998117e-06 
+
+public indegree: 16 new bias :  0.00116749279736 new rank :  0.0101752441369 
+
+urge indegree: 12 new bias :  0.00103595179101 new rank :  0.010226586662 
+
+good indegree: 14 new bias :  -0.00397442434173 new rank :  0.00223652839545 
+
+attend indegree: 8 new bias :  0.00131123207164 new rank :  0.0108082694137 
+
+thousand indegree: 10 new bias :  0.00144464634659 new rank :  0.00801728287506 
+
+men indegree: 14 new bias :  0.000915598128789 new rank :  0.00821435021268 
+
+moment indegree: 16 new bias :  0.00172980691138 new rank :  0.0169677884253 
+
+spacesuit indegree: 6 new bias :  0.00126306052145 new rank :  0.00668145877512 
+
+cosmonaut indegree: 12 new bias :  0.001261682705 new rank :  0.00538749943112 
+
+estimate indegree: 10 new bias :  0.00101839181209 new rank :  0.00627842509083 
+
+general indegree: 10 new bias :  0.00114465195546 new rank :  0.00998236687428 
+
+institution indegree: 14 new bias :  -0.000900910008266 new rank :  0.00259065129999 
+
+grave indegree: 16 new bias :  0.00132760655471 new rank :  0.0105766900421 
+
+destruction indegree: 12 new bias :  0.00132379957316 new rank :  0.00495367755385 
+
+give indegree: 8 new bias :  0.00028117554957 new rank :  0.00351685611387 
+
+gift indegree: 10 new bias :  0.00191730241731 new rank :  0.0148929598049 
+
+country indegree: 10 new bias :  0.00152816937393 new rank :  0.0123955643002 
+
+audience indegree: 20 new bias :  0.000699922924177 new rank :  0.00602386377137 
+
+relief indegree: 14 new bias :  0.00148286174219 new rank :  0.00698318642094 
+
+russian indegree: 12 new bias :  0.000641886139642 new rank :  0.00590950062073 
+
+
+Total Nodes:  58
+
+Total Positive Nodes:  39
+Sentence Median =  0.905557583421 
+
+Among those attending the audience were six 
+Russian cosmonauts taking a special course in Italy. << 1.18978276306 << 3 
+
+Speaking during his general audience, 
+the pope urged ``all public and private institutions and all men of 
+good will'' to do all they can ``in this grave moment of destruction 
+and death. << 1.00240814997 << 1 
+
+'' Hurricane Mitch killed an estimated 9,000 people throughout 
+Central America in a disaster of such proportions that relief agencies 
+have been overwhelmed. << 0.905557583421 << 2 
+
+<DOC>
+<DOCNO> APW19981104.0539 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Pope John Paul II appealed for aid Wednesday for the Central American 
+countries stricken by hurricane Mitch and said he feels close to the 
+thousands who are suffering. << 0.780633763296 << 0 
+
+As a gift, they 
+gave John Paul a spacesuit. << 0.0 << 4 
+
+</TEXT>
+</DOC>
+<< 0.0 << 5 
+
+Top Weights: 
+1.18978276306 ,
+1.00240814997 ,
+0.905557583421 ,
+
+
+appeal indegree: 6 new bias :  -0.00160261775104 new rank :  -1.68671029432e-05 
+
+central indegree: 6 new bias :  -0.00299641840094 new rank :  -1.89804264716e-05 
+
+pope indegree: 2 new bias :  -0.00358425580668 new rank :  -2.34375e-06 
+
+mitch indegree: 0 new bias :  -0.00410112973709 new rank :  -1.18055555556e-05 
+
+john indegree: 4 new bias :  -0.00109057146809 new rank :  -1.5800780049e-06 
+
+wednesday indegree: 4 new bias :  -0.00334587171571 new rank :  -1.68671029432e-05 
+
+america indegree: 2 new bias :  -0.0027369851866 new rank :  -7.59463500942e-06 
+
+
+Total Nodes:  58
+
+Total Negative Nodes:  7
+
+Total Negative weights:  7.60386509278e-05
+Sentence Median =  0.0 
+
+Speaking during his general audience, 
+the pope urged ``all public and private institutions and all men of 
+good will'' to do all they can ``in this grave moment of destruction 
+and death. << 0.0044033057463 << 1 
+
+<DOC>
+<DOCNO> APW19981104.0539 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Pope John Paul II appealed for aid Wednesday for the Central American 
+countries stricken by hurricane Mitch and said he feels close to the 
+thousands who are suffering. << 0.0 << 0 
+
+'' Hurricane Mitch killed an estimated 9,000 people throughout 
+Central America in a disaster of such proportions that relief agencies 
+have been overwhelmed. << 0.0 << 2 
+
+Among those attending the audience were six 
+Russian cosmonauts taking a special course in Italy. << 0.0 << 3 
+
+As a gift, they 
+gave John Paul a spacesuit. << 0.0 << 4 
+
+</TEXT>
+</DOC>
+<< 0.0 << 5 
+
+Top Weights: 
+0.0044033057463 ,
+0.0 ,
+0.0 ,
+
+

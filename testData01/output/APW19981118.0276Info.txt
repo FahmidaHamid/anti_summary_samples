@@ -1,0 +1,6158 @@
+0 >> Cambodian leader Hun Sen has guaranteed the safety and political freedom 
+of all politicians, trying to ease the fears of his rivals that they 
+will be arrested or killed if they return to the country. 
+
+1 >> The assurances 
+were aimed especially at Sam Rainsy, leader of a vocally anti-Hun 
+Sen opposition party, who was forced to take refuge in the U.N. offices 
+in September to avoid arrest after Hun Sen accused him of being behind 
+a plot against his life. 
+
+2 >> Sam Rainsy and the 14 members of parliament 
+from his party have been holed up overseas for two months. 
+
+3 >> But a deal 
+reached between Hun Sen and his chief rival, Prince Norodom Ranariddh, 
+on forming a new government last week has opened the door for their 
+return. 
+
+4 >> In a letter to King Norodom Sihanouk _ the prince's father 
+and Cambodia's head of state _ that was broadcast on television Tuesday, 
+Hun Sen said that guarantees of safety extended to Ranariddh applied 
+to all politicians. 
+
+5 >> His assurances come a week before the first session 
+of Cambodia's new parliament, the National Assembly. 
+
+6 >> Sam Rainsy said 
+Wednesday that he was unsatisfied with the guarantee. 
+
+7 >> He said it contained 
+indirect language and loopholes that suggest he and his Sam Rainsy 
+Party members are still under threat of arrest from Hun Sen's ruling 
+party. 
+
+8 >> ``It should be easy for them to say, `Rainsy and the SRP members 
+of the assembly have no charges against them and will not be arrested,''' 
+the opposition leader said in a statement. 
+
+9 >> ``But instead they make 
+roundabout statements, full of loopholes that can easily be exploited 
+by a legal system that is completely in their control. 
+
+10 >> '' Ranariddh 
+told reporters Wednesday that he believed it was safe for Sam Rainsy 
+in Cambodia. 
+
+11 >> Speaking upon his return from a brief stay in Bangkok, 
+the prince said he would soon meet with Hun Sen to discuss the apportioning 
+of ministries in the new coalition government. 
+
+12 >> Last week, Hun Sen's 
+Cambodian People's Party and Ranariddh's FUNCINPEC party agreed to 
+form a coalition that would leave Hun Sen as sole prime minister and 
+make the prince president of the National Assembly. 
+
+13 >> The deal assures 
+the two-thirds vote in parliament needed to approve a new government. 
+
+14 >> The men served as co-prime ministers until Hun Sen overthrew Ranariddh 
+in a coup last year. 
+
+15 >> ``I think Hun Sen has got everything. 
+
+16 >> He's got 
+the premiership and legitimacy through the election and recognition 
+from his majesty the king. 
+
+17 >> I don't think there is any benefit for 
+Hun Sen to cause instability for our country,'' Ranariddh said. 
+
+18 >> The 
+prince also said that his top general, Nhek Bunchhay, would not be 
+given back his previous position as the second-ranking general in 
+the Cambodian military's general staff. 
+
+19 >> Nhek Bunchhay's outnumbered 
+forces in the capital put up tough but unsuccessful resistance to 
+last year's coup.  
+
+cambodian --> a --> of or relating to or characteristic of Cambodia or its people or language --> 0#0 
+
+leader --> n --> a person who rules or guides or inspires others --> 1#0 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 2#0 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 3#0 
+
+guarantee --> v --> give surety or assume responsibility --> 4#0 
+
+safety --> n --> the state of being certain that adverse effects will not be caused by some agent under defined conditions --> 5#0 
+
+political --> a --> involving or characteristic of politics or parties or politicians --> 6#0 
+
+freedom --> n --> the condition of being free; the power to act or speak or think without externally imposed restraints --> 7#0 
+
+politician --> n --> a leader engaged in civil administration --> 8#0 
+
+try --> v --> make an effort or attempt --> 9#0 
+
+ease --> v --> move gently or carefully --> 10#0 
+
+fear --> n --> an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight) --> 11#0 
+
+rival --> n --> the contestant you hope to defeat --> 12#0 
+
+arrest --> v --> take into custody --> 13#0 
+
+kill --> v --> cause to die; put to death, usually intentionally or knowingly --> 14#0 
+
+return --> v --> go or come back to place, condition, or activity where one has been before --> 15#0 
+
+country --> n --> a politically organized body of people under a single government --> 16#0 
+
+assurance --> n --> freedom from doubt; belief in yourself and your abilities --> 0#1 
+
+aim --> v --> point or cause to go (blows, weapons, or objects such as photographic equipment) towards --> 1#1 
+
+especially --> r --> to a distinctly greater extent or degree than is common --> 2#1 
+
+sam --> n --> a guided missile fired from land or shipboard against an airborne target --> 3#1 
+
+rainsy --> n -->  --> 4#1 
+
+leader --> n --> a person who rules or guides or inspires others --> 5#1 
+
+vocally --> r --> in a vocal manner --> 6#1 
+
+antihun --> v -->  --> 7#1 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 8#1 
+
+opposition --> n --> the action of opposing something that you disapprove or disagree with --> 9#1 
+
+party --> n --> an organization to gain political power --> 10#1 
+
+force --> v --> to cause to do through pressure or necessity, by physical, moral or intellectual means :"She forced him to take a job in the city" --> 11#1 
+
+take --> v --> carry out --> 12#1 
+
+refuge --> n --> a safe place --> 13#1 
+
+un --> n --> an organization of independent states formed in 1945 to promote international peace and security --> 14#1 
+
+office --> n --> place of business where professional or clerical duties are performed --> 15#1 
+
+september --> n --> the month following August and preceding October --> 16#1 
+
+avoid --> v --> stay clear from; keep away from; keep out of the way of someone or something --> 17#1 
+
+arrest --> a -->  --> 18#1 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 19#1 
+
+sen --> v -->  --> 20#1 
+
+accuse --> v --> bring an accusation against; level a charge against --> 21#1 
+
+plot --> n --> a secret scheme to do something (especially something underhand or illegal) --> 22#1 
+
+life --> n --> a characteristic state or mode of living --> 23#1 
+
+sam --> n --> a guided missile fired from land or shipboard against an airborne target --> 0#2 
+
+rainsy --> n -->  --> 1#2 
+
+member --> n --> one of the persons who compose a social group (especially individuals who have joined and participate in a group organization) --> 2#2 
+
+parliament --> n --> a legislative assembly in certain countries --> 3#2 
+
+party --> n --> an organization to gain political power --> 4#2 
+
+hole --> v --> hit the ball into the hole --> 5#2 
+
+overseas --> a --> in a foreign country --> 6#2 
+
+month --> n --> one of the twelve divisions of the calendar year --> 7#2 
+
+deal --> n --> a particular instance of buying or selling --> 0#3 
+
+reach --> v --> reach a destination, either real or abstract --> 1#3 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 2#3 
+
+sen --> v -->  --> 3#3 
+
+chief --> n --> a person who is in charge --> 4#3 
+
+rival --> n --> the contestant you hope to defeat --> 5#3 
+
+prince --> n --> a male member of a royal family other than the sovereign (especially the son of a sovereign) --> 6#3 
+
+norodom --> n -->  --> 7#3 
+
+ranariddh --> n -->  --> 8#3 
+
+forming --> n -->  --> 9#3 
+
+new --> a --> not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered --> 10#3 
+
+government --> n --> the organization that is the governing authority of a political unit --> 11#3 
+
+last --> a --> immediately past --> 12#3 
+
+week --> n --> any period of seven consecutive days --> 13#3 
+
+open --> v --> cause to open or to become open --> 14#3 
+
+door --> n --> a swinging or sliding barrier that will close the entrance to a room or building or vehicle --> 15#3 
+
+return --> n --> document giving the tax collector information about the taxpayer's tax liability --> 16#3 
+
+letter --> n --> a written message addressed to a person or organization --> 0#4 
+
+king --> n --> a male sovereign; ruler of a kingdom --> 1#4 
+
+norodom --> n -->  --> 2#4 
+
+sihanouk --> n -->  --> 3#4 
+
+prince --> n --> a male member of a royal family other than the sovereign (especially the son of a sovereign) --> 4#4 
+
+father --> v --> make children --> 5#4 
+
+cambodia --> n --> a nation in southeastern Asia; was part of Indochina under French rule until 1946 --> 6#4 
+
+head --> n --> the upper part of the human body or the front part of the body in animals; contains the face and brains --> 7#4 
+
+state --> n --> the territory occupied by one of the constituent administrative districts of a nation --> 8#4 
+
+broadcast --> a -->  --> 9#4 
+
+television --> n --> broadcasting visual images of stationary or moving objects --> 10#4 
+
+tuesday --> n --> the third day of the week; the second working day --> 11#4 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 12#4 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 13#4 
+
+say --> v --> express in words --> 14#4 
+
+guarantee --> n --> a written assurance that some product or service will be provided or will meet certain specifications --> 15#4 
+
+safety --> n --> the state of being certain that adverse effects will not be caused by some agent under defined conditions --> 16#4 
+
+extend --> v --> extend in scope or range or area --> 17#4 
+
+ranariddh --> v -->  --> 18#4 
+
+apply --> v --> put into service; make work or employ for a particular purpose or for its inherent or natural purpose --> 19#4 
+
+politician --> n --> a leader engaged in civil administration --> 20#4 
+
+assurance --> n --> freedom from doubt; belief in yourself and your abilities --> 0#5 
+
+come --> v --> move toward, travel toward something or somebody or approach something or somebody --> 1#5 
+
+week --> n --> any period of seven consecutive days --> 2#5 
+
+first --> a --> preceding all others in time or space or degree --> 3#5 
+
+session --> n --> a meeting for execution of a group's functions --> 4#5 
+
+cambodia --> n --> a nation in southeastern Asia; was part of Indochina under French rule until 1946 --> 5#5 
+
+new --> a --> not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered --> 6#5 
+
+parliament --> n --> a legislative assembly in certain countries --> 7#5 
+
+national --> a --> of or relating to or belonging to a nation or country --> 8#5 
+
+assembly --> n --> a group of machine parts that fit together to form a self-contained unit --> 9#5 
+
+sam --> n --> a guided missile fired from land or shipboard against an airborne target --> 0#6 
+
+rainsy --> n -->  --> 1#6 
+
+say --> v --> express in words --> 2#6 
+
+wednesday --> n --> the fourth day of the week; the third working day --> 3#6 
+
+unsatisfied --> v -->  --> 4#6 
+
+guarantee --> n --> a written assurance that some product or service will be provided or will meet certain specifications --> 5#6 
+
+say --> v --> express in words --> 0#7 
+
+contain --> v --> include or contain; have as a component --> 1#7 
+
+indirect --> a --> having intervening factors or persons or influences --> 2#7 
+
+language --> n --> a systematic means of communicating by the use of sounds or conventional symbols --> 3#7 
+
+loophole --> n --> an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obligation --> 4#7 
+
+suggest --> v --> make a proposal, declare a plan for something --> 5#7 
+
+sam --> n --> a guided missile fired from land or shipboard against an airborne target --> 6#7 
+
+rainsy --> n -->  --> 7#7 
+
+party --> n --> an organization to gain political power --> 8#7 
+
+member --> n --> one of the persons who compose a social group (especially individuals who have joined and participate in a group organization) --> 9#7 
+
+still --> r --> with reference to action or condition; without change, interruption, or cessation --> 10#7 
+
+threat --> n --> something that is a source of danger --> 11#7 
+
+arrest --> n --> the act of apprehending (especially apprehending a criminal) --> 12#7 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 13#7 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 14#7 
+
+rule --> v --> exercise authority over; as of nations --> 15#7 
+
+party --> n --> an organization to gain political power --> 16#7 
+
+easy --> a --> posing no difficulty; requiring little effort --> 0#8 
+
+say --> v --> express in words --> 1#8 
+
+rainsy --> a -->  --> 2#8 
+
+srp --> n -->  --> 3#8 
+
+member --> n --> one of the persons who compose a social group (especially individuals who have joined and participate in a group organization) --> 4#8 
+
+assembly --> n --> a group of machine parts that fit together to form a self-contained unit --> 5#8 
+
+charge --> n --> an impetuous rush toward someone or something --> 6#8 
+
+arrest --> v --> take into custody --> 7#8 
+
+opposition --> n --> the action of opposing something that you disapprove or disagree with --> 8#8 
+
+leader --> n --> a person who rules or guides or inspires others --> 9#8 
+
+say --> v --> express in words --> 10#8 
+
+statement --> n --> a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc --> 11#8 
+
+instead --> r --> in place of, or as an alternative to --> 0#9 
+
+make --> v --> engage in --> 1#9 
+
+roundabout --> r -->  --> 2#9 
+
+statement --> n --> a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc --> 3#9 
+
+full --> a --> containing as much or as many as is possible or normal --> 4#9 
+
+loophole --> n --> an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obligation --> 5#9 
+
+easily --> r --> with ease (`easy' is sometimes used informally for `easily') --> 6#9 
+
+exploit --> v --> use or manipulate to one's advantage --> 7#9 
+
+legal --> a --> established by or founded upon law or official or accepted rules --> 8#9 
+
+system --> n --> instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity --> 9#9 
+
+completely --> r --> to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly') --> 10#9 
+
+control --> n --> power to direct or determine --> 11#9 
+
+ranariddh --> n -->  --> 0#10 
+
+tell --> v --> express in words --> 1#10 
+
+reporter --> n --> a person who investigates and reports or edits news stories --> 2#10 
+
+wednesday --> n --> the fourth day of the week; the third working day --> 3#10 
+
+believe --> v --> accept as true; take to be true --> 4#10 
+
+safe --> a --> free from danger or the risk of harm --> 5#10 
+
+sam --> n --> a guided missile fired from land or shipboard against an airborne target --> 6#10 
+
+rainsy --> n -->  --> 7#10 
+
+cambodia --> n --> a nation in southeastern Asia; was part of Indochina under French rule until 1946 --> 8#10 
+
+speak --> v --> express in speech --> 0#11 
+
+return --> n --> document giving the tax collector information about the taxpayer's tax liability --> 1#11 
+
+brief --> a --> of short duration or distance --> 2#11 
+
+stay --> n --> continuing or remaining in a place or state --> 3#11 
+
+bangkok --> n --> the capital and largest city and chief port of Thailand; a leading city in southeastern Asia; noted for Buddhist architecture --> 4#11 
+
+prince --> n --> a male member of a royal family other than the sovereign (especially the son of a sovereign) --> 5#11 
+
+say --> v --> express in words --> 6#11 
+
+soon --> r --> in the near future --> 7#11 
+
+meet --> v --> come together --> 8#11 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 9#11 
+
+sen --> v -->  --> 10#11 
+
+discuss --> v --> to consider or examine in speech or writing --> 11#11 
+
+apportioning --> n --> the act of distributing by allotting or apportioning; distribution according to a plan --> 12#11 
+
+ministry --> n --> religious ministers collectively (especially Presbyterian) --> 13#11 
+
+new --> a --> not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered --> 14#11 
+
+coalition --> n --> an organization of people (or countries) involved in a pact or treaty --> 15#11 
+
+government --> n --> the organization that is the governing authority of a political unit --> 16#11 
+
+last --> a --> immediately past --> 0#12 
+
+week --> n --> any period of seven consecutive days --> 1#12 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 2#12 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 3#12 
+
+cambodian --> a --> of or relating to or characteristic of Cambodia or its people or language --> 4#12 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 5#12 
+
+party --> n --> an organization to gain political power --> 6#12 
+
+ranariddhs --> n -->  --> 7#12 
+
+funcinpec --> v -->  --> 8#12 
+
+party --> n --> an organization to gain political power --> 9#12 
+
+agree --> v --> be in accord; be in agreement --> 10#12 
+
+form --> n --> the phonological or orthographic sound or appearance of a word that can be used to describe or identify something --> 11#12 
+
+coalition --> n --> an organization of people (or countries) involved in a pact or treaty --> 12#12 
+
+leave --> v --> go away from a place --> 13#12 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 14#12 
+
+sen --> v -->  --> 15#12 
+
+sole --> a --> not divided or shared with others --> 16#12 
+
+prime --> n --> a number that has no factor but itself and 1 --> 17#12 
+
+minister --> n --> a person authorized to conduct religious worship --> 18#12 
+
+make --> v --> engage in --> 19#12 
+
+prince --> n --> a male member of a royal family other than the sovereign (especially the son of a sovereign) --> 20#12 
+
+president --> n --> an executive officer of a firm or corporation --> 21#12 
+
+national --> a --> of or relating to or belonging to a nation or country --> 22#12 
+
+assembly --> n --> a group of machine parts that fit together to form a self-contained unit --> 23#12 
+
+deal --> n --> a particular instance of buying or selling --> 0#13 
+
+assures --> n -->  --> 1#13 
+
+twothirds --> n -->  --> 2#13 
+
+vote --> v --> express one's preference for a candidate or for a measure or resolution; cast a vote --> 3#13 
+
+parliament --> n --> a legislative assembly in certain countries --> 4#13 
+
+need --> v --> require as useful, just, or proper --> 5#13 
+
+approve --> v --> give sanction to --> 6#13 
+
+new --> a --> not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered --> 7#13 
+
+government --> n --> the organization that is the governing authority of a political unit --> 8#13 
+
+men --> n --> the force of workers available --> 0#14 
+
+serve --> v --> serve a purpose, role, or function --> 1#14 
+
+coprime --> n -->  --> 2#14 
+
+minister --> n --> a person authorized to conduct religious worship --> 3#14 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 4#14 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 5#14 
+
+overthrow --> v --> cause the downfall of; of rulers --> 6#14 
+
+ranariddh --> n -->  --> 7#14 
+
+coup --> n --> a sudden and decisive change of government illegally or by force --> 8#14 
+
+last --> a --> immediately past --> 9#14 
+
+year --> n --> a period of time containing 365 (or 366) days --> 10#14 
+
+think --> v --> judge or regard; look upon; judge --> 0#15 
+
+hun --> a -->  --> 1#15 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 2#15 
+
+get --> v --> come into the possession of something concrete or abstract --> 3#15 
+
+everything --> n -->  --> 4#15 
+
+he --> n --> a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas) --> 0#16 
+
+get --> v --> come into the possession of something concrete or abstract --> 1#16 
+
+premiership --> n --> the office of premier --> 2#16 
+
+legitimacy --> n --> lawfulness by virtue of being authorized or in accordance with law --> 3#16 
+
+election --> n --> a vote to select the winner of a position or political office --> 4#16 
+
+recognition --> n --> the state or quality of being recognized or acknowledged --> 5#16 
+
+majesty --> n --> impressiveness in scale or proportion --> 6#16 
+
+king --> n --> a male sovereign; ruler of a kingdom --> 7#16 
+
+dont --> v -->  --> 0#17 
+
+think --> v --> judge or regard; look upon; judge --> 1#17 
+
+benefit --> n --> financial assistance in time of need --> 2#17 
+
+hun --> n --> a member of a nomadic people who invaded Europe in the 4th century --> 3#17 
+
+sen --> n --> a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel --> 4#17 
+
+cause --> v --> give rise to; cause to happen or occur, not always intentionally --> 5#17 
+
+instability --> n --> an unstable order --> 6#17 
+
+country --> n --> a politically organized body of people under a single government --> 7#17 
+
+ranariddh --> n -->  --> 8#17 
+
+say --> v --> express in words --> 9#17 
+
+prince --> n --> a male member of a royal family other than the sovereign (especially the son of a sovereign) --> 0#18 
+
+also --> r --> in addition --> 1#18 
+
+say --> v --> express in words --> 2#18 
+
+top --> a --> situated at the top or highest position --> 3#18 
+
+general --> a --> applying to all or most members of a category or group --> 4#18 
+
+nhek --> n -->  --> 5#18 
+
+bunchhay --> n -->  --> 6#18 
+
+give --> v --> cause to have, in the abstract sense or physical sense --> 7#18 
+
+back --> r --> in or to or toward a former location --> 8#18 
+
+previous --> a --> just preceding something else in time or order --> 9#18 
+
+position --> n --> the particular portion of space occupied by something --> 10#18 
+
+secondranking --> n -->  --> 11#18 
+
+general --> n --> a general officer of the highest rank --> 12#18 
+
+cambodian --> a --> of or relating to or characteristic of Cambodia or its people or language --> 13#18 
+
+military --> n --> the military forces of a nation --> 14#18 
+
+general --> a --> applying to all or most members of a category or group --> 15#18 
+
+staff --> n --> personnel who assist their superior in carrying out an assigned task --> 16#18 
+
+nhek --> n -->  --> 0#19 
+
+bunchhays --> n -->  --> 1#19 
+
+outnumber --> v --> be larger in number --> 2#19 
+
+force --> n --> a powerful effect or influence --> 3#19 
+
+capital --> n --> assets available for use in the production of further assets --> 4#19 
+
+put --> v --> put into a certain place or abstract location --> 5#19 
+
+tough --> a --> not given to gentleness or sentimentality --> 6#19 
+
+unsuccessful --> a --> not successful; having failed or having an unfavorable outcome --> 7#19 
+
+resistance --> n --> the action of opposing something that you disapprove or disagree with --> 8#19 
+
+last --> a --> immediately past --> 9#19 
+
+year --> n --> a period of time containing 365 (or 366) days --> 10#19 
+
+Total Edges :  1248 Edge Weight :  0.000801282051282
+similarity( cambodian ,  hun ) =  0.0384615384615
+similarity( cambodian ,  sen ) =  0.0294117647059
+similarity( cambodian ,  political ) =  0.0454545454545
+similarity( cambodian ,  country ) =  0.0434782608696
+similarity( cambodian ,  life ) =  0.05
+similarity( cambodian ,  national ) =  0.0416666666667
+similarity( cambodian ,  coalition ) =  0.04
+similarity( leader ,  chief ) =  0.0666666666667
+similarity( leader ,  letter ) =  0.0555555555556
+similarity( leader ,  first ) =  0.0555555555556
+similarity( leader ,  legal ) =  0.05
+similarity( leader ,  reporter ) =  0.0526315789474
+similarity( leader ,  sole ) =  0.0666666666667
+similarity( leader ,  minister ) =  0.0625
+similarity( hun ,  country ) =  0.0434782608696
+similarity( hun ,  prince ) =  0.0333333333333
+similarity( hun ,  coalition ) =  0.04
+similarity( sen ,  return ) =  0.0285714285714
+similarity( sen ,  member ) =  0.0243902439024
+similarity( sen ,  month ) =  0.0333333333333
+similarity( sen ,  government ) =  0.03125
+similarity( sen ,  state ) =  0.0294117647059
+similarity( sen ,  assembly ) =  0.0294117647059
+similarity( sen ,  loophole ) =  0.0232558139535
+similarity( sen ,  he ) =  0.0178571428571
+similarity( guarantee ,  approve ) =  0.125
+similarity( guarantee ,  cause ) =  0.0625
+similarity( safety ,  life ) =  0.04
+similarity( safety ,  parliament ) =  0.0416666666667
+similarity( safety ,  stay ) =  0.0384615384615
+similarity( safety ,  he ) =  0.0188679245283
+similarity( safety ,  recognition ) =  0.037037037037
+similarity( safety ,  put ) =  0.0384615384615
+similarity( political ,  life ) =  0.0625
+similarity( freedom ,  return ) =  0.0322580645161
+similarity( freedom ,  party ) =  0.0434782608696
+similarity( freedom ,  still ) =  0.0714285714286
+similarity( freedom ,  control ) =  0.0454545454545
+similarity( freedom ,  safe ) =  0.04
+similarity( freedom ,  apportioning ) =  0.0333333333333
+similarity( try ,  father ) =  0.142857142857
+similarity( try ,  apply ) =  0.0434782608696
+similarity( try ,  suggest ) =  0.0769230769231
+similarity( try ,  easy ) =  0.0909090909091
+similarity( ease ,  come ) =  0.0625
+similarity( fear ,  kill ) =  0.0333333333333
+similarity( fear ,  threat ) =  0.037037037037
+similarity( fear ,  safe ) =  0.0357142857143
+similarity( arrest ,  force ) =  0.037037037037
+similarity( arrest ,  believe ) =  0.1
+similarity( kill ,  aim ) =  0.0416666666667
+similarity( kill ,  force ) =  0.0294117647059
+similarity( kill ,  open ) =  0.0588235294118
+similarity( kill ,  apply ) =  0.0357142857143
+similarity( kill ,  overthrow ) =  0.0625
+similarity( kill ,  cause ) =  0.0952380952381
+similarity( kill ,  give ) =  0.05
+similarity( kill ,  put ) =  0.0555555555556
+similarity( return ,  aim ) =  0.0357142857143
+similarity( return ,  refuge ) =  0.0588235294118
+similarity( return ,  office ) =  0.0416666666667
+similarity( return ,  member ) =  0.0294117647059
+similarity( return ,  month ) =  0.0434782608696
+similarity( return ,  new ) =  0.030303030303
+similarity( return ,  state ) =  0.037037037037
+similarity( return ,  loophole ) =  0.0277777777778
+similarity( return ,  still ) =  0.04
+similarity( return ,  instead ) =  0.0454545454545
+similarity( return ,  stay ) =  0.0454545454545
+similarity( return ,  meet ) =  0.0625
+similarity( return ,  leave ) =  0.105263157895
+similarity( return ,  get ) =  0.0434782608696
+similarity( return ,  he ) =  0.0204081632653
+similarity( return ,  put ) =  0.0454545454545
+similarity( country ,  head ) =  0.0322580645161
+similarity( country ,  coalition ) =  0.0454545454545
+similarity( country ,  coup ) =  0.047619047619
+similarity( aim ,  force ) =  0.0263157894737
+similarity( aim ,  open ) =  0.047619047619
+similarity( aim ,  television ) =  0.0454545454545
+similarity( aim ,  leave ) =  0.0526315789474
+similarity( aim ,  overthrow ) =  0.05
+similarity( aim ,  cause ) =  0.04
+similarity( aim ,  give ) =  0.0416666666667
+similarity( especially ,  first ) =  0.0526315789474
+similarity( especially ,  completely ) =  0.0714285714286
+similarity( opposition ,  avoid ) =  0.0384615384615
+similarity( opposition ,  plot ) =  0.0454545454545
+similarity( opposition ,  come ) =  0.0434782608696
+similarity( opposition ,  suggest ) =  0.0526315789474
+similarity( opposition ,  still ) =  0.0454545454545
+similarity( opposition ,  threat ) =  0.0555555555556
+similarity( opposition ,  charge ) =  0.0555555555556
+similarity( opposition ,  form ) =  0.0333333333333
+similarity( opposition ,  get ) =  0.05
+similarity( opposition ,  previous ) =  0.0526315789474
+similarity( opposition ,  position ) =  0.0526315789474
+similarity( opposition ,  resistance ) =  0.227272727273
+similarity( party ,  un ) =  0.05
+similarity( party ,  member ) =  0.0384615384615
+similarity( party ,  government ) =  0.117647058824
+similarity( party ,  letter ) =  0.0666666666667
+similarity( party ,  control ) =  0.0909090909091
+similarity( party ,  coalition ) =  0.0555555555556
+similarity( party ,  election ) =  0.0555555555556
+similarity( force ,  open ) =  0.0322580645161
+similarity( force ,  language ) =  0.027027027027
+similarity( force ,  believe ) =  0.0322580645161
+similarity( force ,  bangkok ) =  0.0227272727273
+similarity( force ,  overthrow ) =  0.0333333333333
+similarity( force ,  cause ) =  0.0285714285714
+similarity( force ,  give ) =  0.0588235294118
+similarity( refuge ,  office ) =  0.0769230769231
+similarity( refuge ,  instead ) =  0.0909090909091
+similarity( refuge ,  stay ) =  0.0909090909091
+similarity( refuge ,  leave ) =  0.125
+similarity( refuge ,  put ) =  0.0909090909091
+similarity( un ,  member ) =  0.0294117647059
+similarity( un ,  government ) =  0.04
+similarity( un ,  letter ) =  0.0434782608696
+similarity( un ,  coalition ) =  0.0384615384615
+similarity( office ,  instead ) =  0.0555555555556
+similarity( office ,  stay ) =  0.0555555555556
+similarity( office ,  leave ) =  0.0666666666667
+similarity( office ,  put ) =  0.0555555555556
+similarity( september ,  first ) =  0.0625
+similarity( september ,  previous ) =  0.0666666666667
+similarity( avoid ,  plot ) =  0.0384615384615
+similarity( avoid ,  come ) =  0.037037037037
+similarity( avoid ,  suggest ) =  0.0434782608696
+similarity( avoid ,  threat ) =  0.0454545454545
+similarity( avoid ,  charge ) =  0.0909090909091
+similarity( avoid ,  form ) =  0.0294117647059
+similarity( avoid ,  leave ) =  0.05
+similarity( avoid ,  get ) =  0.0416666666667
+similarity( avoid ,  previous ) =  0.0434782608696
+similarity( avoid ,  position ) =  0.0434782608696
+similarity( avoid ,  resistance ) =  0.0384615384615
+similarity( accuse ,  chief ) =  0.0714285714286
+similarity( plot ,  member ) =  0.0322580645161
+similarity( plot ,  prince ) =  0.0357142857143
+similarity( plot ,  come ) =  0.0869565217391
+similarity( plot ,  loophole ) =  0.030303030303
+similarity( plot ,  suggest ) =  0.105263157895
+similarity( plot ,  threat ) =  0.111111111111
+similarity( plot ,  charge ) =  0.111111111111
+similarity( plot ,  ministry ) =  0.0625
+similarity( plot ,  form ) =  0.0666666666667
+similarity( plot ,  get ) =  0.1
+similarity( plot ,  previous ) =  0.105263157895
+similarity( plot ,  position ) =  0.105263157895
+similarity( plot ,  resistance ) =  0.0909090909091
+similarity( life ,  stay ) =  0.0666666666667
+similarity( life ,  recognition ) =  0.0625
+similarity( member ,  month ) =  0.0344827586207
+similarity( member ,  prince ) =  0.027027027027
+similarity( member ,  government ) =  0.0322580645161
+similarity( member ,  letter ) =  0.0344827586207
+similarity( member ,  state ) =  0.030303030303
+similarity( member ,  assembly ) =  0.0606060606061
+similarity( member ,  indirect ) =  0.037037037037
+similarity( member ,  loophole ) =  0.047619047619
+similarity( member ,  ministry ) =  0.04
+similarity( member ,  coalition ) =  0.03125
+similarity( member ,  people ) =  0.0625
+similarity( member ,  he ) =  0.0181818181818
+similarity( member ,  general ) =  0.0645161290323
+similarity( parliament ,  coalition ) =  0.0555555555556
+similarity( parliament ,  he ) =  0.0243902439024
+similarity( parliament ,  put ) =  0.0714285714286
+similarity( overseas ,  national ) =  0.0666666666667
+similarity( month ,  state ) =  0.0454545454545
+similarity( month ,  loophole ) =  0.0322580645161
+similarity( month ,  he ) =  0.0227272727273
+similarity( deal ,  apply ) =  0.04
+similarity( deal ,  position ) =  0.0666666666667
+similarity( reach ,  get ) =  0.0625
+similarity( reach ,  give ) =  0.0588235294118
+similarity( reach ,  put ) =  0.0666666666667
+similarity( chief ,  letter ) =  0.0666666666667
+similarity( chief ,  reporter ) =  0.0625
+similarity( chief ,  minister ) =  0.0769230769231
+similarity( prince ,  king ) =  0.125
+similarity( prince ,  loophole ) =  0.025641025641
+similarity( prince ,  ministry ) =  0.0454545454545
+similarity( new ,  brief ) =  0.0416666666667
+similarity( new ,  meet ) =  0.047619047619
+similarity( new ,  get ) =  0.0357142857143
+similarity( government ,  letter ) =  0.05
+similarity( government ,  assembly ) =  0.0416666666667
+similarity( government ,  rule ) =  0.0588235294118
+similarity( government ,  coalition ) =  0.0434782608696
+similarity( government ,  election ) =  0.0434782608696
+similarity( week ,  year ) =  0.133333333333
+similarity( open ,  overthrow ) =  0.0769230769231
+similarity( open ,  cause ) =  0.0555555555556
+similarity( open ,  give ) =  0.0588235294118
+similarity( letter ,  statement ) =  0.0740740740741
+similarity( letter ,  reporter ) =  0.0526315789474
+similarity( letter ,  coalition ) =  0.047619047619
+similarity( letter ,  minister ) =  0.0625
+similarity( father ,  apply ) =  0.05
+similarity( father ,  suggest ) =  0.1
+similarity( father ,  people ) =  0.0714285714286
+similarity( cambodia ,  head ) =  0.0285714285714
+similarity( cambodia ,  state ) =  0.037037037037
+similarity( cambodia ,  national ) =  0.04
+similarity( cambodia ,  bangkok ) =  0.0588235294118
+similarity( cambodia ,  military ) =  0.05
+similarity( head ,  people ) =  0.030303030303
+similarity( state ,  national ) =  0.0416666666667
+similarity( state ,  loophole ) =  0.0285714285714
+similarity( state ,  he ) =  0.0208333333333
+similarity( state ,  position ) =  0.047619047619
+similarity( state ,  military ) =  0.0526315789474
+similarity( tuesday ,  wednesday ) =  0.25
+similarity( say ,  tell ) =  0.333333333333
+similarity( say ,  speak ) =  0.166666666667
+similarity( say ,  vote ) =  0.0555555555556
+similarity( apply ,  suggest ) =  0.0384615384615
+similarity( apply ,  system ) =  0.0322580645161
+similarity( apply ,  serve ) =  0.0833333333333
+similarity( apply ,  he ) =  0.0188679245283
+similarity( apply ,  position ) =  0.0384615384615
+similarity( apply ,  put ) =  0.0384615384615
+similarity( come ,  suggest ) =  0.1
+similarity( come ,  threat ) =  0.105263157895
+similarity( come ,  charge ) =  0.210526315789
+similarity( come ,  form ) =  0.0645161290323
+similarity( come ,  get ) =  0.0952380952381
+similarity( come ,  back ) =  0.1
+similarity( come ,  previous ) =  0.1
+similarity( come ,  position ) =  0.1
+similarity( come ,  resistance ) =  0.0869565217391
+similarity( first ,  completely ) =  0.037037037037
+similarity( first ,  sole ) =  0.0666666666667
+similarity( first ,  year ) =  0.0555555555556
+similarity( first ,  benefit ) =  0.0666666666667
+similarity( first ,  previous ) =  0.117647058824
+similarity( first ,  position ) =  0.0588235294118
+similarity( national ,  military ) =  0.0588235294118
+similarity( assembly ,  meet ) =  0.0666666666667
+similarity( assembly ,  people ) =  0.04
+similarity( assembly ,  general ) =  0.0416666666667
+similarity( language ,  exploit ) =  0.0526315789474
+similarity( language ,  capital ) =  0.0434782608696
+similarity( loophole ,  easy ) =  0.0357142857143
+similarity( loophole ,  full ) =  0.030303030303
+similarity( loophole ,  legal ) =  0.030303030303
+similarity( loophole ,  ministry ) =  0.037037037037
+similarity( loophole ,  he ) =  0.0175438596491
+similarity( loophole ,  legitimacy ) =  0.030303030303
+similarity( suggest ,  threat ) =  0.0666666666667
+similarity( suggest ,  charge ) =  0.0666666666667
+similarity( suggest ,  apportioning ) =  0.047619047619
+similarity( suggest ,  form ) =  0.037037037037
+similarity( suggest ,  get ) =  0.0588235294118
+similarity( suggest ,  previous ) =  0.0625
+similarity( suggest ,  position ) =  0.0625
+similarity( suggest ,  resistance ) =  0.0526315789474
+similarity( still ,  coup ) =  0.0454545454545
+similarity( still ,  resistance ) =  0.0454545454545
+similarity( threat ,  charge ) =  0.0714285714286
+similarity( threat ,  safe ) =  0.0666666666667
+similarity( threat ,  form ) =  0.0384615384615
+similarity( threat ,  get ) =  0.0625
+similarity( threat ,  previous ) =  0.0666666666667
+similarity( threat ,  position ) =  0.0666666666667
+similarity( threat ,  resistance ) =  0.0555555555556
+similarity( charge ,  form ) =  0.0384615384615
+similarity( charge ,  get ) =  0.0625
+similarity( charge ,  back ) =  0.0666666666667
+similarity( charge ,  previous ) =  0.0666666666667
+similarity( charge ,  position ) =  0.0666666666667
+similarity( charge ,  resistance ) =  0.0555555555556
+similarity( instead ,  stay ) =  0.0625
+similarity( instead ,  leave ) =  0.0769230769231
+similarity( instead ,  put ) =  0.0625
+similarity( full ,  year ) =  0.05
+similarity( easily ,  completely ) =  0.0740740740741
+similarity( easily ,  form ) =  0.0357142857143
+similarity( exploit ,  vote ) =  0.047619047619
+similarity( exploit ,  capital ) =  0.0625
+similarity( legal ,  think ) =  0.0588235294118
+similarity( legal ,  legitimacy ) =  0.0454545454545
+similarity( completely ,  form ) =  0.027027027027
+similarity( tell ,  speak ) =  0.166666666667
+similarity( tell ,  vote ) =  0.0555555555556
+similarity( reporter ,  minister ) =  0.0588235294118
+similarity( speak ,  discuss ) =  0.0909090909091
+similarity( speak ,  vote ) =  0.0555555555556
+similarity( stay ,  leave ) =  0.0769230769231
+similarity( stay ,  recognition ) =  0.0588235294118
+similarity( stay ,  put ) =  0.0625
+similarity( meet ,  get ) =  0.0909090909091
+similarity( ministry ,  people ) =  0.0588235294118
+similarity( ministry ,  minister ) =  0.0833333333333
+similarity( people ,  general ) =  0.0434782608696
+similarity( form ,  get ) =  0.0357142857143
+similarity( form ,  previous ) =  0.037037037037
+similarity( form ,  position ) =  0.037037037037
+similarity( form ,  resistance ) =  0.0333333333333
+similarity( leave ,  put ) =  0.0769230769231
+similarity( prime ,  outnumber ) =  0.0714285714286
+similarity( minister ,  legitimacy ) =  0.0555555555556
+similarity( vote ,  election ) =  0.037037037037
+similarity( approve ,  cause ) =  0.0714285714286
+similarity( men ,  coup ) =  0.0625
+similarity( men ,  capital ) =  0.0666666666667
+similarity( overthrow ,  cause ) =  0.0588235294118
+similarity( overthrow ,  give ) =  0.0625
+similarity( year ,  benefit ) =  0.0666666666667
+similarity( year ,  previous ) =  0.0588235294118
+similarity( get ,  give ) =  0.0526315789474
+similarity( get ,  previous ) =  0.0588235294118
+similarity( get ,  position ) =  0.0588235294118
+similarity( get ,  put ) =  0.0588235294118
+similarity( get ,  resistance ) =  0.05
+similarity( he ,  put ) =  0.0232558139535
+similarity( premiership ,  election ) =  0.0625
+similarity( election ,  top ) =  0.0526315789474
+similarity( benefit ,  previous ) =  0.0714285714286
+similarity( cause ,  give ) =  0.047619047619
+similarity( instability ,  previous ) =  0.0909090909091
+similarity( give ,  put ) =  0.0555555555556
+similarity( back ,  put ) =  0.0625
+similarity( previous ,  position ) =  0.0625
+similarity( previous ,  resistance ) =  0.0526315789474
+similarity( position ,  resistance ) =  0.0526315789474
+coup bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( coup , men ) =  0.0625 
+
+weight ( coup , last ) =  0.0 
+
+weight ( coup , country ) =  0.047619047619 
+
+weight ( coup , overthrow ) =  0.0 
+
+weight ( coup , ranariddh ) =  0.0 
+
+weight ( coup , year ) =  0.0 
+
+weight ( coup , sen ) =  0.0 
+
+weight ( coup , still ) =  0.0454545454545 
+
+office bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( office , return ) =  0.0416666666667 
+
+weight ( office , september ) =  0.0 
+
+weight ( office , avoid ) =  0.0 
+
+weight ( office , stay ) =  0.0555555555556 
+
+weight ( office , leave ) =  0.0666666666667 
+
+weight ( office , arrest ) =  0.0 
+
+weight ( office , un ) =  0.0 
+
+weight ( office , take ) =  0.0 
+
+weight ( office , put ) =  0.0555555555556 
+
+weight ( office , instead ) =  0.0555555555556 
+
+weight ( office , refuge ) =  0.0 
+
+september bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( september , office ) =  0.0 
+
+weight ( september , avoid ) =  0.0 
+
+weight ( september , arrest ) =  0.0 
+
+weight ( september , un ) =  0.0 
+
+weight ( september , previous ) =  0.0666666666667 
+
+weight ( september , hun ) =  0.0 
+
+weight ( september , refuge ) =  0.0 
+
+weight ( september , first ) =  0.0625 
+
+soon bias :  -0.125 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( soon , hun ) =  -1.25e-05 
+
+weight ( soon , bangkok ) =  -1.25e-05 
+
+weight ( soon , say ) =  -1.25e-05 
+
+weight ( soon , sen ) =  -1.25e-05 
+
+weight ( soon , meet ) =  -1.25e-05 
+
+weight ( soon , prince ) =  -1.25e-05 
+
+month bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( month , return ) =  0.0434782608696 
+
+weight ( month , member ) =  0.0344827586207 
+
+weight ( month , state ) =  0.0454545454545 
+
+weight ( month , sen ) =  0.0333333333333 
+
+weight ( month , party ) =  0.0 
+
+weight ( month , overseas ) =  0.0 
+
+weight ( month , loophole ) =  0.0322580645161 
+
+weight ( month , hole ) =  0.0 
+
+weight ( month , he ) =  0.0227272727273 
+
+session bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( session , week ) =  0.0 
+
+weight ( session , parliament ) =  0.0 
+
+weight ( session , cambodia ) =  0.0 
+
+weight ( session , new ) =  0.0 
+
+weight ( session , come ) =  0.0 
+
+weight ( session , first ) =  0.0 
+
+kill bias :  -0.5 prestige : 0.000801282051282 >> out_deg : 13 >> in_deg : 13 
+
+weight ( kill , cause ) =  0.0952380952381 
+
+weight ( kill , return ) =  -5e-05 
+
+weight ( kill , give ) =  0.05 
+
+weight ( kill , rival ) =  -5e-05 
+
+weight ( kill , overthrow ) =  0.0625 
+
+weight ( kill , apply ) =  0.0357142857143 
+
+weight ( kill , aim ) =  0.0416666666667 
+
+weight ( kill , arrest ) =  -5e-05 
+
+weight ( kill , country ) =  -5e-05 
+
+weight ( kill , put ) =  0.0555555555556 
+
+weight ( kill , force ) =  0.0294117647059 
+
+weight ( kill , fear ) =  -5e-05 
+
+weight ( kill , open ) =  0.0588235294118 
+
+cambodian bias :  0.0 prestige : 0.000801282051282 >> out_deg : 17 >> in_deg : 17 
+
+weight ( cambodian , week ) =  0.0 
+
+weight ( cambodian , life ) =  0.05 
+
+weight ( cambodian , position ) =  0.0 
+
+weight ( cambodian , national ) =  0.0416666666667 
+
+weight ( cambodian , people ) =  0.0 
+
+weight ( cambodian , country ) =  0.0434782608696 
+
+weight ( cambodian , hun ) =  0.0384615384615 
+
+weight ( cambodian , secondranking ) =  0.0 
+
+weight ( cambodian , political ) =  0.0454545454545 
+
+weight ( cambodian , coalition ) =  0.04 
+
+weight ( cambodian , general ) =  0.0 
+
+weight ( cambodian , ranariddhs ) =  0.0 
+
+weight ( cambodian , party ) =  0.0 
+
+weight ( cambodian , sen ) =  0.0294117647059 
+
+weight ( cambodian , military ) =  0.0 
+
+weight ( cambodian , leader ) =  0.0 
+
+weight ( cambodian , staff ) =  0.0 
+
+ranariddhs bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( ranariddhs , funcinpec ) =  0.0 
+
+weight ( ranariddhs , party ) =  0.0 
+
+weight ( ranariddhs , agree ) =  0.0 
+
+weight ( ranariddhs , cambodian ) =  0.0 
+
+weight ( ranariddhs , people ) =  0.0 
+
+fear bias :  -0.875 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( fear , politician ) =  -8.75e-05 
+
+weight ( fear , rival ) =  -8.75e-05 
+
+weight ( fear , ease ) =  -8.75e-05 
+
+weight ( fear , safe ) =  0.0357142857143 
+
+weight ( fear , try ) =  -8.75e-05 
+
+weight ( fear , arrest ) =  -8.75e-05 
+
+weight ( fear , kill ) =  0.0332458333333 
+
+weight ( fear , threat ) =  0.037037037037 
+
+still bias :  -0.125 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( still , coup ) =  0.0454545454545 
+
+weight ( still , return ) =  0.04 
+
+weight ( still , opposition ) =  0.0454545454545 
+
+weight ( still , freedom ) =  0.0714285714286 
+
+weight ( still , hun ) =  -1.25e-05 
+
+weight ( still , resistance ) =  0.0454545454545 
+
+weight ( still , member ) =  -1.25e-05 
+
+weight ( still , arrest ) =  -1.25e-05 
+
+weight ( still , threat ) =  -1.25e-05 
+
+weight ( still , rainsy ) =  -1.25e-05 
+
+weight ( still , party ) =  -1.25e-05 
+
+prince bias :  0.0 prestige : 0.000801282051282 >> out_deg : 30 >> in_deg : 30 
+
+weight ( prince , national ) =  0.0 
+
+weight ( prince , norodom ) =  0.0 
+
+weight ( prince , soon ) =  0.0 
+
+weight ( prince , say ) =  0.0 
+
+weight ( prince , sen ) =  0.0 
+
+weight ( prince , plot ) =  0.0357142857143 
+
+weight ( prince , make ) =  0.0 
+
+weight ( prince , father ) =  0.0 
+
+weight ( prince , brief ) =  0.0 
+
+weight ( prince , cambodia ) =  0.0 
+
+weight ( prince , member ) =  0.027027027027 
+
+weight ( prince , also ) =  0.0 
+
+weight ( prince , loophole ) =  0.025641025641 
+
+weight ( prince , head ) =  0.0 
+
+weight ( prince , assembly ) =  0.0 
+
+weight ( prince , forming ) =  0.0 
+
+weight ( prince , hun ) =  0.0333333333333 
+
+weight ( prince , sihanouk ) =  0.0 
+
+weight ( prince , stay ) =  0.0 
+
+weight ( prince , bangkok ) =  0.0 
+
+weight ( prince , minister ) =  0.0 
+
+weight ( prince , president ) =  0.0 
+
+weight ( prince , prime ) =  0.0 
+
+weight ( prince , king ) =  0.125 
+
+weight ( prince , ministry ) =  0.0454545454545 
+
+weight ( prince , rival ) =  0.0 
+
+weight ( prince , ranariddh ) =  0.0 
+
+weight ( prince , chief ) =  0.0 
+
+weight ( prince , meet ) =  0.0 
+
+weight ( prince , top ) =  0.0 
+
+previous bias :  0.0 prestige : 0.000801282051282 >> out_deg : 21 >> in_deg : 21 
+
+weight ( previous , plot ) =  0.105263157895 
+
+weight ( previous , threat ) =  0.0666666666667 
+
+weight ( previous , form ) =  0.037037037037 
+
+weight ( previous , give ) =  0.0 
+
+weight ( previous , bunchhay ) =  0.0 
+
+weight ( previous , suggest ) =  0.0625 
+
+weight ( previous , avoid ) =  0.0434782608696 
+
+weight ( previous , year ) =  0.0588235294118 
+
+weight ( previous , resistance ) =  0.0526315789474 
+
+weight ( previous , back ) =  0.0 
+
+weight ( previous , general ) =  0.0 
+
+weight ( previous , september ) =  0.0666666666667 
+
+weight ( previous , charge ) =  0.0666666666667 
+
+weight ( previous , instability ) =  0.0909090909091 
+
+weight ( previous , benefit ) =  0.0714285714286 
+
+weight ( previous , opposition ) =  0.0526315789474 
+
+weight ( previous , secondranking ) =  0.0 
+
+weight ( previous , position ) =  0.0625 
+
+weight ( previous , get ) =  0.0588235294118 
+
+weight ( previous , come ) =  0.1 
+
+weight ( previous , first ) =  0.117647058824 
+
+ease bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( ease , politician ) =  0.0 
+
+weight ( ease , freedom ) =  0.0 
+
+weight ( ease , try ) =  0.0 
+
+weight ( ease , arrest ) =  0.0 
+
+weight ( ease , rival ) =  0.0 
+
+weight ( ease , fear ) =  0.0 
+
+weight ( ease , come ) =  0.0625 
+
+father bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( father , head ) =  0.0 
+
+weight ( father , people ) =  0.0714285714286 
+
+weight ( father , suggest ) =  0.1 
+
+weight ( father , norodom ) =  0.0 
+
+weight ( father , sihanouk ) =  0.0 
+
+weight ( father , cambodia ) =  0.0 
+
+weight ( father , try ) =  0.142857142857 
+
+weight ( father , state ) =  0.0 
+
+weight ( father , apply ) =  0.05 
+
+weight ( father , prince ) =  0.0 
+
+arrest bias :  0.0 prestige : 0.000801282051282 >> out_deg : 23 >> in_deg : 23 
+
+weight ( arrest , force ) =  0.037037037037 
+
+weight ( arrest , accuse ) =  0.0 
+
+weight ( arrest , office ) =  0.0 
+
+weight ( arrest , september ) =  0.0 
+
+weight ( arrest , say ) =  0.0 
+
+weight ( arrest , kill ) =  0.0 
+
+weight ( arrest , sen ) =  0.0 
+
+weight ( arrest , fear ) =  0.0 
+
+weight ( arrest , still ) =  0.0 
+
+weight ( arrest , ease ) =  0.0 
+
+weight ( arrest , member ) =  0.0 
+
+weight ( arrest , charge ) =  0.0 
+
+weight ( arrest , leader ) =  0.0 
+
+weight ( arrest , return ) =  0.0 
+
+weight ( arrest , hun ) =  0.0 
+
+weight ( arrest , opposition ) =  0.0 
+
+weight ( arrest , believe ) =  0.1 
+
+weight ( arrest , rival ) =  0.0 
+
+weight ( arrest , rule ) =  0.0 
+
+weight ( arrest , assembly ) =  0.0 
+
+weight ( arrest , threat ) =  0.0 
+
+weight ( arrest , country ) =  0.0 
+
+weight ( arrest , avoid ) =  0.0 
+
+charge bias :  -0.0 prestige : 0.000801282051282 >> out_deg : 17 >> in_deg : 17 
+
+weight ( charge , plot ) =  0.111111111111 
+
+weight ( charge , assembly ) =  -0.0 
+
+weight ( charge , threat ) =  0.0714285714286 
+
+weight ( charge , form ) =  0.0384615384615 
+
+weight ( charge , get ) =  0.0625 
+
+weight ( charge , suggest ) =  0.0666666666667 
+
+weight ( charge , avoid ) =  0.0909090909091 
+
+weight ( charge , back ) =  0.0666666666667 
+
+weight ( charge , resistance ) =  0.0555555555556 
+
+weight ( charge , member ) =  -0.0 
+
+weight ( charge , arrest ) =  -0.0 
+
+weight ( charge , srp ) =  -0.0 
+
+weight ( charge , opposition ) =  -0.0 
+
+weight ( charge , position ) =  0.0666666666667 
+
+weight ( charge , come ) =  0.210526315789 
+
+weight ( charge , leader ) =  -0.0 
+
+weight ( charge , previous ) =  0.0666666666667 
+
+easy bias :  0.625 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( easy , rainsy ) =  6.25e-05 
+
+weight ( easy , try ) =  0.0909090909091 
+
+weight ( easy , say ) =  6.25e-05 
+
+weight ( easy , loophole ) =  0.0357142857143 
+
+weight ( easy , srp ) =  6.25e-05 
+
+overthrow bias :  0.0 prestige : 0.000801282051282 >> out_deg : 12 >> in_deg : 12 
+
+weight ( overthrow , coup ) =  0.0 
+
+weight ( overthrow , force ) =  0.0333333333333 
+
+weight ( overthrow , last ) =  0.0 
+
+weight ( overthrow , give ) =  0.0625 
+
+weight ( overthrow , cause ) =  0.0588235294118 
+
+weight ( overthrow , hun ) =  0.0 
+
+weight ( overthrow , ranariddh ) =  0.0 
+
+weight ( overthrow , aim ) =  0.05 
+
+weight ( overthrow , kill ) =  0.0625 
+
+weight ( overthrow , minister ) =  0.0 
+
+weight ( overthrow , sen ) =  0.0 
+
+weight ( overthrow , open ) =  0.0769230769231 
+
+rainsy bias :  0.0 prestige : 0.000801282051282 >> out_deg : 21 >> in_deg : 21 
+
+weight ( rainsy , unsatisfied ) =  0.0 
+
+weight ( rainsy , member ) =  0.0 
+
+weight ( rainsy , parliament ) =  0.0 
+
+weight ( rainsy , assembly ) =  0.0 
+
+weight ( rainsy , especially ) =  0.0 
+
+weight ( rainsy , sam ) =  0.0 
+
+weight ( rainsy , srp ) =  0.0 
+
+weight ( rainsy , suggest ) =  0.0 
+
+weight ( rainsy , believe ) =  0.0 
+
+weight ( rainsy , safe ) =  0.0 
+
+weight ( rainsy , wednesday ) =  0.0 
+
+weight ( rainsy , cambodia ) =  0.0 
+
+weight ( rainsy , aim ) =  0.0 
+
+weight ( rainsy , say ) =  0.0 
+
+weight ( rainsy , easy ) =  0.0 
+
+weight ( rainsy , party ) =  0.0 
+
+weight ( rainsy , vocally ) =  0.0 
+
+weight ( rainsy , still ) =  0.0 
+
+weight ( rainsy , loophole ) =  0.0 
+
+weight ( rainsy , leader ) =  0.0 
+
+weight ( rainsy , antihun ) =  0.0 
+
+loophole bias :  0.0 prestige : 0.000801282051282 >> out_deg : 23 >> in_deg : 23 
+
+weight ( loophole , sam ) =  0.0 
+
+weight ( loophole , month ) =  0.0322580645161 
+
+weight ( loophole , exploit ) =  0.0 
+
+weight ( loophole , sen ) =  0.0232558139535 
+
+weight ( loophole , indirect ) =  0.0 
+
+weight ( loophole , prince ) =  0.025641025641 
+
+weight ( loophole , plot ) =  0.030303030303 
+
+weight ( loophole , suggest ) =  0.0 
+
+weight ( loophole , legal ) =  0.030303030303 
+
+weight ( loophole , member ) =  0.047619047619 
+
+weight ( loophole , state ) =  0.0285714285714 
+
+weight ( loophole , easy ) =  0.0357142857143 
+
+weight ( loophole , rainsy ) =  0.0 
+
+weight ( loophole , full ) =  0.030303030303 
+
+weight ( loophole , return ) =  0.0277777777778 
+
+weight ( loophole , statement ) =  0.0 
+
+weight ( loophole , legitimacy ) =  0.030303030303 
+
+weight ( loophole , roundabout ) =  0.0 
+
+weight ( loophole , he ) =  0.0175438596491 
+
+weight ( loophole , easily ) =  0.0 
+
+weight ( loophole , language ) =  0.0 
+
+weight ( loophole , ministry ) =  0.037037037037 
+
+weight ( loophole , contain ) =  0.0 
+
+men bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( men , coprime ) =  0.0 
+
+weight ( men , capital ) =  0.0666666666667 
+
+weight ( men , serve ) =  0.0 
+
+weight ( men , minister ) =  0.0 
+
+weight ( men , coup ) =  0.0625 
+
+twothirds bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( twothirds , vote ) =  0.0 
+
+weight ( twothirds , assures ) =  0.0 
+
+weight ( twothirds , need ) =  0.0 
+
+weight ( twothirds , parliament ) =  0.0 
+
+weight ( twothirds , deal ) =  0.0 
+
+return bias :  0.0 prestige : 0.000801282051282 >> out_deg : 28 >> in_deg : 28 
+
+weight ( return , office ) =  0.0416666666667 
+
+weight ( return , month ) =  0.0434782608696 
+
+weight ( return , kill ) =  0.0 
+
+weight ( return , sen ) =  0.0285714285714 
+
+weight ( return , still ) =  0.04 
+
+weight ( return , open ) =  0.0 
+
+weight ( return , speak ) =  0.0 
+
+weight ( return , leave ) =  0.105263157895 
+
+weight ( return , brief ) =  0.0 
+
+weight ( return , member ) =  0.0294117647059 
+
+weight ( return , arrest ) =  0.0 
+
+weight ( return , state ) =  0.037037037037 
+
+weight ( return , new ) =  0.030303030303 
+
+weight ( return , loophole ) =  0.0277777777778 
+
+weight ( return , week ) =  0.0 
+
+weight ( return , door ) =  0.0 
+
+weight ( return , get ) =  0.0434782608696 
+
+weight ( return , stay ) =  0.0454545454545 
+
+weight ( return , bangkok ) =  0.0 
+
+weight ( return , instead ) =  0.0454545454545 
+
+weight ( return , put ) =  0.0454545454545 
+
+weight ( return , refuge ) =  0.0588235294118 
+
+weight ( return , he ) =  0.0204081632653 
+
+weight ( return , rival ) =  0.0 
+
+weight ( return , aim ) =  0.0357142857143 
+
+weight ( return , freedom ) =  0.0322580645161 
+
+weight ( return , meet ) =  0.0625 
+
+weight ( return , country ) =  0.0 
+
+government bias :  0.0 prestige : 0.000801282051282 >> out_deg : 18 >> in_deg : 18 
+
+weight ( government , week ) =  0.0 
+
+weight ( government , party ) =  0.117647058824 
+
+weight ( government , last ) =  0.0 
+
+weight ( government , ministry ) =  0.0 
+
+weight ( government , forming ) =  0.0 
+
+weight ( government , ranariddh ) =  0.0 
+
+weight ( government , coalition ) =  0.0434782608696 
+
+weight ( government , rule ) =  0.0588235294118 
+
+weight ( government , member ) =  0.0322580645161 
+
+weight ( government , un ) =  0.04 
+
+weight ( government , assembly ) =  0.0416666666667 
+
+weight ( government , approve ) =  0.0 
+
+weight ( government , letter ) =  0.05 
+
+weight ( government , sen ) =  0.03125 
+
+weight ( government , need ) =  0.0 
+
+weight ( government , new ) =  0.0 
+
+weight ( government , open ) =  0.0 
+
+weight ( government , election ) =  0.0434782608696 
+
+safe bias :  0.375 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( safe , sam ) =  3.75e-05 
+
+weight ( safe , reporter ) =  3.75e-05 
+
+weight ( safe , freedom ) =  0.04 
+
+weight ( safe , wednesday ) =  3.75e-05 
+
+weight ( safe , cambodia ) =  3.75e-05 
+
+weight ( safe , threat ) =  0.0666666666667 
+
+weight ( safe , rainsy ) =  3.75e-05 
+
+weight ( safe , fear ) =  0.0357142857143 
+
+weight ( safe , believe ) =  3.75e-05 
+
+resistance bias :  -0.75 prestige : 0.000801282051282 >> out_deg : 17 >> in_deg : 17 
+
+weight ( resistance , plot ) =  0.0909090909091 
+
+weight ( resistance , position ) =  0.0526315789474 
+
+weight ( resistance , last ) =  -7.5e-05 
+
+weight ( resistance , threat ) =  0.0555555555556 
+
+weight ( resistance , form ) =  0.0333333333333 
+
+weight ( resistance , get ) =  0.05 
+
+weight ( resistance , suggest ) =  0.0526315789474 
+
+weight ( resistance , avoid ) =  0.0384615384615 
+
+weight ( resistance , unsuccessful ) =  -7.5e-05 
+
+weight ( resistance , charge ) =  0.0555555555556 
+
+weight ( resistance , opposition ) =  0.227272727273 
+
+weight ( resistance , year ) =  -7.5e-05 
+
+weight ( resistance , put ) =  -7.5e-05 
+
+weight ( resistance , tough ) =  -7.5e-05 
+
+weight ( resistance , still ) =  0.0454545454545 
+
+weight ( resistance , come ) =  0.0869565217391 
+
+weight ( resistance , previous ) =  0.0526315789474 
+
+apportioning bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( apportioning , suggest ) =  0.047619047619 
+
+weight ( apportioning , ministry ) =  0.0 
+
+weight ( apportioning , freedom ) =  0.0333333333333 
+
+weight ( apportioning , hun ) =  0.0 
+
+weight ( apportioning , coalition ) =  0.0 
+
+weight ( apportioning , new ) =  0.0 
+
+weight ( apportioning , sen ) =  0.0 
+
+weight ( apportioning , discuss ) =  0.0 
+
+coprime bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( coprime , sen ) =  0.0 
+
+weight ( coprime , hun ) =  0.0 
+
+weight ( coprime , men ) =  0.0 
+
+weight ( coprime , serve ) =  0.0 
+
+weight ( coprime , minister ) =  0.0 
+
+roundabout bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( roundabout , instead ) =  0.0 
+
+weight ( roundabout , make ) =  0.0 
+
+weight ( roundabout , full ) =  0.0 
+
+weight ( roundabout , loophole ) =  0.0 
+
+weight ( roundabout , statement ) =  0.0 
+
+accuse bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( accuse , plot ) =  0.0 
+
+weight ( accuse , life ) =  0.0 
+
+weight ( accuse , hun ) =  0.0 
+
+weight ( accuse , arrest ) =  0.0 
+
+weight ( accuse , chief ) =  0.0714285714286 
+
+weight ( accuse , sen ) =  0.0 
+
+instead bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( instead , return ) =  0.0454545454545 
+
+weight ( instead , office ) =  0.0555555555556 
+
+weight ( instead , make ) =  0.0 
+
+weight ( instead , stay ) =  0.0625 
+
+weight ( instead , leave ) =  0.0769230769231 
+
+weight ( instead , roundabout ) =  0.0 
+
+weight ( instead , statement ) =  0.0 
+
+weight ( instead , put ) =  0.0625 
+
+weight ( instead , refuge ) =  0.0909090909091 
+
+discuss bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( discuss , ministry ) =  0.0 
+
+weight ( discuss , hun ) =  0.0 
+
+weight ( discuss , apportioning ) =  0.0 
+
+weight ( discuss , new ) =  0.0 
+
+weight ( discuss , sen ) =  0.0 
+
+weight ( discuss , meet ) =  0.0 
+
+weight ( discuss , speak ) =  0.0909090909091 
+
+prime bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( prime , hun ) =  0.0 
+
+weight ( prime , sole ) =  0.0 
+
+weight ( prime , outnumber ) =  0.0714285714286 
+
+weight ( prime , minister ) =  0.0 
+
+weight ( prime , sen ) =  0.0 
+
+weight ( prime , prince ) =  0.0 
+
+weight ( prime , make ) =  0.0 
+
+easily bias :  0.25 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( easily , full ) =  2.5e-05 
+
+weight ( easily , form ) =  0.0357142857143 
+
+weight ( easily , system ) =  2.5e-05 
+
+weight ( easily , legal ) =  2.5e-05 
+
+weight ( easily , exploit ) =  2.5e-05 
+
+weight ( easily , statement ) =  2.5e-05 
+
+weight ( easily , completely ) =  0.0740740740741 
+
+weight ( easily , loophole ) =  2.5e-05 
+
+ranariddh bias :  0.0 prestige : 0.000801282051282 >> out_deg : 24 >> in_deg : 24 
+
+weight ( ranariddh , coup ) =  0.0 
+
+weight ( ranariddh , norodom ) =  0.0 
+
+weight ( ranariddh , say ) =  0.0 
+
+weight ( ranariddh , year ) =  0.0 
+
+weight ( ranariddh , sen ) =  0.0 
+
+weight ( ranariddh , prince ) =  0.0 
+
+weight ( ranariddh , guarantee ) =  0.0 
+
+weight ( ranariddh , reporter ) =  0.0 
+
+weight ( ranariddh , safety ) =  0.0 
+
+weight ( ranariddh , overthrow ) =  0.0 
+
+weight ( ranariddh , new ) =  0.0 
+
+weight ( ranariddh , apply ) =  0.0 
+
+weight ( ranariddh , tell ) =  0.0 
+
+weight ( ranariddh , extend ) =  0.0 
+
+weight ( ranariddh , government ) =  0.0 
+
+weight ( ranariddh , forming ) =  0.0 
+
+weight ( ranariddh , hun ) =  0.0 
+
+weight ( ranariddh , last ) =  0.0 
+
+weight ( ranariddh , cause ) =  0.0 
+
+weight ( ranariddh , politician ) =  0.0 
+
+weight ( ranariddh , rival ) =  0.0 
+
+weight ( ranariddh , wednesday ) =  0.0 
+
+weight ( ranariddh , country ) =  0.0 
+
+weight ( ranariddh , instability ) =  0.0 
+
+wednesday bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( wednesday , unsatisfied ) =  0.0 
+
+weight ( wednesday , sam ) =  0.0 
+
+weight ( wednesday , reporter ) =  0.0 
+
+weight ( wednesday , tuesday ) =  0.25 
+
+weight ( wednesday , safe ) =  0.0 
+
+weight ( wednesday , ranariddh ) =  0.0 
+
+weight ( wednesday , say ) =  0.0 
+
+weight ( wednesday , rainsy ) =  0.0 
+
+weight ( wednesday , believe ) =  0.0 
+
+weight ( wednesday , tell ) =  0.0 
+
+weight ( wednesday , guarantee ) =  0.0 
+
+try bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( try , suggest ) =  0.0769230769231 
+
+weight ( try , politician ) =  0.0 
+
+weight ( try , freedom ) =  0.0 
+
+weight ( try , ease ) =  0.0 
+
+weight ( try , political ) =  0.0 
+
+weight ( try , father ) =  0.142857142857 
+
+weight ( try , easy ) =  0.0909090909091 
+
+weight ( try , rival ) =  0.0 
+
+weight ( try , apply ) =  0.0434782608696 
+
+weight ( try , fear ) =  0.0 
+
+benefit bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( benefit , dont ) =  0.0 
+
+weight ( benefit , hun ) =  0.0 
+
+weight ( benefit , year ) =  0.0666666666667 
+
+weight ( benefit , sen ) =  0.0 
+
+weight ( benefit , previous ) =  0.0714285714286 
+
+weight ( benefit , cause ) =  0.0 
+
+weight ( benefit , think ) =  0.0 
+
+weight ( benefit , first ) =  0.0666666666667 
+
+contain bias :  0.0 prestige : 0.000801282051282 >> out_deg : 4 >> in_deg : 4 
+
+weight ( contain , say ) =  0.0 
+
+weight ( contain , loophole ) =  0.0 
+
+weight ( contain , indirect ) =  0.0 
+
+weight ( contain , language ) =  0.0 
+
+instability bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( instability , country ) =  0.0 
+
+weight ( instability , hun ) =  0.0 
+
+weight ( instability , ranariddh ) =  0.0 
+
+weight ( instability , say ) =  0.0 
+
+weight ( instability , sen ) =  0.0 
+
+weight ( instability , cause ) =  0.0 
+
+weight ( instability , previous ) =  0.0909090909091 
+
+unsatisfied bias :  0.0 prestige : 0.000801282051282 >> out_deg : 4 >> in_deg : 4 
+
+weight ( unsatisfied , rainsy ) =  0.0 
+
+weight ( unsatisfied , say ) =  0.0 
+
+weight ( unsatisfied , wednesday ) =  0.0 
+
+weight ( unsatisfied , guarantee ) =  0.0 
+
+force bias :  0.0 prestige : 0.000801282051282 >> out_deg : 22 >> in_deg : 22 
+
+weight ( force , tough ) =  0.0 
+
+weight ( force , give ) =  0.0588235294118 
+
+weight ( force , outnumber ) =  0.0 
+
+weight ( force , kill ) =  0.0294117647059 
+
+weight ( force , sen ) =  3.75e-05 
+
+weight ( force , open ) =  0.0322580645161 
+
+weight ( force , nhek ) =  0.0 
+
+weight ( force , arrest ) =  0.037037037037 
+
+weight ( force , take ) =  3.75e-05 
+
+weight ( force , overthrow ) =  0.0333333333333 
+
+weight ( force , party ) =  3.75e-05 
+
+weight ( force , cause ) =  0.0285714285714 
+
+weight ( force , capital ) =  0.0 
+
+weight ( force , bangkok ) =  0.0227272727273 
+
+weight ( force , opposition ) =  3.75e-05 
+
+weight ( force , put ) =  0.0 
+
+weight ( force , believe ) =  0.0322580645161 
+
+weight ( force , refuge ) =  3.75e-05 
+
+weight ( force , language ) =  0.027027027027 
+
+weight ( force , aim ) =  0.0263157894737 
+
+weight ( force , un ) =  3.75e-05 
+
+weight ( force , bunchhays ) =  0.0 
+
+deal bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( deal , twothirds ) =  0.0 
+
+weight ( deal , position ) =  0.0666666666667 
+
+weight ( deal , hun ) =  0.0 
+
+weight ( deal , reach ) =  0.0 
+
+weight ( deal , assures ) =  0.0 
+
+weight ( deal , apply ) =  0.04 
+
+weight ( deal , vote ) =  0.0 
+
+weight ( deal , sen ) =  0.0 
+
+people bias :  0.0 prestige : 0.000801282051282 >> out_deg : 12 >> in_deg : 12 
+
+weight ( people , member ) =  0.0625 
+
+weight ( people , head ) =  0.030303030303 
+
+weight ( people , assembly ) =  0.04 
+
+weight ( people , ministry ) =  0.0588235294118 
+
+weight ( people , hun ) =  0.0 
+
+weight ( people , father ) =  0.0714285714286 
+
+weight ( people , general ) =  0.0434782608696 
+
+weight ( people , funcinpec ) =  0.0 
+
+weight ( people , cambodian ) =  0.0 
+
+weight ( people , ranariddhs ) =  0.0 
+
+weight ( people , party ) =  0.0 
+
+weight ( people , sen ) =  0.0 
+
+national bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( national , parliament ) =  0.0 
+
+weight ( national , assembly ) =  0.0 
+
+weight ( national , make ) =  0.0 
+
+weight ( national , cambodia ) =  0.0 
+
+weight ( national , state ) =  0.0416666666667 
+
+weight ( national , cambodian ) =  0.0416666666667 
+
+weight ( national , president ) =  0.0 
+
+weight ( national , new ) =  0.0 
+
+weight ( national , overseas ) =  0.0666666666667 
+
+weight ( national , military ) =  0.0588235294118 
+
+weight ( national , prince ) =  0.0 
+
+back bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( back , nhek ) =  0.0 
+
+weight ( back , give ) =  0.0 
+
+weight ( back , bunchhay ) =  0.0 
+
+weight ( back , charge ) =  0.0666666666667 
+
+weight ( back , secondranking ) =  0.0 
+
+weight ( back , put ) =  0.0625 
+
+weight ( back , position ) =  0.0 
+
+weight ( back , come ) =  0.1 
+
+weight ( back , previous ) =  0.0 
+
+outnumber bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( outnumber , prime ) =  0.0714285714286 
+
+weight ( outnumber , force ) =  0.0 
+
+weight ( outnumber , nhek ) =  0.0 
+
+weight ( outnumber , capital ) =  0.0 
+
+weight ( outnumber , put ) =  0.0 
+
+weight ( outnumber , bunchhays ) =  0.0 
+
+election bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( election , king ) =  0.0 
+
+weight ( election , majesty ) =  0.0 
+
+weight ( election , get ) =  0.0 
+
+weight ( election , legitimacy ) =  0.0 
+
+weight ( election , top ) =  0.0526315789474 
+
+weight ( election , government ) =  0.0434782608696 
+
+weight ( election , premiership ) =  0.0 
+
+weight ( election , vote ) =  0.037037037037 
+
+weight ( election , party ) =  0.0555555555556 
+
+weight ( election , recognition ) =  0.0 
+
+year bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( year , week ) =  0.133333333333 
+
+weight ( year , coup ) =  0.0 
+
+weight ( year , full ) =  0.05 
+
+weight ( year , last ) =  0.0 
+
+weight ( year , ranariddh ) =  0.0 
+
+weight ( year , resistance ) =  0.0 
+
+weight ( year , benefit ) =  0.0666666666667 
+
+weight ( year , unsuccessful ) =  0.0 
+
+weight ( year , previous ) =  0.0588235294118 
+
+weight ( year , first ) =  0.0555555555556 
+
+sen bias :  0.0 prestige : 0.000801282051282 >> out_deg : 58 >> in_deg : 58 
+
+weight ( sen , coup ) =  0.0 
+
+weight ( sen , force ) =  0.0 
+
+weight ( sen , opposition ) =  0.0 
+
+weight ( sen , deal ) =  0.0 
+
+weight ( sen , people ) =  0.0 
+
+weight ( sen , tuesday ) =  0.0 
+
+weight ( sen , soon ) =  0.0 
+
+weight ( sen , month ) =  0.0333333333333 
+
+weight ( sen , say ) =  0.0 
+
+weight ( sen , cambodian ) =  0.0 
+
+weight ( sen , assembly ) =  0.0294117647059 
+
+weight ( sen , prince ) =  0.0 
+
+weight ( sen , guarantee ) =  0.0 
+
+weight ( sen , plot ) =  0.0 
+
+weight ( sen , instability ) =  0.0 
+
+weight ( sen , everything ) =  0.0 
+
+weight ( sen , avoid ) =  0.0 
+
+weight ( sen , government ) =  0.03125 
+
+weight ( sen , political ) =  0.0 
+
+weight ( sen , benefit ) =  0.0 
+
+weight ( sen , member ) =  0.0243902439024 
+
+weight ( sen , arrest ) =  0.0 
+
+weight ( sen , state ) =  0.0294117647059 
+
+weight ( sen , safety ) =  0.0 
+
+weight ( sen , overthrow ) =  0.0 
+
+weight ( sen , party ) =  0.0 
+
+weight ( sen , he ) =  0.0178571428571 
+
+weight ( sen , cause ) =  0.0 
+
+weight ( sen , leader ) =  0.0 
+
+weight ( sen , week ) =  0.0 
+
+weight ( sen , life ) =  0.0 
+
+weight ( sen , return ) =  0.0285714285714 
+
+weight ( sen , get ) =  0.0 
+
+weight ( sen , hun ) =  0.0 
+
+weight ( sen , sole ) =  0.0 
+
+weight ( sen , reach ) =  0.0 
+
+weight ( sen , apportioning ) =  0.0 
+
+weight ( sen , coprime ) =  0.0 
+
+weight ( sen , minister ) =  0.0 
+
+weight ( sen , accuse ) =  0.0 
+
+weight ( sen , meet ) =  0.0 
+
+weight ( sen , discuss ) =  0.0 
+
+weight ( sen , antihun ) =  0.0 
+
+weight ( sen , loophole ) =  0.0232558139535 
+
+weight ( sen , prime ) =  0.0 
+
+weight ( sen , television ) =  0.0 
+
+weight ( sen , last ) =  0.0 
+
+weight ( sen , ministry ) =  0.0 
+
+weight ( sen , rival ) =  0.0 
+
+weight ( sen , ranariddh ) =  0.0 
+
+weight ( sen , coalition ) =  0.0 
+
+weight ( sen , rule ) =  0.0 
+
+weight ( sen , leave ) =  0.0 
+
+weight ( sen , chief ) =  0.0 
+
+weight ( sen , threat ) =  0.0 
+
+weight ( sen , country ) =  0.0 
+
+weight ( sen , vocally ) =  0.0 
+
+weight ( sen , think ) =  0.0 
+
+indirect bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( indirect , language ) =  0.0 
+
+weight ( indirect , suggest ) =  0.0 
+
+weight ( indirect , member ) =  0.037037037037 
+
+weight ( indirect , say ) =  0.0 
+
+weight ( indirect , contain ) =  0.0 
+
+weight ( indirect , loophole ) =  0.0 
+
+recognition bias :  -0.375 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( recognition , king ) =  -3.75e-05 
+
+weight ( recognition , life ) =  0.0625 
+
+weight ( recognition , majesty ) =  -3.75e-05 
+
+weight ( recognition , legitimacy ) =  -3.75e-05 
+
+weight ( recognition , stay ) =  0.0588235294118 
+
+weight ( recognition , premiership ) =  -3.75e-05 
+
+weight ( recognition , safety ) =  0.037037037037 
+
+weight ( recognition , election ) =  -3.75e-05 
+
+leave bias :  0.0 prestige : 0.000801282051282 >> out_deg : 14 >> in_deg : 14 
+
+weight ( leave , return ) =  0.105263157895 
+
+weight ( leave , office ) =  0.0666666666667 
+
+weight ( leave , form ) =  0.0 
+
+weight ( leave , avoid ) =  0.05 
+
+weight ( leave , hun ) =  0.0 
+
+weight ( leave , sole ) =  0.0 
+
+weight ( leave , coalition ) =  0.0 
+
+weight ( leave , stay ) =  0.0769230769231 
+
+weight ( leave , aim ) =  0.0526315789474 
+
+weight ( leave , instead ) =  0.0769230769231 
+
+weight ( leave , put ) =  0.0769230769231 
+
+weight ( leave , sen ) =  0.0 
+
+weight ( leave , agree ) =  0.0 
+
+weight ( leave , refuge ) =  0.125 
+
+avoid bias :  0.0 prestige : 0.000801282051282 >> out_deg : 18 >> in_deg : 18 
+
+weight ( avoid , plot ) =  0.0384615384615 
+
+weight ( avoid , threat ) =  0.0454545454545 
+
+weight ( avoid , office ) =  0.0 
+
+weight ( avoid , get ) =  0.0416666666667 
+
+weight ( avoid , september ) =  0.0 
+
+weight ( avoid , suggest ) =  0.0434782608696 
+
+weight ( avoid , hun ) =  0.0 
+
+weight ( avoid , resistance ) =  0.0384615384615 
+
+weight ( avoid , leave ) =  0.05 
+
+weight ( avoid , arrest ) =  0.0 
+
+weight ( avoid , charge ) =  0.0909090909091 
+
+weight ( avoid , un ) =  0.0 
+
+weight ( avoid , form ) =  0.0294117647059 
+
+weight ( avoid , opposition ) =  0.0384615384615 
+
+weight ( avoid , position ) =  0.0434782608696 
+
+weight ( avoid , sen ) =  0.0 
+
+weight ( avoid , come ) =  0.037037037037 
+
+weight ( avoid , previous ) =  0.0434782608696 
+
+brief bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( brief , return ) =  0.0 
+
+weight ( brief , stay ) =  0.0 
+
+weight ( brief , bangkok ) =  0.0 
+
+weight ( brief , new ) =  0.0416666666667 
+
+weight ( brief , prince ) =  0.0 
+
+weight ( brief , speak ) =  0.0 
+
+legal bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( legal , control ) =  0.0 
+
+weight ( legal , easily ) =  0.0 
+
+weight ( legal , think ) =  0.0588235294118 
+
+weight ( legal , legitimacy ) =  0.0454545454545 
+
+weight ( legal , exploit ) =  0.0 
+
+weight ( legal , system ) =  0.0 
+
+weight ( legal , completely ) =  0.0 
+
+weight ( legal , loophole ) =  0.0 
+
+weight ( legal , leader ) =  0.05 
+
+funcinpec bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( funcinpec , party ) =  0.0 
+
+weight ( funcinpec , form ) =  0.0 
+
+weight ( funcinpec , agree ) =  0.0 
+
+weight ( funcinpec , ranariddhs ) =  0.0 
+
+weight ( funcinpec , people ) =  0.0 
+
+everything bias :  0.0 prestige : 0.000801282051282 >> out_deg : 3 >> in_deg : 3 
+
+weight ( everything , sen ) =  0.0 
+
+weight ( everything , hun ) =  0.0 
+
+weight ( everything , get ) =  0.0 
+
+state bias :  0.0 prestige : 0.000801282051282 >> out_deg : 15 >> in_deg : 15 
+
+weight ( state , member ) =  0.030303030303 
+
+weight ( state , head ) =  0.0 
+
+weight ( state , return ) =  0.037037037037 
+
+weight ( state , tuesday ) =  0.0 
+
+weight ( state , father ) =  0.0 
+
+weight ( state , television ) =  0.0 
+
+weight ( state , cambodia ) =  0.0 
+
+weight ( state , month ) =  0.0454545454545 
+
+weight ( state , broadcast ) =  0.0 
+
+weight ( state , position ) =  0.047619047619 
+
+weight ( state , sen ) =  0.0294117647059 
+
+weight ( state , military ) =  0.0526315789474 
+
+weight ( state , loophole ) =  0.0285714285714 
+
+weight ( state , national ) =  0.0416666666667 
+
+weight ( state , he ) =  0.0208333333333 
+
+safety bias :  0.125 prestige : 0.000801282051282 >> out_deg : 16 >> in_deg : 16 
+
+weight ( safety , life ) =  0.04 
+
+weight ( safety , parliament ) =  0.0416666666667 
+
+weight ( safety , politician ) =  1.25e-05 
+
+weight ( safety , extend ) =  1.25e-05 
+
+weight ( safety , freedom ) =  1.25e-05 
+
+weight ( safety , hun ) =  1.25e-05 
+
+weight ( safety , political ) =  1.25e-05 
+
+weight ( safety , stay ) =  0.0384615384615 
+
+weight ( safety , ranariddh ) =  1.25e-05 
+
+weight ( safety , say ) =  1.25e-05 
+
+weight ( safety , apply ) =  1.25e-05 
+
+weight ( safety , put ) =  0.0384615384615 
+
+weight ( safety , sen ) =  1.25e-05 
+
+weight ( safety , he ) =  0.0188679245283 
+
+weight ( safety , recognition ) =  0.037037037037 
+
+weight ( safety , guarantee ) =  1.25e-05 
+
+capital bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( capital , tough ) =  0.0 
+
+weight ( capital , language ) =  0.0434782608696 
+
+weight ( capital , men ) =  0.0666666666667 
+
+weight ( capital , outnumber ) =  0.0 
+
+weight ( capital , exploit ) =  0.0625 
+
+weight ( capital , unsuccessful ) =  0.0 
+
+weight ( capital , put ) =  0.0 
+
+weight ( capital , force ) =  0.0 
+
+weight ( capital , bunchhays ) =  0.0 
+
+new bias :  0.375 prestige : 0.000801282051282 >> out_deg : 22 >> in_deg : 22 
+
+weight ( new , national ) =  3.75e-05 
+
+weight ( new , norodom ) =  3.75e-05 
+
+weight ( new , session ) =  3.75e-05 
+
+weight ( new , need ) =  3.75e-05 
+
+weight ( new , assembly ) =  3.75e-05 
+
+weight ( new , get ) =  0.0357142857143 
+
+weight ( new , brief ) =  0.0416666666667 
+
+weight ( new , cambodia ) =  3.75e-05 
+
+weight ( new , week ) =  3.75e-05 
+
+weight ( new , parliament ) =  3.75e-05 
+
+weight ( new , return ) =  0.030303030303 
+
+weight ( new , government ) =  3.75e-05 
+
+weight ( new , forming ) =  3.75e-05 
+
+weight ( new , apportioning ) =  3.75e-05 
+
+weight ( new , discuss ) =  3.75e-05 
+
+weight ( new , last ) =  3.75e-05 
+
+weight ( new , ministry ) =  3.75e-05 
+
+weight ( new , ranariddh ) =  3.75e-05 
+
+weight ( new , coalition ) =  3.75e-05 
+
+weight ( new , meet ) =  0.047619047619 
+
+weight ( new , approve ) =  3.75e-05 
+
+weight ( new , first ) =  3.75e-05 
+
+staff bias :  0.0 prestige : 0.000801282051282 >> out_deg : 3 >> in_deg : 3 
+
+weight ( staff , military ) =  0.0 
+
+weight ( staff , cambodian ) =  0.0 
+
+weight ( staff , general ) =  0.0 
+
+cause bias :  0.0 prestige : 0.000801282051282 >> out_deg : 14 >> in_deg : 14 
+
+weight ( cause , force ) =  0.0285714285714 
+
+weight ( cause , give ) =  0.047619047619 
+
+weight ( cause , country ) =  0.0 
+
+weight ( cause , hun ) =  0.0 
+
+weight ( cause , overthrow ) =  0.0588235294118 
+
+weight ( cause , ranariddh ) =  0.0 
+
+weight ( cause , aim ) =  0.04 
+
+weight ( cause , benefit ) =  0.0 
+
+weight ( cause , kill ) =  0.0952380952381 
+
+weight ( cause , approve ) =  0.0714285714286 
+
+weight ( cause , instability ) =  0.0 
+
+weight ( cause , sen ) =  0.0 
+
+weight ( cause , open ) =  0.0555555555556 
+
+weight ( cause , guarantee ) =  0.0625 
+
+leader bias :  0.0 prestige : 0.000801282051282 >> out_deg : 21 >> in_deg : 21 
+
+weight ( leader , letter ) =  0.0555555555556 
+
+weight ( leader , especially ) =  0.0 
+
+weight ( leader , sam ) =  0.0 
+
+weight ( leader , reporter ) =  0.0526315789474 
+
+weight ( leader , hun ) =  0.0 
+
+weight ( leader , sole ) =  0.0666666666667 
+
+weight ( leader , chief ) =  0.0666666666667 
+
+weight ( leader , say ) =  0.0 
+
+weight ( leader , legal ) =  0.05 
+
+weight ( leader , arrest ) =  0.0 
+
+weight ( leader , charge ) =  0.0 
+
+weight ( leader , statement ) =  0.0 
+
+weight ( leader , cambodian ) =  0.0 
+
+weight ( leader , opposition ) =  0.0 
+
+weight ( leader , vocally ) =  0.0 
+
+weight ( leader , rainsy ) =  0.0 
+
+weight ( leader , sen ) =  0.0 
+
+weight ( leader , minister ) =  0.0625 
+
+weight ( leader , first ) =  0.0555555555556 
+
+weight ( leader , antihun ) =  0.0 
+
+weight ( leader , guarantee ) =  0.0 
+
+assurance bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( assurance , week ) =  0.0 
+
+weight ( assurance , especially ) =  0.0 
+
+weight ( assurance , sam ) =  0.0 
+
+weight ( assurance , aim ) =  0.0 
+
+weight ( assurance , come ) =  0.0 
+
+weight ( assurance , first ) =  0.0 
+
+full bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( full , easily ) =  0.0 
+
+weight ( full , make ) =  0.0 
+
+weight ( full , exploit ) =  0.0 
+
+weight ( full , roundabout ) =  0.0 
+
+weight ( full , statement ) =  0.0 
+
+weight ( full , year ) =  0.05 
+
+weight ( full , loophole ) =  0.0 
+
+assembly bias :  0.0 prestige : 0.000801282051282 >> out_deg : 16 >> in_deg : 16 
+
+weight ( assembly , parliament ) =  0.0 
+
+weight ( assembly , government ) =  0.0416666666667 
+
+weight ( assembly , national ) =  0.0 
+
+weight ( assembly , people ) =  0.04 
+
+weight ( assembly , charge ) =  0.0 
+
+weight ( assembly , general ) =  0.0416666666667 
+
+weight ( assembly , member ) =  0.0 
+
+weight ( assembly , arrest ) =  0.0 
+
+weight ( assembly , srp ) =  0.0 
+
+weight ( assembly , opposition ) =  0.0 
+
+weight ( assembly , president ) =  0.0 
+
+weight ( assembly , rainsy ) =  0.0 
+
+weight ( assembly , new ) =  0.0 
+
+weight ( assembly , prince ) =  0.0 
+
+weight ( assembly , sen ) =  0.0294117647059 
+
+weight ( assembly , meet ) =  0.0666666666667 
+
+extend bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( extend , politician ) =  0.0 
+
+weight ( extend , ranariddh ) =  0.0 
+
+weight ( extend , say ) =  0.0 
+
+weight ( extend , safety ) =  0.0 
+
+weight ( extend , apply ) =  0.0 
+
+weight ( extend , guarantee ) =  0.0 
+
+reporter bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( reporter , safe ) =  0.0 
+
+weight ( reporter , ranariddh ) =  0.0 
+
+weight ( reporter , wednesday ) =  0.0 
+
+weight ( reporter , tell ) =  0.0 
+
+weight ( reporter , chief ) =  0.0625 
+
+weight ( reporter , minister ) =  0.0588235294118 
+
+weight ( reporter , letter ) =  0.0526315789474 
+
+weight ( reporter , believe ) =  0.0 
+
+weight ( reporter , leader ) =  0.0526315789474 
+
+legitimacy bias :  0.125 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( legitimacy , majesty ) =  1.25e-05 
+
+weight ( legitimacy , get ) =  1.25e-05 
+
+weight ( legitimacy , legal ) =  0.0454545454545 
+
+weight ( legitimacy , premiership ) =  1.25e-05 
+
+weight ( legitimacy , election ) =  1.25e-05 
+
+weight ( legitimacy , minister ) =  0.0555555555556 
+
+weight ( legitimacy , loophole ) =  0.030303030303 
+
+weight ( legitimacy , recognition ) =  1.25e-05 
+
+weight ( legitimacy , he ) =  1.25e-05 
+
+sole bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( sole , prime ) =  0.0 
+
+weight ( sole , hun ) =  0.0 
+
+weight ( sole , leader ) =  0.0666666666667 
+
+weight ( sole , leave ) =  0.0 
+
+weight ( sole , minister ) =  0.0 
+
+weight ( sole , sen ) =  0.0 
+
+weight ( sole , make ) =  0.0 
+
+weight ( sole , first ) =  0.0666666666667 
+
+bangkok bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( bangkok , return ) =  0.0 
+
+weight ( bangkok , soon ) =  0.0 
+
+weight ( bangkok , cambodia ) =  0.0588235294118 
+
+weight ( bangkok , brief ) =  0.0 
+
+weight ( bangkok , say ) =  0.0 
+
+weight ( bangkok , force ) =  0.0227272727273 
+
+weight ( bangkok , stay ) =  0.0 
+
+weight ( bangkok , prince ) =  0.0 
+
+assures bias :  0.0 prestige : 0.000801282051282 >> out_deg : 4 >> in_deg : 4 
+
+weight ( assures , vote ) =  0.0 
+
+weight ( assures , twothirds ) =  0.0 
+
+weight ( assures , parliament ) =  0.0 
+
+weight ( assures , deal ) =  0.0 
+
+completely bias :  0.5 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( completely , control ) =  5e-05 
+
+weight ( completely , easily ) =  0.0740740740741 
+
+weight ( completely , especially ) =  0.0714285714286 
+
+weight ( completely , form ) =  0.027027027027 
+
+weight ( completely , system ) =  5e-05 
+
+weight ( completely , legal ) =  5e-05 
+
+weight ( completely , exploit ) =  5e-05 
+
+weight ( completely , first ) =  0.037037037037 
+
+opposition bias :  -0.75 prestige : 0.000801282051282 >> out_deg : 23 >> in_deg : 23 
+
+weight ( opposition , force ) =  -7.5e-05 
+
+weight ( opposition , resistance ) =  0.227272727273 
+
+weight ( opposition , say ) =  -7.5e-05 
+
+weight ( opposition , sen ) =  -7.5e-05 
+
+weight ( opposition , still ) =  0.0454545454545 
+
+weight ( opposition , previous ) =  0.0526315789474 
+
+weight ( opposition , plot ) =  0.0454545454545 
+
+weight ( opposition , suggest ) =  0.0526315789474 
+
+weight ( opposition , avoid ) =  0.0384615384615 
+
+weight ( opposition , arrest ) =  -7.5e-05 
+
+weight ( opposition , charge ) =  0.0554805555556 
+
+weight ( opposition , take ) =  -7.5e-05 
+
+weight ( opposition , statement ) =  -7.5e-05 
+
+weight ( opposition , party ) =  -7.5e-05 
+
+weight ( opposition , leader ) =  -7.5e-05 
+
+weight ( opposition , assembly ) =  -7.5e-05 
+
+weight ( opposition , form ) =  0.0333333333333 
+
+weight ( opposition , get ) =  0.05 
+
+weight ( opposition , vocally ) =  -7.5e-05 
+
+weight ( opposition , come ) =  0.0434782608696 
+
+weight ( opposition , antihun ) =  -7.5e-05 
+
+weight ( opposition , threat ) =  0.0555555555556 
+
+weight ( opposition , position ) =  0.0526315789474 
+
+put bias :  0.0 prestige : 0.000801282051282 >> out_deg : 21 >> in_deg : 21 
+
+weight ( put , back ) =  0.0625 
+
+weight ( put , instead ) =  0.0625 
+
+weight ( put , kill ) =  0.0555555555556 
+
+weight ( put , parliament ) =  0.0714285714286 
+
+weight ( put , tough ) =  0.0 
+
+weight ( put , give ) =  0.0555555555556 
+
+weight ( put , office ) =  0.0555555555556 
+
+weight ( put , get ) =  0.0588235294118 
+
+weight ( put , leave ) =  0.0769230769231 
+
+weight ( put , capital ) =  0.0 
+
+weight ( put , reach ) =  0.0666666666667 
+
+weight ( put , resistance ) =  0.0 
+
+weight ( put , outnumber ) =  0.0 
+
+weight ( put , stay ) =  0.0625 
+
+weight ( put , return ) =  0.0454545454545 
+
+weight ( put , safety ) =  0.0384615384615 
+
+weight ( put , unsuccessful ) =  0.0 
+
+weight ( put , force ) =  0.0 
+
+weight ( put , apply ) =  0.0384615384615 
+
+weight ( put , refuge ) =  0.0909090909091 
+
+weight ( put , he ) =  0.0232558139535 
+
+come bias :  0.0 prestige : 0.000801282051282 >> out_deg : 17 >> in_deg : 17 
+
+weight ( come , week ) =  0.0 
+
+weight ( come , plot ) =  0.0869565217391 
+
+weight ( come , threat ) =  0.105263157895 
+
+weight ( come , form ) =  0.0645161290323 
+
+weight ( come , get ) =  0.0952380952381 
+
+weight ( come , suggest ) =  0.1 
+
+weight ( come , ease ) =  0.0625 
+
+weight ( come , back ) =  0.1 
+
+weight ( come , resistance ) =  0.0869565217391 
+
+weight ( come , charge ) =  0.210526315789 
+
+weight ( come , session ) =  0.0 
+
+weight ( come , opposition ) =  0.0434782608696 
+
+weight ( come , position ) =  0.1 
+
+weight ( come , previous ) =  0.1 
+
+weight ( come , avoid ) =  0.037037037037 
+
+weight ( come , assurance ) =  0.0 
+
+weight ( come , first ) =  0.0 
+
+refuge bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( refuge , leave ) =  0.125 
+
+weight ( refuge , force ) =  0.0 
+
+weight ( refuge , office ) =  0.0769230769231 
+
+weight ( refuge , september ) =  0.0 
+
+weight ( refuge , stay ) =  0.0909090909091 
+
+weight ( refuge , return ) =  0.0588235294118 
+
+weight ( refuge , un ) =  0.0 
+
+weight ( refuge , take ) =  0.0 
+
+weight ( refuge , instead ) =  0.0909090909091 
+
+weight ( refuge , put ) =  0.0909090909091 
+
+weight ( refuge , party ) =  0.0 
+
+last bias :  0.0 prestige : 0.000801282051282 >> out_deg : 15 >> in_deg : 15 
+
+weight ( last , week ) =  0.0 
+
+weight ( last , coup ) =  0.0 
+
+weight ( last , door ) =  0.0 
+
+weight ( last , tough ) =  0.0 
+
+weight ( last , government ) =  0.0 
+
+weight ( last , forming ) =  0.0 
+
+weight ( last , hun ) =  0.0 
+
+weight ( last , overthrow ) =  0.0 
+
+weight ( last , ranariddh ) =  0.0 
+
+weight ( last , resistance ) =  0.0 
+
+weight ( last , unsuccessful ) =  0.0 
+
+weight ( last , sen ) =  0.0 
+
+weight ( last , year ) =  0.0 
+
+weight ( last , new ) =  0.0 
+
+weight ( last , open ) =  0.0 
+
+language bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( language , force ) =  0.027027027027 
+
+weight ( language , sam ) =  0.0 
+
+weight ( language , suggest ) =  0.0 
+
+weight ( language , capital ) =  0.0434782608696 
+
+weight ( language , exploit ) =  0.0526315789474 
+
+weight ( language , say ) =  0.0 
+
+weight ( language , contain ) =  0.0 
+
+weight ( language , indirect ) =  0.0 
+
+weight ( language , loophole ) =  0.0 
+
+ministry bias :  0.0 prestige : 0.000801282051282 >> out_deg : 12 >> in_deg : 12 
+
+weight ( ministry , plot ) =  0.0625 
+
+weight ( ministry , government ) =  0.0 
+
+weight ( ministry , people ) =  0.0588235294118 
+
+weight ( ministry , coalition ) =  0.0 
+
+weight ( ministry , prince ) =  0.0454545454545 
+
+weight ( ministry , apportioning ) =  0.0 
+
+weight ( ministry , member ) =  0.04 
+
+weight ( ministry , minister ) =  0.0833333333333 
+
+weight ( ministry , new ) =  0.0 
+
+weight ( ministry , sen ) =  0.0 
+
+weight ( ministry , loophole ) =  0.037037037037 
+
+weight ( ministry , discuss ) =  0.0 
+
+freedom bias :  0.0 prestige : 0.000801282051282 >> out_deg : 12 >> in_deg : 12 
+
+weight ( freedom , control ) =  0.0454545454545 
+
+weight ( freedom , apportioning ) =  0.0333333333333 
+
+weight ( freedom , politician ) =  0.0 
+
+weight ( freedom , ease ) =  0.0 
+
+weight ( freedom , safe ) =  0.04 
+
+weight ( freedom , political ) =  0.0 
+
+weight ( freedom , try ) =  0.0 
+
+weight ( freedom , safety ) =  0.0 
+
+weight ( freedom , party ) =  0.0434782608696 
+
+weight ( freedom , return ) =  0.0322580645161 
+
+weight ( freedom , still ) =  0.0714285714286 
+
+weight ( freedom , guarantee ) =  0.0 
+
+srp bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( srp , assembly ) =  0.0 
+
+weight ( srp , charge ) =  0.0 
+
+weight ( srp , member ) =  0.0 
+
+weight ( srp , say ) =  0.0 
+
+weight ( srp , easy ) =  0.0 
+
+weight ( srp , rainsy ) =  0.0 
+
+threat bias :  0.125 prestige : 0.000801282051282 >> out_deg : 19 >> in_deg : 19 
+
+weight ( threat , plot ) =  0.111111111111 
+
+weight ( threat , position ) =  0.0666666666667 
+
+weight ( threat , form ) =  0.0384615384615 
+
+weight ( threat , get ) =  0.0625 
+
+weight ( threat , suggest ) =  0.0666666666667 
+
+weight ( threat , hun ) =  1.25e-05 
+
+weight ( threat , safe ) =  0.0666666666667 
+
+weight ( threat , resistance ) =  0.0555555555556 
+
+weight ( threat , member ) =  1.25e-05 
+
+weight ( threat , arrest ) =  1.25e-05 
+
+weight ( threat , charge ) =  0.0714285714286 
+
+weight ( threat , opposition ) =  0.0555555555556 
+
+weight ( threat , sen ) =  1.25e-05 
+
+weight ( threat , party ) =  1.25e-05 
+
+weight ( threat , fear ) =  0.037037037037 
+
+weight ( threat , still ) =  1.25e-05 
+
+weight ( threat , come ) =  0.105263157895 
+
+weight ( threat , avoid ) =  0.0454545454545 
+
+weight ( threat , previous ) =  0.0666666666667 
+
+military bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( military , national ) =  0.0588235294118 
+
+weight ( military , cambodia ) =  0.05 
+
+weight ( military , general ) =  0.0 
+
+weight ( military , state ) =  0.0526315789474 
+
+weight ( military , cambodian ) =  0.0 
+
+weight ( military , secondranking ) =  0.0 
+
+weight ( military , staff ) =  0.0 
+
+bunchhays bias :  0.0 prestige : 0.000801282051282 >> out_deg : 4 >> in_deg : 4 
+
+weight ( bunchhays , force ) =  0.0 
+
+weight ( bunchhays , outnumber ) =  0.0 
+
+weight ( bunchhays , nhek ) =  0.0 
+
+weight ( bunchhays , capital ) =  0.0 
+
+approve bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( approve , parliament ) =  0.0 
+
+weight ( approve , government ) =  0.0 
+
+weight ( approve , need ) =  0.0 
+
+weight ( approve , vote ) =  0.0 
+
+weight ( approve , new ) =  0.0 
+
+weight ( approve , cause ) =  0.0714285714286 
+
+weight ( approve , guarantee ) =  0.125 
+
+think bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( think , dont ) =  0.0 
+
+weight ( think , get ) =  0.0 
+
+weight ( think , hun ) =  0.0 
+
+weight ( think , legal ) =  0.0588235294118 
+
+weight ( think , benefit ) =  0.0 
+
+weight ( think , sen ) =  0.0 
+
+first bias :  0.0 prestige : 0.000801282051282 >> out_deg : 15 >> in_deg : 15 
+
+weight ( first , week ) =  0.0 
+
+weight ( first , position ) =  0.0588235294118 
+
+weight ( first , especially ) =  0.0526315789474 
+
+weight ( first , september ) =  0.0625 
+
+weight ( first , sole ) =  0.0666666666667 
+
+weight ( first , benefit ) =  0.0666666666667 
+
+weight ( first , cambodia ) =  0.0 
+
+weight ( first , completely ) =  0.037037037037 
+
+weight ( first , session ) =  0.0 
+
+weight ( first , year ) =  0.0555555555556 
+
+weight ( first , new ) =  0.0 
+
+weight ( first , come ) =  0.0 
+
+weight ( first , leader ) =  0.0555555555556 
+
+weight ( first , assurance ) =  0.0 
+
+weight ( first , previous ) =  0.117647058824 
+
+tough bias :  -0.75 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( tough , last ) =  -7.5e-05 
+
+weight ( tough , capital ) =  -7.5e-05 
+
+weight ( tough , resistance ) =  -7.5e-05 
+
+weight ( tough , unsuccessful ) =  -7.5e-05 
+
+weight ( tough , put ) =  -7.5e-05 
+
+weight ( tough , force ) =  -7.5e-05 
+
+dont bias :  0.0 prestige : 0.000801282051282 >> out_deg : 3 >> in_deg : 3 
+
+weight ( dont , benefit ) =  0.0 
+
+weight ( dont , hun ) =  0.0 
+
+weight ( dont , think ) =  0.0 
+
+majesty bias :  0.0 prestige : 0.000801282051282 >> out_deg : 4 >> in_deg : 4 
+
+weight ( majesty , legitimacy ) =  0.0 
+
+weight ( majesty , king ) =  0.0 
+
+weight ( majesty , election ) =  0.0 
+
+weight ( majesty , recognition ) =  0.0 
+
+tuesday bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( tuesday , television ) =  0.0 
+
+weight ( tuesday , hun ) =  0.0 
+
+weight ( tuesday , say ) =  0.0 
+
+weight ( tuesday , wednesday ) =  0.25 
+
+weight ( tuesday , broadcast ) =  0.0 
+
+weight ( tuesday , state ) =  0.0 
+
+weight ( tuesday , sen ) =  0.0 
+
+exploit bias :  0.375 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( exploit , easily ) =  3.75e-05 
+
+weight ( exploit , full ) =  3.75e-05 
+
+weight ( exploit , language ) =  0.0526315789474 
+
+weight ( exploit , system ) =  3.75e-05 
+
+weight ( exploit , legal ) =  3.75e-05 
+
+weight ( exploit , completely ) =  3.75e-05 
+
+weight ( exploit , capital ) =  0.0625 
+
+weight ( exploit , vote ) =  0.047619047619 
+
+weight ( exploit , loophole ) =  3.75e-05 
+
+unsuccessful bias :  -0.5 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( unsuccessful , last ) =  -5e-05 
+
+weight ( unsuccessful , capital ) =  -5e-05 
+
+weight ( unsuccessful , resistance ) =  -5e-05 
+
+weight ( unsuccessful , year ) =  -5e-05 
+
+weight ( unsuccessful , put ) =  -5e-05 
+
+weight ( unsuccessful , tough ) =  -5e-05 
+
+vote bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( vote , twothirds ) =  0.0 
+
+weight ( vote , parliament ) =  0.0 
+
+weight ( vote , deal ) =  0.0 
+
+weight ( vote , exploit ) =  0.047619047619 
+
+weight ( vote , assures ) =  0.0 
+
+weight ( vote , say ) =  0.0555555555556 
+
+weight ( vote , election ) =  0.037037037037 
+
+weight ( vote , need ) =  0.0 
+
+weight ( vote , approve ) =  0.0 
+
+weight ( vote , tell ) =  0.0555555555556 
+
+weight ( vote , speak ) =  0.0555555555556 
+
+apply bias :  0.0 prestige : 0.000801282051282 >> out_deg : 14 >> in_deg : 14 
+
+weight ( apply , position ) =  0.0384615384615 
+
+weight ( apply , politician ) =  0.0 
+
+weight ( apply , deal ) =  0.04 
+
+weight ( apply , extend ) =  0.0 
+
+weight ( apply , serve ) =  0.0833333333333 
+
+weight ( apply , father ) =  0.05 
+
+weight ( apply , ranariddh ) =  0.0 
+
+weight ( apply , system ) =  0.0322580645161 
+
+weight ( apply , try ) =  0.0434782608696 
+
+weight ( apply , kill ) =  0.0357142857143 
+
+weight ( apply , suggest ) =  0.0384615384615 
+
+weight ( apply , put ) =  0.0384615384615 
+
+weight ( apply , safety ) =  0.0 
+
+weight ( apply , he ) =  0.0188679245283 
+
+open bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( open , week ) =  0.0 
+
+weight ( open , aim ) =  0.047619047619 
+
+weight ( open , force ) =  0.0322580645161 
+
+weight ( open , door ) =  0.0 
+
+weight ( open , government ) =  0.0 
+
+weight ( open , give ) =  0.0588235294118 
+
+weight ( open , return ) =  0.0 
+
+weight ( open , kill ) =  0.0588235294118 
+
+weight ( open , overthrow ) =  0.0769230769231 
+
+weight ( open , last ) =  0.0 
+
+weight ( open , cause ) =  0.0555555555556 
+
+speak bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( speak , return ) =  0.0 
+
+weight ( speak , brief ) =  0.0 
+
+weight ( speak , discuss ) =  0.0909090909091 
+
+weight ( speak , say ) =  0.166666666667 
+
+weight ( speak , vote ) =  0.0555555555556 
+
+weight ( speak , stay ) =  0.0 
+
+weight ( speak , tell ) =  0.166666666667 
+
+plot bias :  0.0 prestige : 0.000801282051282 >> out_deg : 19 >> in_deg : 19 
+
+weight ( plot , life ) =  0.0 
+
+weight ( plot , position ) =  0.105263157895 
+
+weight ( plot , accuse ) =  0.0 
+
+weight ( plot , form ) =  0.0666666666667 
+
+weight ( plot , ministry ) =  0.0625 
+
+weight ( plot , loophole ) =  0.030303030303 
+
+weight ( plot , hun ) =  0.0 
+
+weight ( plot , get ) =  0.1 
+
+weight ( plot , resistance ) =  0.0909090909091 
+
+weight ( plot , prince ) =  0.0357142857143 
+
+weight ( plot , member ) =  0.0322580645161 
+
+weight ( plot , threat ) =  0.111111111111 
+
+weight ( plot , charge ) =  0.111111111111 
+
+weight ( plot , opposition ) =  0.0454545454545 
+
+weight ( plot , suggest ) =  0.105263157895 
+
+weight ( plot , sen ) =  0.0 
+
+weight ( plot , come ) =  0.0869565217391 
+
+weight ( plot , avoid ) =  0.0384615384615 
+
+weight ( plot , previous ) =  0.105263157895 
+
+top bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( top , nhek ) =  0.0 
+
+weight ( top , bunchhay ) =  0.0 
+
+weight ( top , general ) =  0.0 
+
+weight ( top , also ) =  0.0 
+
+weight ( top , say ) =  0.0 
+
+weight ( top , election ) =  0.0526315789474 
+
+weight ( top , prince ) =  0.0 
+
+political bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( political , life ) =  0.0625 
+
+weight ( political , politician ) =  0.0 
+
+weight ( political , freedom ) =  0.0 
+
+weight ( political , try ) =  0.0 
+
+weight ( political , safety ) =  0.0 
+
+weight ( political , cambodian ) =  0.0454545454545 
+
+weight ( political , sen ) =  0.0 
+
+weight ( political , guarantee ) =  0.0 
+
+system bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( system , control ) =  0.0 
+
+weight ( system , easily ) =  0.0 
+
+weight ( system , completely ) =  0.0 
+
+weight ( system , legal ) =  0.0 
+
+weight ( system , exploit ) =  0.0 
+
+weight ( system , apply ) =  0.0322580645161 
+
+antihun bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( antihun , opposition ) =  0.0 
+
+weight ( antihun , party ) =  0.0 
+
+weight ( antihun , rainsy ) =  0.0 
+
+weight ( antihun , vocally ) =  0.0 
+
+weight ( antihun , leader ) =  0.0 
+
+weight ( antihun , sen ) =  0.0 
+
+statement bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( statement , easily ) =  0.0 
+
+weight ( statement , full ) =  0.0 
+
+weight ( statement , letter ) =  0.0740740740741 
+
+weight ( statement , make ) =  0.0 
+
+weight ( statement , say ) =  0.0 
+
+weight ( statement , roundabout ) =  0.0 
+
+weight ( statement , opposition ) =  0.0 
+
+weight ( statement , instead ) =  0.0 
+
+weight ( statement , loophole ) =  0.0 
+
+weight ( statement , leader ) =  0.0 
+
+tell bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( tell , reporter ) =  0.0 
+
+weight ( tell , ranariddh ) =  0.0 
+
+weight ( tell , wednesday ) =  0.0 
+
+weight ( tell , say ) =  0.333333333333 
+
+weight ( tell , vote ) =  0.0555555555556 
+
+weight ( tell , believe ) =  0.0 
+
+weight ( tell , speak ) =  0.166666666667 
+
+head bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( head , television ) =  0.0 
+
+weight ( head , people ) =  0.030303030303 
+
+weight ( head , country ) =  0.0322580645161 
+
+weight ( head , father ) =  0.0 
+
+weight ( head , cambodia ) =  0.0 
+
+weight ( head , broadcast ) =  0.0 
+
+weight ( head , state ) =  0.0 
+
+weight ( head , prince ) =  0.0 
+
+parliament bias :  0.0 prestige : 0.000801282051282 >> out_deg : 20 >> in_deg : 20 
+
+weight ( parliament , twothirds ) =  0.0 
+
+weight ( parliament , assembly ) =  0.0 
+
+weight ( parliament , sam ) =  0.0 
+
+weight ( parliament , vote ) =  0.0 
+
+weight ( parliament , national ) =  0.0 
+
+weight ( parliament , put ) =  0.0714285714286 
+
+weight ( parliament , coalition ) =  0.0555555555556 
+
+weight ( parliament , cambodia ) =  0.0 
+
+weight ( parliament , member ) =  0.0 
+
+weight ( parliament , assures ) =  0.0 
+
+weight ( parliament , need ) =  0.0 
+
+weight ( parliament , session ) =  0.0 
+
+weight ( parliament , safety ) =  0.0416666666667 
+
+weight ( parliament , new ) =  0.0 
+
+weight ( parliament , rainsy ) =  0.0 
+
+weight ( parliament , party ) =  0.0 
+
+weight ( parliament , hole ) =  0.0 
+
+weight ( parliament , approve ) =  0.0 
+
+weight ( parliament , overseas ) =  0.0 
+
+weight ( parliament , he ) =  0.0243902439024 
+
+door bias :  0.0 prestige : 0.000801282051282 >> out_deg : 4 >> in_deg : 4 
+
+weight ( door , week ) =  0.0 
+
+weight ( door , open ) =  0.0 
+
+weight ( door , last ) =  0.0 
+
+weight ( door , return ) =  0.0 
+
+form bias :  0.0 prestige : 0.000801282051282 >> out_deg : 19 >> in_deg : 19 
+
+weight ( form , leave ) =  0.0 
+
+weight ( form , position ) =  0.037037037037 
+
+weight ( form , threat ) =  0.0384615384615 
+
+weight ( form , avoid ) =  0.0294117647059 
+
+weight ( form , suggest ) =  0.037037037037 
+
+weight ( form , hun ) =  0.0 
+
+weight ( form , get ) =  0.0357142857143 
+
+weight ( form , resistance ) =  0.0333333333333 
+
+weight ( form , coalition ) =  0.0 
+
+weight ( form , plot ) =  0.0666666666667 
+
+weight ( form , funcinpec ) =  0.0 
+
+weight ( form , charge ) =  0.0384615384615 
+
+weight ( form , opposition ) =  0.0333333333333 
+
+weight ( form , easily ) =  0.0357142857143 
+
+weight ( form , completely ) =  0.027027027027 
+
+weight ( form , party ) =  0.0 
+
+weight ( form , come ) =  0.0645161290323 
+
+weight ( form , agree ) =  0.0 
+
+weight ( form , previous ) =  0.037037037037 
+
+forming bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( forming , last ) =  0.0 
+
+weight ( forming , government ) =  0.0 
+
+weight ( forming , norodom ) =  0.0 
+
+weight ( forming , ranariddh ) =  0.0 
+
+weight ( forming , new ) =  0.0 
+
+weight ( forming , prince ) =  0.0 
+
+hun bias :  0.0 prestige : 0.000801282051282 >> out_deg : 48 >> in_deg : 48 
+
+weight ( hun , dont ) =  0.0 
+
+weight ( hun , deal ) =  0.0 
+
+weight ( hun , people ) =  0.0 
+
+weight ( hun , september ) =  0.0 
+
+weight ( hun , tuesday ) =  0.0 
+
+weight ( hun , soon ) =  0.0 
+
+weight ( hun , say ) =  0.0 
+
+weight ( hun , cambodian ) =  0.0 
+
+weight ( hun , sen ) =  0.0 
+
+weight ( hun , still ) =  0.0 
+
+weight ( hun , prince ) =  0.0333333333333 
+
+weight ( hun , guarantee ) =  0.0 
+
+weight ( hun , plot ) =  0.0 
+
+weight ( hun , everything ) =  0.0 
+
+weight ( hun , avoid ) =  0.0 
+
+weight ( hun , benefit ) =  0.0 
+
+weight ( hun , arrest ) =  0.0 
+
+weight ( hun , safety ) =  0.0 
+
+weight ( hun , overthrow ) =  0.0 
+
+weight ( hun , party ) =  0.0 
+
+weight ( hun , cause ) =  0.0 
+
+weight ( hun , leader ) =  0.0 
+
+weight ( hun , week ) =  0.0 
+
+weight ( hun , form ) =  0.0 
+
+weight ( hun , get ) =  0.0 
+
+weight ( hun , serve ) =  0.0 
+
+weight ( hun , sole ) =  0.0 
+
+weight ( hun , reach ) =  0.0 
+
+weight ( hun , broadcast ) =  0.0 
+
+weight ( hun , coprime ) =  0.0 
+
+weight ( hun , minister ) =  0.0 
+
+weight ( hun , accuse ) =  0.0 
+
+weight ( hun , instability ) =  0.0 
+
+weight ( hun , discuss ) =  0.0 
+
+weight ( hun , prime ) =  0.0 
+
+weight ( hun , apportioning ) =  0.0 
+
+weight ( hun , television ) =  0.0 
+
+weight ( hun , last ) =  0.0 
+
+weight ( hun , rival ) =  0.0 
+
+weight ( hun , ranariddh ) =  0.0 
+
+weight ( hun , coalition ) =  0.04 
+
+weight ( hun , rule ) =  0.0 
+
+weight ( hun , leave ) =  0.0 
+
+weight ( hun , chief ) =  0.0 
+
+weight ( hun , threat ) =  0.0 
+
+weight ( hun , country ) =  0.0434782608696 
+
+weight ( hun , meet ) =  0.0 
+
+weight ( hun , think ) =  0.0 
+
+sihanouk bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( sihanouk , king ) =  0.0 
+
+weight ( sihanouk , norodom ) =  0.0 
+
+weight ( sihanouk , father ) =  0.0 
+
+weight ( sihanouk , cambodia ) =  0.0 
+
+weight ( sihanouk , letter ) =  0.0 
+
+weight ( sihanouk , prince ) =  0.0 
+
+broadcast bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( broadcast , head ) =  0.0 
+
+weight ( broadcast , tuesday ) =  0.0 
+
+weight ( broadcast , television ) =  0.0 
+
+weight ( broadcast , cambodia ) =  0.0 
+
+weight ( broadcast , state ) =  0.0 
+
+weight ( broadcast , hun ) =  0.0 
+
+minister bias :  0.0 prestige : 0.000801282051282 >> out_deg : 17 >> in_deg : 17 
+
+weight ( minister , prime ) =  0.0 
+
+weight ( minister , men ) =  0.0 
+
+weight ( minister , reporter ) =  0.0588235294118 
+
+weight ( minister , legitimacy ) =  0.0555555555556 
+
+weight ( minister , overthrow ) =  0.0 
+
+weight ( minister , make ) =  0.0 
+
+weight ( minister , sole ) =  0.0 
+
+weight ( minister , serve ) =  0.0 
+
+weight ( minister , hun ) =  0.0 
+
+weight ( minister , leader ) =  0.0625 
+
+weight ( minister , chief ) =  0.0769230769231 
+
+weight ( minister , coprime ) =  0.0 
+
+weight ( minister , letter ) =  0.0625 
+
+weight ( minister , president ) =  0.0 
+
+weight ( minister , sen ) =  0.0 
+
+weight ( minister , prince ) =  0.0 
+
+weight ( minister , ministry ) =  0.0833333333333 
+
+hole bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( hole , member ) =  0.0 
+
+weight ( hole , party ) =  0.0 
+
+weight ( hole , overseas ) =  0.0 
+
+weight ( hole , parliament ) =  0.0 
+
+weight ( hole , month ) =  0.0 
+
+believe bias :  0.125 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( believe , force ) =  0.0322580645161 
+
+weight ( believe , sam ) =  1.25e-05 
+
+weight ( believe , reporter ) =  1.25e-05 
+
+weight ( believe , safe ) =  1.25e-05 
+
+weight ( believe , wednesday ) =  1.25e-05 
+
+weight ( believe , arrest ) =  0.1 
+
+weight ( believe , rainsy ) =  1.25e-05 
+
+weight ( believe , tell ) =  1.25e-05 
+
+he bias :  0.0 prestige : 0.000801282051282 >> out_deg : 13 >> in_deg : 13 
+
+weight ( he , parliament ) =  0.0243902439024 
+
+weight ( he , return ) =  0.0204081632653 
+
+weight ( he , get ) =  0.0 
+
+weight ( he , legitimacy ) =  0.0 
+
+weight ( he , month ) =  0.0227272727273 
+
+weight ( he , member ) =  0.0181818181818 
+
+weight ( he , premiership ) =  0.0 
+
+weight ( he , state ) =  0.0208333333333 
+
+weight ( he , safety ) =  0.0188679245283 
+
+weight ( he , apply ) =  0.0188679245283 
+
+weight ( he , put ) =  0.0232558139535 
+
+weight ( he , sen ) =  0.0178571428571 
+
+weight ( he , loophole ) =  0.0175438596491 
+
+king bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( king , majesty ) =  0.0 
+
+weight ( king , norodom ) =  0.0 
+
+weight ( king , sihanouk ) =  0.0 
+
+weight ( king , election ) =  0.0 
+
+weight ( king , letter ) =  0.0 
+
+weight ( king , prince ) =  0.0 
+
+weight ( king , recognition ) =  0.0 
+
+television bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( television , aim ) =  0.0454545454545 
+
+weight ( television , head ) =  0.0 
+
+weight ( television , tuesday ) =  0.0 
+
+weight ( television , broadcast ) =  0.0 
+
+weight ( television , state ) =  0.0 
+
+weight ( television , sen ) =  0.0 
+
+weight ( television , hun ) =  0.0 
+
+politician bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( politician , extend ) =  0.0 
+
+weight ( politician , freedom ) =  0.0 
+
+weight ( politician , ease ) =  0.0 
+
+weight ( politician , political ) =  0.0 
+
+weight ( politician , try ) =  0.0 
+
+weight ( politician , ranariddh ) =  0.0 
+
+weight ( politician , safety ) =  0.0 
+
+weight ( politician , apply ) =  0.0 
+
+weight ( politician , fear ) =  0.0 
+
+rival bias :  0.0 prestige : 0.000801282051282 >> out_deg : 12 >> in_deg : 12 
+
+weight ( rival , return ) =  0.0 
+
+weight ( rival , ease ) =  0.0 
+
+weight ( rival , norodom ) =  0.0 
+
+weight ( rival , ranariddh ) =  0.0 
+
+weight ( rival , prince ) =  0.0 
+
+weight ( rival , try ) =  0.0 
+
+weight ( rival , arrest ) =  0.0 
+
+weight ( rival , chief ) =  0.0 
+
+weight ( rival , kill ) =  0.0 
+
+weight ( rival , sen ) =  0.0 
+
+weight ( rival , fear ) =  0.0 
+
+weight ( rival , hun ) =  0.0 
+
+coalition bias :  0.0 prestige : 0.000801282051282 >> out_deg : 16 >> in_deg : 16 
+
+weight ( coalition , leave ) =  0.0 
+
+weight ( coalition , parliament ) =  0.0555555555556 
+
+weight ( coalition , form ) =  0.0 
+
+weight ( coalition , government ) =  0.0 
+
+weight ( coalition , country ) =  0.0454545454545 
+
+weight ( coalition , hun ) =  0.0 
+
+weight ( coalition , ministry ) =  0.0 
+
+weight ( coalition , apportioning ) =  0.0 
+
+weight ( coalition , un ) =  0.0384615384615 
+
+weight ( coalition , cambodian ) =  0.04 
+
+weight ( coalition , letter ) =  0.047619047619 
+
+weight ( coalition , party ) =  0.0 
+
+weight ( coalition , sen ) =  0.0 
+
+weight ( coalition , new ) =  0.0 
+
+weight ( coalition , agree ) =  0.0 
+
+weight ( coalition , member ) =  0.03125 
+
+aim bias :  0.0 prestige : 0.000801282051282 >> out_deg : 13 >> in_deg : 13 
+
+weight ( aim , television ) =  0.0454545454545 
+
+weight ( aim , return ) =  0.0357142857143 
+
+weight ( aim , especially ) =  0.0 
+
+weight ( aim , sam ) =  0.0 
+
+weight ( aim , give ) =  0.0416666666667 
+
+weight ( aim , cause ) =  0.04 
+
+weight ( aim , leave ) =  0.0526315789474 
+
+weight ( aim , kill ) =  0.0416666666667 
+
+weight ( aim , overthrow ) =  0.05 
+
+weight ( aim , rainsy ) =  0.0 
+
+weight ( aim , force ) =  0.0263157894737 
+
+weight ( aim , open ) =  0.047619047619 
+
+weight ( aim , assurance ) =  0.0 
+
+un bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( un , force ) =  0.0 
+
+weight ( un , office ) =  0.0 
+
+weight ( un , government ) =  0.04 
+
+weight ( un , september ) =  0.0 
+
+weight ( un , avoid ) =  0.0 
+
+weight ( un , coalition ) =  0.0384615384615 
+
+weight ( un , member ) =  0.0294117647059 
+
+weight ( un , take ) =  0.0 
+
+weight ( un , letter ) =  0.0434782608696 
+
+weight ( un , party ) =  0.05 
+
+weight ( un , refuge ) =  0.0 
+
+country bias :  0.0 prestige : 0.000801282051282 >> out_deg : 13 >> in_deg : 13 
+
+weight ( country , coup ) =  0.047619047619 
+
+weight ( country , head ) =  0.0322580645161 
+
+weight ( country , return ) =  0.0 
+
+weight ( country , hun ) =  0.0434782608696 
+
+weight ( country , ranariddh ) =  0.0 
+
+weight ( country , coalition ) =  0.0454545454545 
+
+weight ( country , arrest ) =  0.0 
+
+weight ( country , say ) =  0.0 
+
+weight ( country , kill ) =  0.0 
+
+weight ( country , cambodian ) =  0.0434782608696 
+
+weight ( country , sen ) =  0.0 
+
+weight ( country , instability ) =  0.0 
+
+weight ( country , cause ) =  0.0 
+
+meet bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( meet , return ) =  0.0625 
+
+weight ( meet , get ) =  0.0909090909091 
+
+weight ( meet , hun ) =  0.0 
+
+weight ( meet , soon ) =  0.0 
+
+weight ( meet , discuss ) =  0.0 
+
+weight ( meet , say ) =  0.0 
+
+weight ( meet , assembly ) =  0.0666666666667 
+
+weight ( meet , new ) =  0.047619047619 
+
+weight ( meet , sen ) =  0.0 
+
+weight ( meet , prince ) =  0.0 
+
+agree bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( agree , leave ) =  0.0 
+
+weight ( agree , form ) =  0.0 
+
+weight ( agree , coalition ) =  0.0 
+
+weight ( agree , funcinpec ) =  0.0 
+
+weight ( agree , ranariddhs ) =  0.0 
+
+weight ( agree , party ) =  0.0 
+
+control bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( control , freedom ) =  0.0454545454545 
+
+weight ( control , completely ) =  0.0 
+
+weight ( control , system ) =  0.0 
+
+weight ( control , legal ) =  0.0 
+
+weight ( control , party ) =  0.0909090909091 
+
+sam bias :  0.0 prestige : 0.000801282051282 >> out_deg : 17 >> in_deg : 17 
+
+weight ( sam , member ) =  0.0 
+
+weight ( sam , parliament ) =  0.0 
+
+weight ( sam , especially ) =  0.0 
+
+weight ( sam , language ) =  0.0 
+
+weight ( sam , suggest ) =  0.0 
+
+weight ( sam , safe ) =  0.0 
+
+weight ( sam , wednesday ) =  0.0 
+
+weight ( sam , cambodia ) =  0.0 
+
+weight ( sam , aim ) =  0.0 
+
+weight ( sam , say ) =  0.0 
+
+weight ( sam , party ) =  0.0 
+
+weight ( sam , rainsy ) =  0.0 
+
+weight ( sam , vocally ) =  0.0 
+
+weight ( sam , believe ) =  0.0 
+
+weight ( sam , loophole ) =  0.0 
+
+weight ( sam , leader ) =  0.0 
+
+weight ( sam , assurance ) =  0.0 
+
+give bias :  -0.125 prestige : 0.000801282051282 >> out_deg : 15 >> in_deg : 15 
+
+weight ( give , force ) =  0.0588235294118 
+
+weight ( give , nhek ) =  -1.25e-05 
+
+weight ( give , get ) =  0.0526315789474 
+
+weight ( give , bunchhay ) =  -1.25e-05 
+
+weight ( give , cause ) =  0.047619047619 
+
+weight ( give , reach ) =  0.0588235294118 
+
+weight ( give , back ) =  -1.25e-05 
+
+weight ( give , general ) =  -1.25e-05 
+
+weight ( give , aim ) =  0.0416666666667 
+
+weight ( give , kill ) =  0.05 
+
+weight ( give , overthrow ) =  0.0625 
+
+weight ( give , put ) =  0.0555555555556 
+
+weight ( give , position ) =  -1.25e-05 
+
+weight ( give , open ) =  0.0588235294118 
+
+weight ( give , previous ) =  -1.25e-05 
+
+bunchhay bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( bunchhay , nhek ) =  0.0 
+
+weight ( bunchhay , give ) =  0.0 
+
+weight ( bunchhay , top ) =  0.0 
+
+weight ( bunchhay , back ) =  0.0 
+
+weight ( bunchhay , general ) =  0.0 
+
+weight ( bunchhay , previous ) =  0.0 
+
+norodom bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( norodom , king ) =  0.0 
+
+weight ( norodom , rival ) =  0.0 
+
+weight ( norodom , ranariddh ) =  0.0 
+
+weight ( norodom , father ) =  0.0 
+
+weight ( norodom , chief ) =  0.0 
+
+weight ( norodom , letter ) =  0.0 
+
+weight ( norodom , forming ) =  0.0 
+
+weight ( norodom , sihanouk ) =  0.0 
+
+weight ( norodom , new ) =  0.0 
+
+weight ( norodom , prince ) =  0.0 
+
+life bias :  0.0 prestige : 0.000801282051282 >> out_deg : 8 >> in_deg : 8 
+
+weight ( life , plot ) =  0.0 
+
+weight ( life , political ) =  0.0625 
+
+weight ( life , stay ) =  0.0666666666667 
+
+weight ( life , safety ) =  0.04 
+
+weight ( life , cambodian ) =  0.05 
+
+weight ( life , accuse ) =  0.0 
+
+weight ( life , sen ) =  0.0 
+
+weight ( life , recognition ) =  0.0625 
+
+general bias :  0.0 prestige : 0.000801282051282 >> out_deg : 16 >> in_deg : 16 
+
+weight ( general , staff ) =  0.0 
+
+weight ( general , assembly ) =  0.0416666666667 
+
+weight ( general , nhek ) =  0.0 
+
+weight ( general , give ) =  0.0 
+
+weight ( general , bunchhay ) =  0.0 
+
+weight ( general , top ) =  0.0 
+
+weight ( general , people ) =  0.0434782608696 
+
+weight ( general , general ) =  0.0 
+
+weight ( general , member ) =  0.0645161290323 
+
+weight ( general , also ) =  0.0 
+
+weight ( general , say ) =  0.0 
+
+weight ( general , cambodian ) =  0.0 
+
+weight ( general , secondranking ) =  0.0 
+
+weight ( general , position ) =  0.0 
+
+weight ( general , military ) =  0.0 
+
+weight ( general , previous ) =  0.0 
+
+say bias :  0.0 prestige : 0.000801282051282 >> out_deg : 35 >> in_deg : 35 
+
+weight ( say , unsatisfied ) =  0.0 
+
+weight ( say , sam ) =  0.0 
+
+weight ( say , tuesday ) =  0.0 
+
+weight ( say , soon ) =  0.0 
+
+weight ( say , general ) =  0.0 
+
+weight ( say , vote ) =  0.0555555555556 
+
+weight ( say , sen ) =  0.0 
+
+weight ( say , indirect ) =  0.0 
+
+weight ( say , prince ) =  0.0 
+
+weight ( say , guarantee ) =  0.0 
+
+weight ( say , nhek ) =  0.0 
+
+weight ( say , also ) =  0.0 
+
+weight ( say , top ) =  0.0 
+
+weight ( say , member ) =  0.0 
+
+weight ( say , arrest ) =  0.0 
+
+weight ( say , safety ) =  0.0 
+
+weight ( say , statement ) =  0.0 
+
+weight ( say , rainsy ) =  0.0 
+
+weight ( say , speak ) =  0.166666666667 
+
+weight ( say , leader ) =  0.0 
+
+weight ( say , easy ) =  0.0 
+
+weight ( say , extend ) =  0.0 
+
+weight ( say , hun ) =  0.0 
+
+weight ( say , stay ) =  0.0 
+
+weight ( say , bangkok ) =  0.0 
+
+weight ( say , opposition ) =  0.0 
+
+weight ( say , instability ) =  0.0 
+
+weight ( say , language ) =  0.0 
+
+weight ( say , country ) =  0.0 
+
+weight ( say , ranariddh ) =  0.0 
+
+weight ( say , wednesday ) =  0.0 
+
+weight ( say , tell ) =  0.333333333333 
+
+weight ( say , srp ) =  0.0 
+
+weight ( say , contain ) =  0.0 
+
+weight ( say , meet ) =  0.0 
+
+need bias :  0.25 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( need , twothirds ) =  2.5e-05 
+
+weight ( need , parliament ) =  2.5e-05 
+
+weight ( need , government ) =  2.5e-05 
+
+weight ( need , vote ) =  2.5e-05 
+
+weight ( need , new ) =  2.5e-05 
+
+weight ( need , approve ) =  2.5e-05 
+
+guarantee bias :  0.0 prestige : 0.000801282051282 >> out_deg : 13 >> in_deg : 13 
+
+weight ( guarantee , unsatisfied ) =  0.0 
+
+weight ( guarantee , cause ) =  0.0625 
+
+weight ( guarantee , extend ) =  0.0 
+
+weight ( guarantee , freedom ) =  0.0 
+
+weight ( guarantee , hun ) =  0.0 
+
+weight ( guarantee , political ) =  0.0 
+
+weight ( guarantee , wednesday ) =  0.0 
+
+weight ( guarantee , ranariddh ) =  0.0 
+
+weight ( guarantee , say ) =  0.0 
+
+weight ( guarantee , safety ) =  0.0 
+
+weight ( guarantee , sen ) =  0.0 
+
+weight ( guarantee , approve ) =  0.125 
+
+weight ( guarantee , leader ) =  0.0 
+
+nhek bias :  0.0 prestige : 0.000801282051282 >> out_deg : 9 >> in_deg : 9 
+
+weight ( nhek , force ) =  0.0 
+
+weight ( nhek , give ) =  0.0 
+
+weight ( nhek , bunchhay ) =  0.0 
+
+weight ( nhek , top ) =  0.0 
+
+weight ( nhek , back ) =  0.0 
+
+weight ( nhek , outnumber ) =  0.0 
+
+weight ( nhek , general ) =  0.0 
+
+weight ( nhek , say ) =  0.0 
+
+weight ( nhek , bunchhays ) =  0.0 
+
+suggest bias :  0.0 prestige : 0.000801282051282 >> out_deg : 21 >> in_deg : 21 
+
+weight ( suggest , plot ) =  0.105263157895 
+
+weight ( suggest , position ) =  0.0625 
+
+weight ( suggest , language ) =  0.0 
+
+weight ( suggest , sam ) =  0.0 
+
+weight ( suggest , get ) =  0.0588235294118 
+
+weight ( suggest , apportioning ) =  0.047619047619 
+
+weight ( suggest , come ) =  0.1 
+
+weight ( suggest , avoid ) =  0.0434782608696 
+
+weight ( suggest , father ) =  0.1 
+
+weight ( suggest , resistance ) =  0.0526315789474 
+
+weight ( suggest , try ) =  0.0769230769231 
+
+weight ( suggest , threat ) =  0.0666666666667 
+
+weight ( suggest , charge ) =  0.0666666666667 
+
+weight ( suggest , form ) =  0.037037037037 
+
+weight ( suggest , opposition ) =  0.0526315789474 
+
+weight ( suggest , apply ) =  0.0384615384615 
+
+weight ( suggest , rainsy ) =  0.0 
+
+weight ( suggest , party ) =  0.0 
+
+weight ( suggest , indirect ) =  0.0 
+
+weight ( suggest , loophole ) =  0.0 
+
+weight ( suggest , previous ) =  0.0625 
+
+make bias :  0.0 prestige : 0.000801282051282 >> out_deg : 10 >> in_deg : 10 
+
+weight ( make , prime ) =  0.0 
+
+weight ( make , full ) =  0.0 
+
+weight ( make , national ) =  0.0 
+
+weight ( make , sole ) =  0.0 
+
+weight ( make , roundabout ) =  0.0 
+
+weight ( make , statement ) =  0.0 
+
+weight ( make , president ) =  0.0 
+
+weight ( make , instead ) =  0.0 
+
+weight ( make , prince ) =  0.0 
+
+weight ( make , minister ) =  0.0 
+
+get bias :  0.125 prestige : 0.000801282051282 >> out_deg : 25 >> in_deg : 25 
+
+weight ( get , give ) =  0.0526315789474 
+
+weight ( get , resistance ) =  0.05 
+
+weight ( get , election ) =  1.25e-05 
+
+weight ( get , sen ) =  1.25e-05 
+
+weight ( get , previous ) =  0.0588235294118 
+
+weight ( get , plot ) =  0.1 
+
+weight ( get , suggest ) =  0.0588235294118 
+
+weight ( get , avoid ) =  0.0416666666667 
+
+weight ( get , everything ) =  1.25e-05 
+
+weight ( get , charge ) =  0.0625 
+
+weight ( get , new ) =  0.0357142857143 
+
+weight ( get , return ) =  0.0434782608696 
+
+weight ( get , form ) =  0.0357142857143 
+
+weight ( get , legitimacy ) =  1.25e-05 
+
+weight ( get , hun ) =  1.25e-05 
+
+weight ( get , reach ) =  0.0625 
+
+weight ( get , opposition ) =  0.05 
+
+weight ( get , position ) =  0.0588235294118 
+
+weight ( get , put ) =  0.0588235294118 
+
+weight ( get , come ) =  0.0952380952381 
+
+weight ( get , he ) =  1.25e-05 
+
+weight ( get , premiership ) =  1.25e-05 
+
+weight ( get , threat ) =  0.0625 
+
+weight ( get , meet ) =  0.0909090909091 
+
+weight ( get , think ) =  1.25e-05 
+
+cambodia bias :  0.0 prestige : 0.000801282051282 >> out_deg : 17 >> in_deg : 17 
+
+weight ( cambodia , week ) =  0.0 
+
+weight ( cambodia , bangkok ) =  0.0588235294118 
+
+weight ( cambodia , head ) =  0.0285714285714 
+
+weight ( cambodia , parliament ) =  0.0 
+
+weight ( cambodia , sam ) =  0.0 
+
+weight ( cambodia , sihanouk ) =  0.0 
+
+weight ( cambodia , national ) =  0.04 
+
+weight ( cambodia , safe ) =  0.0 
+
+weight ( cambodia , father ) =  0.0 
+
+weight ( cambodia , broadcast ) =  0.0 
+
+weight ( cambodia , state ) =  0.037037037037 
+
+weight ( cambodia , session ) =  0.0 
+
+weight ( cambodia , military ) =  0.05 
+
+weight ( cambodia , rainsy ) =  0.0 
+
+weight ( cambodia , new ) =  0.0 
+
+weight ( cambodia , prince ) =  0.0 
+
+weight ( cambodia , first ) =  0.0 
+
+member bias :  0.0 prestige : 0.000801282051282 >> out_deg : 28 >> in_deg : 28 
+
+weight ( member , sam ) =  0.0 
+
+weight ( member , people ) =  0.0625 
+
+weight ( member , month ) =  0.0344827586207 
+
+weight ( member , say ) =  0.0 
+
+weight ( member , sen ) =  0.0243902439024 
+
+weight ( member , return ) =  0.0294117647059 
+
+weight ( member , indirect ) =  0.037037037037 
+
+weight ( member , still ) =  0.0 
+
+weight ( member , prince ) =  0.027027027027 
+
+weight ( member , plot ) =  0.0322580645161 
+
+weight ( member , charge ) =  0.0 
+
+weight ( member , arrest ) =  0.0 
+
+weight ( member , state ) =  0.030303030303 
+
+weight ( member , rainsy ) =  0.0 
+
+weight ( member , party ) =  0.0 
+
+weight ( member , loophole ) =  0.047619047619 
+
+weight ( member , parliament ) =  0.0 
+
+weight ( member , assembly ) =  0.0606060606061 
+
+weight ( member , government ) =  0.0322580645161 
+
+weight ( member , letter ) =  0.0344827586207 
+
+weight ( member , hole ) =  0.0 
+
+weight ( member , general ) =  0.0645161290323 
+
+weight ( member , he ) =  0.0181818181818 
+
+weight ( member , ministry ) =  0.04 
+
+weight ( member , coalition ) =  0.03125 
+
+weight ( member , srp ) =  0.0 
+
+weight ( member , un ) =  0.0294117647059 
+
+weight ( member , threat ) =  0.0 
+
+also bias :  0.0 prestige : 0.000801282051282 >> out_deg : 4 >> in_deg : 4 
+
+weight ( also , say ) =  0.0 
+
+weight ( also , top ) =  0.0 
+
+weight ( also , prince ) =  0.0 
+
+weight ( also , general ) =  0.0 
+
+take bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( take , force ) =  0.0 
+
+weight ( take , office ) =  0.0 
+
+weight ( take , un ) =  0.0 
+
+weight ( take , opposition ) =  0.0 
+
+weight ( take , party ) =  0.0 
+
+weight ( take , refuge ) =  0.0 
+
+secondranking bias :  0.0 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( secondranking , back ) =  0.0 
+
+weight ( secondranking , general ) =  0.0 
+
+weight ( secondranking , cambodian ) =  0.0 
+
+weight ( secondranking , position ) =  0.0 
+
+weight ( secondranking , military ) =  0.0 
+
+weight ( secondranking , previous ) =  0.0 
+
+party bias :  0.0 prestige : 0.000801282051282 >> out_deg : 32 >> in_deg : 32 
+
+weight ( party , control ) =  0.0909090909091 
+
+weight ( party , force ) =  0.0 
+
+weight ( party , letter ) =  0.0666666666667 
+
+weight ( party , sam ) =  0.0 
+
+weight ( party , people ) =  0.0 
+
+weight ( party , month ) =  0.0 
+
+weight ( party , cambodian ) =  0.0 
+
+weight ( party , ranariddhs ) =  0.0 
+
+weight ( party , sen ) =  0.0 
+
+weight ( party , still ) =  0.0 
+
+weight ( party , member ) =  0.0384615384615 
+
+weight ( party , suggest ) =  0.0 
+
+weight ( party , funcinpec ) =  0.0 
+
+weight ( party , refuge ) =  0.0 
+
+weight ( party , rainsy ) =  0.0 
+
+weight ( party , party ) =  0.0 
+
+weight ( party , take ) =  0.0 
+
+weight ( party , parliament ) =  0.0 
+
+weight ( party , form ) =  0.0 
+
+weight ( party , government ) =  0.117647058824 
+
+weight ( party , hun ) =  0.0 
+
+weight ( party , opposition ) =  0.0 
+
+weight ( party , hole ) =  0.0 
+
+weight ( party , antihun ) =  0.0 
+
+weight ( party , freedom ) =  0.0434782608696 
+
+weight ( party , coalition ) =  0.0555555555556 
+
+weight ( party , rule ) =  0.0 
+
+weight ( party , un ) =  0.05 
+
+weight ( party , threat ) =  0.0 
+
+weight ( party , overseas ) =  0.0 
+
+weight ( party , agree ) =  0.0 
+
+weight ( party , election ) =  0.0555555555556 
+
+week bias :  0.0 prestige : 0.000801282051282 >> out_deg : 15 >> in_deg : 15 
+
+weight ( week , door ) =  0.0 
+
+weight ( week , last ) =  0.0 
+
+weight ( week , government ) =  0.0 
+
+weight ( week , come ) =  0.0 
+
+weight ( week , hun ) =  0.0 
+
+weight ( week , year ) =  0.133333333333 
+
+weight ( week , cambodia ) =  0.0 
+
+weight ( week , return ) =  0.0 
+
+weight ( week , session ) =  0.0 
+
+weight ( week , cambodian ) =  0.0 
+
+weight ( week , sen ) =  0.0 
+
+weight ( week , new ) =  0.0 
+
+weight ( week , open ) =  0.0 
+
+weight ( week , assurance ) =  0.0 
+
+weight ( week , first ) =  0.0 
+
+serve bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( serve , apply ) =  0.0833333333333 
+
+weight ( serve , hun ) =  0.0 
+
+weight ( serve , men ) =  0.0 
+
+weight ( serve , coprime ) =  0.0 
+
+weight ( serve , minister ) =  0.0 
+
+reach bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( reach , deal ) =  0.0 
+
+weight ( reach , give ) =  0.0588235294118 
+
+weight ( reach , hun ) =  0.0 
+
+weight ( reach , get ) =  0.0625 
+
+weight ( reach , chief ) =  0.0 
+
+weight ( reach , put ) =  0.0666666666667 
+
+weight ( reach , sen ) =  0.0 
+
+stay bias :  0.0 prestige : 0.000801282051282 >> out_deg : 14 >> in_deg : 14 
+
+weight ( stay , leave ) =  0.0769230769231 
+
+weight ( stay , life ) =  0.0666666666667 
+
+weight ( stay , return ) =  0.0 
+
+weight ( stay , office ) =  0.0555555555556 
+
+weight ( stay , brief ) =  0.0 
+
+weight ( stay , bangkok ) =  0.0 
+
+weight ( stay , say ) =  0.0 
+
+weight ( stay , safety ) =  0.0384615384615 
+
+weight ( stay , recognition ) =  0.0588235294118 
+
+weight ( stay , put ) =  0.0625 
+
+weight ( stay , instead ) =  0.0625 
+
+weight ( stay , prince ) =  0.0 
+
+weight ( stay , refuge ) =  0.0909090909091 
+
+weight ( stay , speak ) =  0.0 
+
+letter bias :  0.0 prestige : 0.000801282051282 >> out_deg : 13 >> in_deg : 13 
+
+weight ( letter , king ) =  0.0 
+
+weight ( letter , government ) =  0.05 
+
+weight ( letter , norodom ) =  0.0 
+
+weight ( letter , sihanouk ) =  0.0 
+
+weight ( letter , coalition ) =  0.047619047619 
+
+weight ( letter , member ) =  0.0344827586207 
+
+weight ( letter , chief ) =  0.0666666666667 
+
+weight ( letter , un ) =  0.0434782608696 
+
+weight ( letter , minister ) =  0.0625 
+
+weight ( letter , statement ) =  0.0740740740741 
+
+weight ( letter , party ) =  0.0666666666667 
+
+weight ( letter , leader ) =  0.0555555555556 
+
+weight ( letter , reporter ) =  0.0526315789474 
+
+position bias :  0.0 prestige : 0.000801282051282 >> out_deg : 20 >> in_deg : 20 
+
+weight ( position , plot ) =  0.105263157895 
+
+weight ( position , charge ) =  0.0666666666667 
+
+weight ( position , threat ) =  0.0666666666667 
+
+weight ( position , deal ) =  0.0666666666667 
+
+weight ( position , give ) =  0.0 
+
+weight ( position , suggest ) =  0.0625 
+
+weight ( position , avoid ) =  0.0434782608696 
+
+weight ( position , get ) =  0.0588235294118 
+
+weight ( position , resistance ) =  0.0526315789474 
+
+weight ( position , back ) =  0.0 
+
+weight ( position , general ) =  0.0 
+
+weight ( position , state ) =  0.047619047619 
+
+weight ( position , form ) =  0.037037037037 
+
+weight ( position , cambodian ) =  0.0 
+
+weight ( position , opposition ) =  0.0526315789474 
+
+weight ( position , secondranking ) =  0.0 
+
+weight ( position , apply ) =  0.0384615384615 
+
+weight ( position , first ) =  0.0588235294118 
+
+weight ( position , come ) =  0.1 
+
+weight ( position , previous ) =  0.0 
+
+president bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( president , make ) =  0.0 
+
+weight ( president , assembly ) =  0.0 
+
+weight ( president , minister ) =  0.0 
+
+weight ( president , national ) =  0.0 
+
+weight ( president , prince ) =  0.0 
+
+especially bias :  0.0 prestige : 0.000801282051282 >> out_deg : 7 >> in_deg : 7 
+
+weight ( especially , sam ) =  0.0 
+
+weight ( especially , aim ) =  0.0 
+
+weight ( especially , completely ) =  0.0714285714286 
+
+weight ( especially , rainsy ) =  0.0 
+
+weight ( especially , leader ) =  0.0 
+
+weight ( especially , assurance ) =  0.0 
+
+weight ( especially , first ) =  0.0526315789474 
+
+rule bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( rule , arrest ) =  0.0 
+
+weight ( rule , hun ) =  0.0 
+
+weight ( rule , government ) =  0.0588235294118 
+
+weight ( rule , party ) =  0.0 
+
+weight ( rule , sen ) =  0.0 
+
+premiership bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( premiership , legitimacy ) =  0.0 
+
+weight ( premiership , get ) =  0.0 
+
+weight ( premiership , election ) =  0.0625 
+
+weight ( premiership , recognition ) =  0.0 
+
+weight ( premiership , he ) =  0.0 
+
+chief bias :  0.0 prestige : 0.000801282051282 >> out_deg : 11 >> in_deg : 11 
+
+weight ( chief , letter ) =  0.0666666666667 
+
+weight ( chief , reporter ) =  0.0625 
+
+weight ( chief , rival ) =  0.0 
+
+weight ( chief , hun ) =  0.0 
+
+weight ( chief , norodom ) =  0.0 
+
+weight ( chief , reach ) =  0.0 
+
+weight ( chief , leader ) =  0.0666666666667 
+
+weight ( chief , minister ) =  0.0769230769231 
+
+weight ( chief , accuse ) =  0.0714285714286 
+
+weight ( chief , sen ) =  0.0 
+
+weight ( chief , prince ) =  0.0 
+
+vocally bias :  0.125 prestige : 0.000801282051282 >> out_deg : 6 >> in_deg : 6 
+
+weight ( vocally , sam ) =  1.25e-05 
+
+weight ( vocally , opposition ) =  1.25e-05 
+
+weight ( vocally , rainsy ) =  1.25e-05 
+
+weight ( vocally , sen ) =  1.25e-05 
+
+weight ( vocally , leader ) =  1.25e-05 
+
+weight ( vocally , antihun ) =  1.25e-05 
+
+overseas bias :  0.0 prestige : 0.000801282051282 >> out_deg : 5 >> in_deg : 5 
+
+weight ( overseas , party ) =  0.0 
+
+weight ( overseas , hole ) =  0.0 
+
+weight ( overseas , parliament ) =  0.0 
+
+weight ( overseas , national ) =  0.0666666666667 
+
+weight ( overseas , month ) =  0.0 
+
+coup bias :  inf prestige : -0.016856248171 
+
+office bias :  inf prestige : -0.0423963470691 
+
+september bias :  0.0155758107779 prestige : -0.0323738107627 
+
+soon bias :  0.0042913287968 prestige : 0.0 
+
+month bias :  0.00484699094476 prestige : -0.019403137513 
+
+session bias :  0.0142590997351 prestige : -2.02919655542e-05 
+
+kill bias :  inf prestige : -0.044407552683 
+
+cambodian bias :  0.00420737241794 prestige : 0.000411551564239 
+
+ranariddhs bias :  0.000514857300883 prestige : 0.0 
+
+fear bias :  0.00798659090127 prestige : -0.00548075062576 
+
+still bias :  inf prestige : -0.00866213252202 
+
+prince bias :  0.00408071052087 prestige : -0.00350917157948 
+
+previous bias :  inf prestige : -0.0631742009441 
+
+ease bias :  0.0101625683929 prestige : -0.00743980182457 
+
+father bias :  0.00487920489214 prestige : -0.0170639556736 
+
+arrest bias :  0.00976795125095 prestige : -0.00523306044182 
+
+charge bias :  inf prestige : -0.0778516495113 
+
+easy bias :  0.0025662828566 prestige : 0.000324533060202 
+
+overthrow bias :  inf prestige : -0.042472873242 
+
+rainsy bias :  0.00424280965305 prestige : -2.83371374933e-07 
+
+loophole bias :  0.00627666919477 prestige : -0.00644849174452 
+
+men bias :  inf prestige : -0.0009447988884 
+
+twothirds bias :  0.00473145634497 prestige : 1.27681567657e-06 
+
+return bias :  inf prestige : -0.0299699002351 
+
+government bias :  inf prestige : -0.00202663357573 
+
+safe bias :  0.0049958059917 prestige : -0.00882464530353 
+
+resistance bias :  inf prestige : -inf 
+
+apportioning bias :  0.00602318665631 prestige : -0.00608375156229 
+
+coprime bias :  0.00263996822395 prestige : 0.0 
+
+roundabout bias :  0.00823139161383 prestige : 0.0 
+
+accuse bias :  0.00823415694875 prestige : 0.00049362687605 
+
+instead bias :  inf prestige : -0.0641666564357 
+
+discuss bias :  0.00410682034752 prestige : 1.94077105562e-05 
+
+prime bias :  0.00221706136763 prestige : -0.00128931228434 
+
+easily bias :  0.00599833156813 prestige : -0.00959410955648 
+
+ranariddh bias :  inf prestige : -6.4768584946e-06 
+
+wednesday bias :  0.00199087087549 prestige : 0.0010499740397 
+
+try bias :  0.00576334780645 prestige : -0.0136526993675 
+
+benefit bias :  inf prestige : -0.0487339723877 
+
+contain bias :  0.00478797454407 prestige : 0.0 
+
+instability bias :  0.00824206278899 prestige : -0.0247742356262 
+
+unsatisfied bias :  -0.000196454969071 prestige : 0.0 
+
+force bias :  inf prestige : -0.0189838602103 
+
+deal bias :  0.0080227334611 prestige : -0.0180711345326 
+
+people bias :  0.00257959188674 prestige : 0.000904161183864 
+
+national bias :  0.00254283266169 prestige : 0.00134103963444 
+
+back bias :  inf prestige : -0.026191423 
+
+outnumber bias :  inf prestige : 0.00177926812493 
+
+election bias :  0.00518785932132 prestige : -0.00616161298169 
+
+year bias :  inf prestige : -inf 
+
+sen bias :  inf prestige : -0.00245915870202 
+
+indirect bias :  0.0075877387125 prestige : 8.11896179671e-05 
+
+recognition bias :  0.00622256623627 prestige : -0.0247787840928 
+
+leave bias :  inf prestige : -0.0634007264881 
+
+avoid bias :  inf prestige : -0.036531217791 
+
+brief bias :  0.00773592414278 prestige : -0.0225466283936 
+
+legal bias :  0.00415281098173 prestige : 0.000410470181647 
+
+funcinpec bias :  0.00334466546913 prestige : 0.0 
+
+everything bias :  0.00908250070548 prestige : -7.19686407976e-06 
+
+state bias :  0.00509420315621 prestige : -0.0138038045771 
+
+safety bias :  inf prestige : -0.0174807150295 
+
+capital bias :  inf prestige : -inf 
+
+new bias :  inf prestige : -0.00407769351957 
+
+staff bias :  -0.000327606738018 prestige : 0.0 
+
+cause bias :  0.0119129114152 prestige : -0.0427014863445 
+
+leader bias :  0.00487083457017 prestige : -0.00475323770234 
+
+assurance bias :  0.0175963128224 prestige : 0.0 
+
+full bias :  inf prestige : -0.0120507379082 
+
+assembly bias :  0.00591235336089 prestige : -0.00749538753002 
+
+extend bias :  0.00289784225237 prestige : -5.6154684242e-06 
+
+reporter bias :  0.00278926592428 prestige : 0.00105789634535 
+
+legitimacy bias :  0.00601028933306 prestige : 0.000607469394543 
+
+sole bias :  0.0070726107332 prestige : -0.0173192143578 
+
+bangkok bias :  0.00772183050514 prestige : -0.0096677989896 
+
+assures bias :  0.00591162433356 prestige : 0.0 
+
+completely bias :  0.00781823130791 prestige : -0.0167507586682 
+
+opposition bias :  inf prestige : -0.0324767562007 
+
+put bias :  inf prestige : -inf 
+
+come bias :  inf prestige : -0.0977023030327 
+
+refuge bias :  inf prestige : -0.0550859163012 
+
+last bias :  inf prestige : -inf 
+
+language bias :  inf prestige : -0.0323280655082 
+
+ministry bias :  0.00505713692642 prestige : -0.00398457907379 
+
+freedom bias :  0.00439322065057 prestige : -0.0197988635709 
+
+srp bias :  0.00766545143894 prestige : 4.8903323567e-07 
+
+threat bias :  inf prestige : -0.0480688519819 
+
+military bias :  0.00188813248057 prestige : 0.00127172187545 
+
+bunchhays bias :  inf prestige : 0.0 
+
+approve bias :  0.00575444245989 prestige : 0.00102871876076 
+
+think bias :  0.00861381056919 prestige : 0.000522173903353 
+
+first bias :  inf prestige : -0.0406631717338 
+
+tough bias :  inf prestige : -inf 
+
+dont bias :  0.00801872798472 prestige : 0.0 
+
+majesty bias :  0.003617799 prestige : -1.28076444809e-05 
+
+tuesday bias :  0.00187621084079 prestige : 0.00428973901871 
+
+exploit bias :  inf prestige : -0.0229614979094 
+
+unsuccessful bias :  nan prestige : -0.00367486922857 
+
+vote bias :  0.00326196476915 prestige : -0.015323455573 
+
+apply bias :  inf prestige : -0.0177859566008 
+
+open bias :  inf prestige : -0.0432566300534 
+
+speak bias :  0.00811473702795 prestige : 0.00370214746578 
+
+plot bias :  inf prestige : -0.0650110959252 
+
+top bias :  0.00159218145108 prestige : 0.000207465520737 
+
+political bias :  0.00523056275302 prestige : 0.00028844212411 
+
+system bias :  0.00569307246702 prestige : -0.00781006922929 
+
+antihun bias :  0.00384796639445 prestige : -2.14609613325e-05 
+
+statement bias :  0.00684902166323 prestige : 0.000351969950183 
+
+tell bias :  0.00277235430993 prestige : 0.00338575367291 
+
+head bias :  0.00312629825496 prestige : 0.000481243022592 
+
+parliament bias :  inf prestige : -0.0138996813786 
+
+door bias :  inf prestige : 0.0 
+
+form bias :  inf prestige : -0.0278865301182 
+
+forming bias :  inf prestige : -2.02919655542e-05 
+
+hun bias :  inf prestige : 9.9430576041e-05 
+
+sihanouk bias :  0.00203619621475 prestige : 0.0 
+
+broadcast bias :  0.00071846748311 prestige : 0.0 
+
+minister bias :  0.00357647090284 prestige : 0.00104559554113 
+
+hole bias :  0.00460880346736 prestige : 0.0 
+
+believe bias :  0.0026688936436 prestige : -0.0141952232765 
+
+he bias :  inf prestige : -0.0166008872056 
+
+king bias :  0.00285884747768 prestige : 0.00139053567992 
+
+television bias :  0.0041838860887 prestige : 2.05677723083e-06 
+
+politician bias :  0.00452013540121 prestige : -2.2907623848e-05 
+
+rival bias :  0.00460710908345 prestige : -2.06229836739e-05 
+
+coalition bias :  0.0051491630251 prestige : -0.0188554966052 
+
+aim bias :  0.0139173849529 prestige : -0.0419306138099 
+
+un bias :  0.0102899022593 prestige : -0.00618686246142 
+
+country bias :  0.0071661046538 prestige : -0.00669627904748 
+
+meet bias :  0.00515047597194 prestige : -0.0371544649866 
+
+agree bias :  0.00971725324737 prestige : 0.0 
+
+control bias :  0.00533202513798 prestige : 0.000711668500875 
+
+sam bias :  0.00572566764549 prestige : 3.04558924259e-07 
+
+give bias :  inf prestige : -0.0607564591042 
+
+bunchhay bias :  0.0124694844199 prestige : -2.34375e-06 
+
+norodom bias :  0.0013678145596 prestige : -1.21751793325e-05 
+
+life bias :  0.00982912434275 prestige : -0.0266657121076 
+
+general bias :  0.00602211612545 prestige : 0.000282366988417 
+
+say bias :  0.00378821197343 prestige : 0.000391571282161 
+
+need bias :  0.00286131441173 prestige : -2.02919655542e-05 
+
+guarantee bias :  0.003663166404 prestige : 0.000130377802075 
+
+nhek bias :  0.00573741189713 prestige : -1.5625e-06 
+
+suggest bias :  inf prestige : -0.0444194692956 
+
+make bias :  0.00477982437199 prestige : 0.0 
+
+get bias :  inf prestige : -0.0521352761069 
+
+cambodia bias :  0.00400002422601 prestige : 0.000309725385208 
+
+member bias :  0.00657473987454 prestige : -0.00735420119688 
+
+also bias :  0.00032847097352 prestige : 0.0 
+
+take bias :  0.013466169 prestige : -4.40494448359e-05 
+
+secondranking bias :  0.0116292031167 prestige : 0.0 
+
+party bias :  0.00585389693335 prestige : -0.00646428575693 
+
+week bias :  inf prestige : -0.0150760725419 
+
+serve bias :  0.00260871319071 prestige : -0.0241407507663 
+
+reach bias :  inf prestige : -0.0397758407283 
+
+stay bias :  inf prestige : -0.0482034808616 
+
+letter bias :  0.00259964628103 prestige : -0.00554931320969 
+
+position bias :  inf prestige : -0.0521504538841 
+
+president bias :  0.000861792393393 prestige : 0.0 
+
+especially bias :  0.00752529439468 prestige : -0.0157838973095 
+
+rule bias :  0.00238609906076 prestige : -0.021479908042 
+
+premiership bias :  0.00994527050537 prestige : -1.45642340326e-05 
+
+chief bias :  0.00307520377995 prestige : 0.00150069891813 
+
+vocally bias :  0.00331045814757 prestige : -2.1875e-05 
+
+overseas bias :  0.00423415180799 prestige : 0.00103327117173 
+
+coup <new bias :  inf new rank :  -0.016856248171 >
+
+office <new bias :  inf new rank :  -0.0423963470691 >
+
+september <new bias :  0.0155758107779 new rank :  -0.0323738107627 >
+
+soon <new bias :  0.0042913287968 new rank :  0.0 >
+
+month <new bias :  0.00484699094476 new rank :  -0.019403137513 >
+
+session <new bias :  0.0142590997351 new rank :  -2.02919655542e-05 >
+
+kill <new bias :  inf new rank :  -0.044407552683 >
+
+cambodian <new bias :  0.00420737241794 new rank :  0.000411551564239 >
+
+ranariddhs <new bias :  0.000514857300883 new rank :  0.0 >
+
+fear <new bias :  0.00798659090127 new rank :  -0.00548075062576 >
+
+still <new bias :  inf new rank :  -0.00866213252202 >
+
+prince <new bias :  0.00408071052087 new rank :  -0.00350917157948 >
+
+previous <new bias :  inf new rank :  -0.0631742009441 >
+
+ease <new bias :  0.0101625683929 new rank :  -0.00743980182457 >
+
+father <new bias :  0.00487920489214 new rank :  -0.0170639556736 >
+
+arrest <new bias :  0.00976795125095 new rank :  -0.00523306044182 >
+
+charge <new bias :  inf new rank :  -0.0778516495113 >
+
+easy <new bias :  0.0025662828566 new rank :  0.000324533060202 >
+
+overthrow <new bias :  inf new rank :  -0.042472873242 >
+
+rainsy <new bias :  0.00424280965305 new rank :  -2.83371374933e-07 >
+
+loophole <new bias :  0.00627666919477 new rank :  -0.00644849174452 >
+
+men <new bias :  inf new rank :  -0.0009447988884 >
+
+twothirds <new bias :  0.00473145634497 new rank :  1.27681567657e-06 >
+
+return <new bias :  inf new rank :  -0.0299699002351 >
+
+government <new bias :  inf new rank :  -0.00202663357573 >
+
+safe <new bias :  0.0049958059917 new rank :  -0.00882464530353 >
+
+resistance <new bias :  inf new rank :  -0.0977023030327 >
+
+apportioning <new bias :  0.00602318665631 new rank :  -0.00608375156229 >
+
+coprime <new bias :  0.00263996822395 new rank :  0.0 >
+
+roundabout <new bias :  0.00823139161383 new rank :  0.0 >
+
+accuse <new bias :  0.00823415694875 new rank :  0.00049362687605 >
+
+instead <new bias :  inf new rank :  -0.0641666564357 >
+
+discuss <new bias :  0.00410682034752 new rank :  1.94077105562e-05 >
+
+prime <new bias :  0.00221706136763 new rank :  -0.00128931228434 >
+
+easily <new bias :  0.00599833156813 new rank :  -0.00959410955648 >
+
+ranariddh <new bias :  inf new rank :  -6.4768584946e-06 >
+
+wednesday <new bias :  0.00199087087549 new rank :  0.0010499740397 >
+
+try <new bias :  0.00576334780645 new rank :  -0.0136526993675 >
+
+benefit <new bias :  inf new rank :  -0.0487339723877 >
+
+contain <new bias :  0.00478797454407 new rank :  0.0 >
+
+instability <new bias :  0.00824206278899 new rank :  -0.0247742356262 >
+
+unsatisfied <new bias :  -0.000196454969071 new rank :  0.0 >
+
+force <new bias :  inf new rank :  -0.0189838602103 >
+
+deal <new bias :  0.0080227334611 new rank :  -0.0180711345326 >
+
+people <new bias :  0.00257959188674 new rank :  0.000904161183864 >
+
+national <new bias :  0.00254283266169 new rank :  0.00134103963444 >
+
+back <new bias :  inf new rank :  -0.026191423 >
+
+outnumber <new bias :  inf new rank :  0.00177926812493 >
+
+election <new bias :  0.00518785932132 new rank :  -0.00616161298169 >
+
+year <new bias :  inf new rank :  -0.0977023030327 >
+
+sen <new bias :  inf new rank :  -0.00245915870202 >
+
+indirect <new bias :  0.0075877387125 new rank :  8.11896179671e-05 >
+
+recognition <new bias :  0.00622256623627 new rank :  -0.0247787840928 >
+
+leave <new bias :  inf new rank :  -0.0634007264881 >
+
+avoid <new bias :  inf new rank :  -0.036531217791 >
+
+brief <new bias :  0.00773592414278 new rank :  -0.0225466283936 >
+
+legal <new bias :  0.00415281098173 new rank :  0.000410470181647 >
+
+funcinpec <new bias :  0.00334466546913 new rank :  0.0 >
+
+everything <new bias :  0.00908250070548 new rank :  -7.19686407976e-06 >
+
+state <new bias :  0.00509420315621 new rank :  -0.0138038045771 >
+
+safety <new bias :  inf new rank :  -0.0174807150295 >
+
+capital <new bias :  inf new rank :  -0.0977023030327 >
+
+new <new bias :  inf new rank :  -0.00407769351957 >
+
+staff <new bias :  -0.000327606738018 new rank :  0.0 >
+
+cause <new bias :  0.0119129114152 new rank :  -0.0427014863445 >
+
+leader <new bias :  0.00487083457017 new rank :  -0.00475323770234 >
+
+assurance <new bias :  0.0175963128224 new rank :  0.0 >
+
+full <new bias :  inf new rank :  -0.0120507379082 >
+
+assembly <new bias :  0.00591235336089 new rank :  -0.00749538753002 >
+
+extend <new bias :  0.00289784225237 new rank :  -5.6154684242e-06 >
+
+reporter <new bias :  0.00278926592428 new rank :  0.00105789634535 >
+
+legitimacy <new bias :  0.00601028933306 new rank :  0.000607469394543 >
+
+sole <new bias :  0.0070726107332 new rank :  -0.0173192143578 >
+
+bangkok <new bias :  0.00772183050514 new rank :  -0.0096677989896 >
+
+assures <new bias :  0.00591162433356 new rank :  0.0 >
+
+completely <new bias :  0.00781823130791 new rank :  -0.0167507586682 >
+
+opposition <new bias :  inf new rank :  -0.0324767562007 >
+
+put <new bias :  inf new rank :  -0.0977023030327 >
+
+come <new bias :  inf new rank :  -0.0977023030327 >
+
+refuge <new bias :  inf new rank :  -0.0550859163012 >
+
+last <new bias :  inf new rank :  -0.0977023030327 >
+
+language <new bias :  inf new rank :  -0.0323280655082 >
+
+ministry <new bias :  0.00505713692642 new rank :  -0.00398457907379 >
+
+freedom <new bias :  0.00439322065057 new rank :  -0.0197988635709 >
+
+srp <new bias :  0.00766545143894 new rank :  4.8903323567e-07 >
+
+threat <new bias :  inf new rank :  -0.0480688519819 >
+
+military <new bias :  0.00188813248057 new rank :  0.00127172187545 >
+
+bunchhays <new bias :  inf new rank :  0.0 >
+
+approve <new bias :  0.00575444245989 new rank :  0.00102871876076 >
+
+think <new bias :  0.00861381056919 new rank :  0.000522173903353 >
+
+first <new bias :  inf new rank :  -0.0406631717338 >
+
+tough <new bias :  inf new rank :  -0.0977023030327 >
+
+dont <new bias :  0.00801872798472 new rank :  0.0 >
+
+majesty <new bias :  0.003617799 new rank :  -1.28076444809e-05 >
+
+tuesday <new bias :  0.00187621084079 new rank :  0.00428973901871 >
+
+exploit <new bias :  inf new rank :  -0.0229614979094 >
+
+unsuccessful <new bias :  nan new rank :  -0.00367486922857 >
+
+vote <new bias :  0.00326196476915 new rank :  -0.015323455573 >
+
+apply <new bias :  inf new rank :  -0.0177859566008 >
+
+open <new bias :  inf new rank :  -0.0432566300534 >
+
+speak <new bias :  0.00811473702795 new rank :  0.00370214746578 >
+
+plot <new bias :  inf new rank :  -0.0650110959252 >
+
+top <new bias :  0.00159218145108 new rank :  0.000207465520737 >
+
+political <new bias :  0.00523056275302 new rank :  0.00028844212411 >
+
+system <new bias :  0.00569307246702 new rank :  -0.00781006922929 >
+
+antihun <new bias :  0.00384796639445 new rank :  -2.14609613325e-05 >
+
+statement <new bias :  0.00684902166323 new rank :  0.000351969950183 >
+
+tell <new bias :  0.00277235430993 new rank :  0.00338575367291 >
+
+head <new bias :  0.00312629825496 new rank :  0.000481243022592 >
+
+parliament <new bias :  inf new rank :  -0.0138996813786 >
+
+door <new bias :  inf new rank :  0.0 >
+
+form <new bias :  inf new rank :  -0.0278865301182 >
+
+forming <new bias :  inf new rank :  -2.02919655542e-05 >
+
+hun <new bias :  inf new rank :  9.9430576041e-05 >
+
+sihanouk <new bias :  0.00203619621475 new rank :  0.0 >
+
+broadcast <new bias :  0.00071846748311 new rank :  0.0 >
+
+minister <new bias :  0.00357647090284 new rank :  0.00104559554113 >
+
+hole <new bias :  0.00460880346736 new rank :  0.0 >
+
+believe <new bias :  0.0026688936436 new rank :  -0.0141952232765 >
+
+he <new bias :  inf new rank :  -0.0166008872056 >
+
+king <new bias :  0.00285884747768 new rank :  0.00139053567992 >
+
+television <new bias :  0.0041838860887 new rank :  2.05677723083e-06 >
+
+politician <new bias :  0.00452013540121 new rank :  -2.2907623848e-05 >
+
+rival <new bias :  0.00460710908345 new rank :  -2.06229836739e-05 >
+
+coalition <new bias :  0.0051491630251 new rank :  -0.0188554966052 >
+
+aim <new bias :  0.0139173849529 new rank :  -0.0419306138099 >
+
+un <new bias :  0.0102899022593 new rank :  -0.00618686246142 >
+
+country <new bias :  0.0071661046538 new rank :  -0.00669627904748 >
+
+meet <new bias :  0.00515047597194 new rank :  -0.0371544649866 >
+
+agree <new bias :  0.00971725324737 new rank :  0.0 >
+
+control <new bias :  0.00533202513798 new rank :  0.000711668500875 >
+
+sam <new bias :  0.00572566764549 new rank :  3.04558924259e-07 >
+
+give <new bias :  inf new rank :  -0.0607564591042 >
+
+bunchhay <new bias :  0.0124694844199 new rank :  -2.34375e-06 >
+
+norodom <new bias :  0.0013678145596 new rank :  -1.21751793325e-05 >
+
+life <new bias :  0.00982912434275 new rank :  -0.0266657121076 >
+
+general <new bias :  0.00602211612545 new rank :  0.000282366988417 >
+
+say <new bias :  0.00378821197343 new rank :  0.000391571282161 >
+
+need <new bias :  0.00286131441173 new rank :  -2.02919655542e-05 >
+
+guarantee <new bias :  0.003663166404 new rank :  0.000130377802075 >
+
+nhek <new bias :  0.00573741189713 new rank :  -1.5625e-06 >
+
+suggest <new bias :  inf new rank :  -0.0444194692956 >
+
+make <new bias :  0.00477982437199 new rank :  0.0 >
+
+get <new bias :  inf new rank :  -0.0521352761069 >
+
+cambodia <new bias :  0.00400002422601 new rank :  0.000309725385208 >
+
+member <new bias :  0.00657473987454 new rank :  -0.00735420119688 >
+
+also <new bias :  0.00032847097352 new rank :  0.0 >
+
+take <new bias :  0.013466169 new rank :  -4.40494448359e-05 >
+
+secondranking <new bias :  0.0116292031167 new rank :  0.0 >
+
+party <new bias :  0.00585389693335 new rank :  -0.00646428575693 >
+
+week <new bias :  inf new rank :  -0.0150760725419 >
+
+serve <new bias :  0.00260871319071 new rank :  -0.0241407507663 >
+
+reach <new bias :  inf new rank :  -0.0397758407283 >
+
+stay <new bias :  inf new rank :  -0.0482034808616 >
+
+letter <new bias :  0.00259964628103 new rank :  -0.00554931320969 >
+
+position <new bias :  inf new rank :  -0.0521504538841 >
+
+president <new bias :  0.000861792393393 new rank :  0.0 >
+
+especially <new bias :  0.00752529439468 new rank :  -0.0157838973095 >
+
+rule <new bias :  0.00238609906076 new rank :  -0.021479908042 >
+
+premiership <new bias :  0.00994527050537 new rank :  -1.45642340326e-05 >
+
+chief <new bias :  0.00307520377995 new rank :  0.00150069891813 >
+
+vocally <new bias :  0.00331045814757 new rank :  -2.1875e-05 >
+
+overseas <new bias :  0.00423415180799 new rank :  0.00103327117173 >
+
+Final list of keywords: 
+tuesday => 0.00428973901871
+speak => 0.00370214746578
+tell => 0.00338575367291
+outnumber => 0.00177926812493
+chief => 0.00150069891813
+king => 0.00139053567992
+national => 0.00134103963444
+military => 0.00127172187545
+reporter => 0.00105789634535
+wednesday => 0.0010499740397
+minister => 0.00104559554113
+overseas => 0.00103327117173
+approve => 0.00102871876076
+people => 0.000904161183864
+control => 0.000711668500875
+legitimacy => 0.000607469394543
+think => 0.000522173903353
+accuse => 0.00049362687605
+head => 0.000481243022592
+cambodian => 0.000411551564239
+legal => 0.000410470181647
+say => 0.000391571282161
+statement => 0.000351969950183
+easy => 0.000324533060202
+cambodia => 0.000309725385208
+political => 0.00028844212411
+general => 0.000282366988417
+top => 0.000207465520737
+guarantee => 0.000130377802075
+hun => 9.9430576041e-05
+indirect => 8.11896179671e-05
+discuss => 1.94077105562e-05
+television => 2.05677723083e-06
+twothirds => 1.27681567657e-06
+srp => 4.8903323567e-07
+sam => 3.04558924259e-07
+control indegree: 2 new bias :  0.00533202513798 new rank :  0.000711668500875 
+
+sam indegree: 6 new bias :  0.00572566764549 new rank :  3.04558924259e-07 
+
+people indegree: 8 new bias :  0.00257959188674 new rank :  0.000904161183864 
+
+national indegree: 8 new bias :  0.00254283266169 new rank :  0.00134103963444 
+
+outnumber indegree: 0 new bias :  inf new rank :  0.00177926812493 
+
+general indegree: 12 new bias :  0.00602211612545 new rank :  0.000282366988417 
+
+say indegree: 26 new bias :  0.00378821197343 new rank :  0.000391571282161 
+
+cambodian indegree: 12 new bias :  0.00420737241794 new rank :  0.000411551564239 
+
+indirect indegree: 2 new bias :  0.0075877387125 new rank :  8.11896179671e-05 
+
+speak indegree: 6 new bias :  0.00811473702795 new rank :  0.00370214746578 
+
+cambodia indegree: 8 new bias :  0.00400002422601 new rank :  0.000309725385208 
+
+top indegree: 4 new bias :  0.00159218145108 new rank :  0.000207465520737 
+
+political indegree: 4 new bias :  0.00523056275302 new rank :  0.00028844212411 
+
+chief indegree: 8 new bias :  0.00307520377995 new rank :  0.00150069891813 
+
+legal indegree: 6 new bias :  0.00415281098173 new rank :  0.000410470181647 
+
+easy indegree: 4 new bias :  0.0025662828566 new rank :  0.000324533060202 
+
+guarantee indegree: 10 new bias :  0.003663166404 new rank :  0.000130377802075 
+
+tuesday indegree: 8 new bias :  0.00187621084079 new rank :  0.00428973901871 
+
+twothirds indegree: 0 new bias :  0.00473145634497 new rank :  1.27681567657e-06 
+
+head indegree: 6 new bias :  0.00312629825496 new rank :  0.000481243022592 
+
+statement indegree: 2 new bias :  0.00684902166323 new rank :  0.000351969950183 
+
+reporter indegree: 8 new bias :  0.00278926592428 new rank :  0.00105789634535 
+
+legitimacy indegree: 4 new bias :  0.00601028933306 new rank :  0.000607469394543 
+
+hun indegree: 22 new bias :  inf new rank :  9.9430576041e-05 
+
+minister indegree: 8 new bias :  0.00357647090284 new rank :  0.00104559554113 
+
+accuse indegree: 4 new bias :  0.00823415694875 new rank :  0.00049362687605 
+
+discuss indegree: 4 new bias :  0.00410682034752 new rank :  1.94077105562e-05 
+
+king indegree: 0 new bias :  0.00285884747768 new rank :  0.00139053567992 
+
+television indegree: 6 new bias :  0.0041838860887 new rank :  2.05677723083e-06 
+
+wednesday indegree: 12 new bias :  0.00199087087549 new rank :  0.0010499740397 
+
+tell indegree: 8 new bias :  0.00277235430993 new rank :  0.00338575367291 
+
+srp indegree: 4 new bias :  0.00766545143894 new rank :  4.8903323567e-07 
+
+military indegree: 8 new bias :  0.00188813248057 new rank :  0.00127172187545 
+
+overseas indegree: 2 new bias :  0.00423415180799 new rank :  0.00103327117173 
+
+approve indegree: 2 new bias :  0.00575444245989 new rank :  0.00102871876076 
+
+think indegree: 4 new bias :  0.00861381056919 new rank :  0.000522173903353 
+
+
+Total Nodes:  163
+
+Total Positive Nodes:  36
+Sentence Median =  0.335947617421 
+
+But a deal 
+reached between Hun Sen and his chief rival, Prince Norodom Ranariddh, 
+on forming a new government last week has opened the door for their 
+return. << 1.74785921983 << 3 
+
+Last week, Hun Sen's 
+Cambodian People's Party and Ranariddh's FUNCINPEC party agreed to 
+form a coalition that would leave Hun Sen as sole prime minister and 
+make the prince president of the National Assembly. << 1.21780177535 << 12 
+
+Sam Rainsy and the 14 members of parliament 
+from his party have been holed up overseas for two months. << 1.20344762182 << 2 
+
+The deal assures 
+the two-thirds vote in parliament needed to approve a new government. << 1.19814544335 << 13 
+
+He's got 
+the premiership and legitimacy through the election and recognition 
+from his majesty the king. << 0.707517656732 << 16 
+
+``I think Hun Sen has got everything. << 0.608174271536 << 15 
+
+I don't think there is any benefit for 
+Hun Sen to cause instability for our country,'' Ranariddh said. << 0.608174271536 << 17 
+
+``But instead they make 
+roundabout statements, full of loopholes that can easily be exploited 
+by a legal system that is completely in their control. << 0.478073304904 << 9 
+
+``It should be easy for them to say, `Rainsy and the SRP members 
+of the assembly have no charges against them and will not be arrested,''' 
+the opposition leader said in a statement. << 0.377982615007 << 8 
+
+Cambodian leader Hun Sen has guaranteed the safety and political freedom 
+of all politicians, trying to ease the fears of his rivals that they 
+will be arrested or killed if they return to the country. << 0.335947617421 << 0 
+
+The 
+prince also said that his top general, Nhek Bunchhay, would not be 
+given back his previous position as the second-ranking general in 
+the Cambodian military's general staff. << 0.299792759909 << 18 
+
+In a letter to King Norodom Sihanouk _ the prince's father 
+and Cambodia's head of state _ that was broadcast on television Tuesday, 
+Hun Sen said that guarantees of safety extended to Ranariddh applied 
+to all politicians. << 0.281448863878 << 4 
+
+He said it contained 
+indirect language and loopholes that suggest he and his Sam Rainsy 
+Party members are still under threat of arrest from Hun Sen's ruling 
+party. << 0.0945612878131 << 7 
+
+Speaking upon his return from a brief stay in Bangkok, 
+the prince said he would soon meet with Hun Sen to discuss the apportioning 
+of ministries in the new coalition government. << 0.0226040982781 << 11 
+
+The assurances 
+were aimed especially at Sam Rainsy, leader of a vocally anti-Hun 
+Sen opposition party, who was forced to take refuge in the U.N. offices 
+in September to avoid arrest after Hun Sen accused him of being behind 
+a plot against his life. << 0.0 << 1 
+
+His assurances come a week before the first session 
+of Cambodia's new parliament, the National Assembly. << 0.0 << 5 
+
+Sam Rainsy said 
+Wednesday that he was unsatisfied with the guarantee. << 0.0 << 6 
+
+'' Ranariddh 
+told reporters Wednesday that he believed it was safe for Sam Rainsy 
+in Cambodia. << 0.0 << 10 
+
+The men served as co-prime ministers until Hun Sen overthrew Ranariddh 
+in a coup last year. << 0.0 << 14 
+
+Nhek Bunchhay's outnumbered 
+forces in the capital put up tough but unsuccessful resistance to 
+last year's coup.  << 0.0 << 19 
+
+Top Weights: 
+1.74785921983 ,
+1.21780177535 ,
+1.20344762182 ,
+
+
+coup indegree: 16 new bias :  inf new rank :  -0.016856248171 
+
+office indegree: 22 new bias :  inf new rank :  -0.0423963470691 
+
+september indegree: 14 new bias :  0.0155758107779 new rank :  -0.0323738107627 
+
+resistance indegree: 34 new bias :  inf new rank :  -0.0977023030327 
+
+month indegree: 14 new bias :  0.00484699094476 new rank :  -0.019403137513 
+
+session indegree: 10 new bias :  0.0142590997351 new rank :  -2.02919655542e-05 
+
+kill indegree: 26 new bias :  inf new rank :  -0.044407552683 
+
+fear indegree: 16 new bias :  0.00798659090127 new rank :  -0.00548075062576 
+
+still indegree: 20 new bias :  inf new rank :  -0.00866213252202 
+
+prince indegree: 32 new bias :  0.00408071052087 new rank :  -0.00350917157948 
+
+previous indegree: 38 new bias :  inf new rank :  -0.0631742009441 
+
+ease indegree: 14 new bias :  0.0101625683929 new rank :  -0.00743980182457 
+
+father indegree: 12 new bias :  0.00487920489214 new rank :  -0.0170639556736 
+
+arrest indegree: 40 new bias :  0.00976795125095 new rank :  -0.00523306044182 
+
+charge indegree: 32 new bias :  inf new rank :  -0.0778516495113 
+
+overthrow indegree: 20 new bias :  inf new rank :  -0.042472873242 
+
+rainsy indegree: 28 new bias :  0.00424280965305 new rank :  -2.83371374933e-07 
+
+loophole indegree: 30 new bias :  0.00627666919477 new rank :  -0.00644849174452 
+
+return indegree: 52 new bias :  inf new rank :  -0.0299699002351 
+
+government indegree: 34 new bias :  inf new rank :  -0.00202663357573 
+
+safe indegree: 10 new bias :  0.0049958059917 new rank :  -0.00882464530353 
+
+apportioning indegree: 12 new bias :  0.00602318665631 new rank :  -0.00608375156229 
+
+party indegree: 44 new bias :  0.00585389693335 new rank :  -0.00646428575693 
+
+prime indegree: 6 new bias :  0.00221706136763 new rank :  -0.00128931228434 
+
+easily indegree: 12 new bias :  0.00599833156813 new rank :  -0.00959410955648 
+
+ranariddh indegree: 36 new bias :  inf new rank :  -6.4768584946e-06 
+
+leave indegree: 24 new bias :  inf new rank :  -0.0634007264881 
+
+benefit indegree: 10 new bias :  inf new rank :  -0.0487339723877 
+
+instability indegree: 10 new bias :  0.00824206278899 new rank :  -0.0247742356262 
+
+force indegree: 40 new bias :  inf new rank :  -0.0189838602103 
+
+deal indegree: 10 new bias :  0.0080227334611 new rank :  -0.0180711345326 
+
+back indegree: 16 new bias :  inf new rank :  -0.026191423 
+
+election indegree: 14 new bias :  0.00518785932132 new rank :  -0.00616161298169 
+
+year indegree: 20 new bias :  inf new rank :  -0.0977023030327 
+
+sen indegree: 86 new bias :  inf new rank :  -0.00245915870202 
+
+recognition indegree: 12 new bias :  0.00622256623627 new rank :  -0.0247787840928 
+
+try indegree: 16 new bias :  0.00576334780645 new rank :  -0.0136526993675 
+
+avoid indegree: 34 new bias :  inf new rank :  -0.036531217791 
+
+brief indegree: 10 new bias :  0.00773592414278 new rank :  -0.0225466283936 
+
+everything indegree: 4 new bias :  0.00908250070548 new rank :  -7.19686407976e-06 
+
+state indegree: 16 new bias :  0.00509420315621 new rank :  -0.0138038045771 
+
+safety indegree: 24 new bias :  inf new rank :  -0.0174807150295 
+
+capital indegree: 14 new bias :  inf new rank :  -0.0977023030327 
+
+new indegree: 36 new bias :  inf new rank :  -0.00407769351957 
+
+cause indegree: 22 new bias :  0.0119129114152 new rank :  -0.0427014863445 
+
+leader indegree: 22 new bias :  0.00487083457017 new rank :  -0.00475323770234 
+
+full indegree: 8 new bias :  inf new rank :  -0.0120507379082 
+
+assembly indegree: 22 new bias :  0.00591235336089 new rank :  -0.00749538753002 
+
+extend indegree: 8 new bias :  0.00289784225237 new rank :  -5.6154684242e-06 
+
+men indegree: 6 new bias :  inf new rank :  -0.0009447988884 
+
+bangkok indegree: 10 new bias :  0.00772183050514 new rank :  -0.0096677989896 
+
+completely indegree: 12 new bias :  0.00781823130791 new rank :  -0.0167507586682 
+
+opposition indegree: 42 new bias :  inf new rank :  -0.0324767562007 
+
+put indegree: 40 new bias :  inf new rank :  -0.0977023030327 
+
+come indegree: 32 new bias :  inf new rank :  -0.0977023030327 
+
+antihun indegree: 12 new bias :  0.00384796639445 new rank :  -2.14609613325e-05 
+
+last indegree: 26 new bias :  inf new rank :  -0.0977023030327 
+
+language indegree: 10 new bias :  inf new rank :  -0.0323280655082 
+
+ministry indegree: 18 new bias :  0.00505713692642 new rank :  -0.00398457907379 
+
+freedom indegree: 18 new bias :  0.00439322065057 new rank :  -0.0197988635709 
+
+threat indegree: 36 new bias :  inf new rank :  -0.0480688519819 
+
+first indegree: 26 new bias :  inf new rank :  -0.0406631717338 
+
+tough indegree: 12 new bias :  inf new rank :  -0.0977023030327 
+
+majesty indegree: 4 new bias :  0.003617799 new rank :  -1.28076444809e-05 
+
+exploit indegree: 16 new bias :  inf new rank :  -0.0229614979094 
+
+unsuccessful indegree: 12 new bias :  nan new rank :  -0.00367486922857 
+
+vote indegree: 10 new bias :  0.00326196476915 new rank :  -0.015323455573 
+
+apply indegree: 28 new bias :  inf new rank :  -0.0177859566008 
+
+open indegree: 20 new bias :  inf new rank :  -0.0432566300534 
+
+plot indegree: 34 new bias :  inf new rank :  -0.0650110959252 
+
+system indegree: 8 new bias :  0.00569307246702 new rank :  -0.00781006922929 
+
+refuge indegree: 22 new bias :  inf new rank :  -0.0550859163012 
+
+life indegree: 10 new bias :  0.00982912434275 new rank :  -0.0266657121076 
+
+parliament indegree: 24 new bias :  inf new rank :  -0.0138996813786 
+
+form indegree: 32 new bias :  inf new rank :  -0.0278865301182 
+
+forming indegree: 12 new bias :  inf new rank :  -2.02919655542e-05 
+
+serve indegree: 4 new bias :  0.00260871319071 new rank :  -0.0241407507663 
+
+believe indegree: 8 new bias :  0.0026688936436 new rank :  -0.0141952232765 
+
+he indegree: 24 new bias :  inf new rank :  -0.0166008872056 
+
+politician indegree: 16 new bias :  0.00452013540121 new rank :  -2.2907623848e-05 
+
+rival indegree: 20 new bias :  0.00460710908345 new rank :  -2.06229836739e-05 
+
+coalition indegree: 26 new bias :  0.0051491630251 new rank :  -0.0188554966052 
+
+aim indegree: 20 new bias :  0.0139173849529 new rank :  -0.0419306138099 
+
+un indegree: 22 new bias :  0.0102899022593 new rank :  -0.00618686246142 
+
+sole indegree: 10 new bias :  0.0070726107332 new rank :  -0.0173192143578 
+
+country indegree: 18 new bias :  0.0071661046538 new rank :  -0.00669627904748 
+
+meet indegree: 12 new bias :  0.00515047597194 new rank :  -0.0371544649866 
+
+give indegree: 28 new bias :  inf new rank :  -0.0607564591042 
+
+bunchhay indegree: 8 new bias :  0.0124694844199 new rank :  -2.34375e-06 
+
+norodom indegree: 14 new bias :  0.0013678145596 new rank :  -1.21751793325e-05 
+
+need indegree: 8 new bias :  0.00286131441173 new rank :  -2.02919655542e-05 
+
+nhek indegree: 8 new bias :  0.00573741189713 new rank :  -1.5625e-06 
+
+suggest indegree: 38 new bias :  inf new rank :  -0.0444194692956 
+
+get indegree: 44 new bias :  inf new rank :  -0.0521352761069 
+
+member indegree: 42 new bias :  0.00657473987454 new rank :  -0.00735420119688 
+
+take indegree: 12 new bias :  0.013466169 new rank :  -4.40494448359e-05 
+
+instead indegree: 12 new bias :  inf new rank :  -0.0641666564357 
+
+week indegree: 20 new bias :  inf new rank :  -0.0150760725419 
+
+reach indegree: 10 new bias :  inf new rank :  -0.0397758407283 
+
+stay indegree: 24 new bias :  inf new rank :  -0.0482034808616 
+
+letter indegree: 14 new bias :  0.00259964628103 new rank :  -0.00554931320969 
+
+vocally indegree: 10 new bias :  0.00331045814757 new rank :  -2.1875e-05 
+
+especially indegree: 10 new bias :  0.00752529439468 new rank :  -0.0157838973095 
+
+rule indegree: 8 new bias :  0.00238609906076 new rank :  -0.021479908042 
+
+premiership indegree: 8 new bias :  0.00994527050537 new rank :  -1.45642340326e-05 
+
+position indegree: 34 new bias :  inf new rank :  -0.0521504538841 
+
+
+Total Nodes:  163
+
+Total Negative Nodes:  106
+
+Total Negative weights:  2.66382115805
+Sentence Median =  0.00140673430372 
+
+Nhek Bunchhay's outnumbered 
+forces in the capital put up tough but unsuccessful resistance to 
+last year's coup.  << 0.0104585124191 << 19 
+
+The assurances 
+were aimed especially at Sam Rainsy, leader of a vocally anti-Hun 
+Sen opposition party, who was forced to take refuge in the U.N. offices 
+in September to avoid arrest after Hun Sen accused him of being behind 
+a plot against his life. << 0.00685095412728 << 1 
+
+Speaking upon his return from a brief stay in Bangkok, 
+the prince said he would soon meet with Hun Sen to discuss the apportioning 
+of ministries in the new coalition government. << 0.00596041655203 << 11 
+
+Last week, Hun Sen's 
+Cambodian People's Party and Ranariddh's FUNCINPEC party agreed to 
+form a coalition that would leave Hun Sen as sole prime minister and 
+make the prince president of the National Assembly. << 0.00343907004515 << 12 
+
+He said it contained 
+indirect language and loopholes that suggest he and his Sam Rainsy 
+Party members are still under threat of arrest from Hun Sen's ruling 
+party. << 0.00330024847497 << 7 
+
+But a deal 
+reached between Hun Sen and his chief rival, Prince Norodom Ranariddh, 
+on forming a new government last week has opened the door for their 
+return. << 0.00291057549828 << 3 
+
+His assurances come a week before the first session 
+of Cambodia's new parliament, the National Assembly. << 0.00278964299648 << 5 
+
+The 
+prince also said that his top general, Nhek Bunchhay, would not be 
+given back his previous position as the second-ranking general in 
+the Cambodian military's general staff. << 0.00205443631398 << 18 
+
+``But instead they make 
+roundabout statements, full of loopholes that can easily be exploited 
+by a legal system that is completely in their control. << 0.00195442627603 << 9 
+
+Cambodian leader Hun Sen has guaranteed the safety and political freedom 
+of all politicians, trying to ease the fears of his rivals that they 
+will be arrested or killed if they return to the country. << 0.00140673430372 << 0 
+
+I don't think there is any benefit for 
+Hun Sen to cause instability for our country,'' Ranariddh said. << 0.00123467508469 << 17 
+
+The men served as co-prime ministers until Hun Sen overthrew Ranariddh 
+in a coup last year. << 0.00122717049851 << 14 
+
+In a letter to King Norodom Sihanouk _ the prince's father 
+and Cambodia's head of state _ that was broadcast on television Tuesday, 
+Hun Sen said that guarantees of safety extended to Ranariddh applied 
+to all politicians. << 0.000763519279361 << 4 
+
+The deal assures 
+the two-thirds vote in parliament needed to approve a new government. << 0.000727738313536 << 13 
+
+``It should be easy for them to say, `Rainsy and the SRP members 
+of the assembly have no charges against them and will not be arrested,''' 
+the opposition leader said in a statement. << 0.000475186811337 << 8 
+
+He's got 
+the premiership and legitimacy through the election and recognition 
+from his majesty the king. << 0.000438691257969 << 16 
+
+'' Ranariddh 
+told reporters Wednesday that he believed it was safe for Sam Rainsy 
+in Cambodia. << 0.000180089803335 << 10 
+
+Sam Rainsy and the 14 members of parliament 
+from his party have been holed up overseas for two months. << 0.00014423858518 << 2 
+
+Sam Rainsy said 
+Wednesday that he was unsatisfied with the guarantee. << 5.87922890302e-05 << 6 
+
+``I think Hun Sen has got everything. << 0.0 << 15 
+
+Top Weights: 
+0.0104585124191 ,
+0.00685095412728 ,
+0.00596041655203 ,
+
+

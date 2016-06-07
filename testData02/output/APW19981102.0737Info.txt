@@ -1,0 +1,538 @@
+0 >> Nicaraguan Vice President Enrique Bolanos said Sunday night that between 
+1,000 and 1,500 people were buried in a 32-square mile (82.88 square-kilometer) 
+area below the slopes of the Casita volcano in northern Nicaragua. 
+
+1 >> That is in addition to least another 600 people elsewhere in the country, 
+Bolanos said.  
+
+nicaraguan --> a --> of or relating to Nicaragua or is people --> 0#0 
+
+vice --> n --> moral weakness --> 1#0 
+
+president --> n --> an executive officer of a firm or corporation --> 2#0 
+
+enrique --> n -->  --> 3#0 
+
+bolanos --> n -->  --> 4#0 
+
+say --> v --> express in words --> 5#0 
+
+sunday --> n --> first day of the week; observed as a day of rest and worship by most Christians --> 6#0 
+
+night --> n --> the time after sunset and before sunrise while it is dark outside --> 7#0 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 8#0 
+
+bury --> v --> cover from sight --> 9#0 
+
+32square --> a -->  --> 10#0 
+
+mile --> n --> a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters --> 11#0 
+
+squarekilometer --> n -->  --> 12#0 
+
+area --> n --> a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography) --> 13#0 
+
+slope --> n --> an elevated geological formation --> 14#0 
+
+casita --> n -->  --> 15#0 
+
+volcano --> n --> a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt --> 16#0 
+
+northern --> a --> in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line --> 17#0 
+
+nicaragua --> n --> a republic in Central America; achieved independence from Spain in 1821 --> 18#0 
+
+addition --> n --> a component that is added to something to improve it --> 0#1 
+
+least --> v -->  --> 1#1 
+
+people --> n --> (plural) any group of human beings (men or women or children) collectively --> 2#1 
+
+elsewhere --> r --> in or to another place --> 3#1 
+
+country --> n --> a politically organized body of people under a single government --> 4#1 
+
+bolanos --> n -->  --> 5#1 
+
+say --> v --> express in words --> 6#1 
+
+Total Edges :  130 Edge Weight :  0.00769230769231
+similarity( nicaraguan ,  area ) =  0.0344827586207
+similarity( nicaraguan ,  country ) =  0.0555555555556
+similarity( area ,  northern ) =  0.027027027027
+similarity( area ,  country ) =  0.0322580645161
+slope bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( slope , casita ) =  0.0 
+
+weight ( slope , northern ) =  0.0 
+
+weight ( slope , area ) =  0.0 
+
+weight ( slope , squarekilometer ) =  0.0 
+
+weight ( slope , mile ) =  0.0 
+
+weight ( slope , volcano ) =  0.0 
+
+casita bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( casita , slope ) =  0.0 
+
+weight ( casita , northern ) =  0.0 
+
+weight ( casita , area ) =  0.0 
+
+weight ( casita , squarekilometer ) =  0.0 
+
+weight ( casita , volcano ) =  0.0 
+
+weight ( casita , nicaragua ) =  0.0 
+
+people bias :  0.0 prestige : 0.00769230769231 >> out_deg : 11 >> in_deg : 11 
+
+weight ( people , elsewhere ) =  0.0 
+
+weight ( people , addition ) =  0.0 
+
+weight ( people , country ) =  0.0 
+
+weight ( people , say ) =  0.0 
+
+weight ( people , least ) =  0.0 
+
+weight ( people , bolanos ) =  0.0 
+
+weight ( people , sunday ) =  0.0 
+
+weight ( people , mile ) =  0.0 
+
+weight ( people , night ) =  0.0 
+
+weight ( people , bury ) =  0.0 
+
+weight ( people , 32square ) =  0.0 
+
+say bias :  0.0 prestige : 0.00769230769231 >> out_deg : 8 >> in_deg : 8 
+
+weight ( say , elsewhere ) =  0.0 
+
+weight ( say , people ) =  0.0 
+
+weight ( say , country ) =  0.0 
+
+weight ( say , bolanos ) =  0.0 
+
+weight ( say , sunday ) =  0.0 
+
+weight ( say , night ) =  0.0 
+
+weight ( say , president ) =  0.0 
+
+weight ( say , enrique ) =  0.0 
+
+mile bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( mile , slope ) =  0.0 
+
+weight ( mile , area ) =  0.0 
+
+weight ( mile , people ) =  0.0 
+
+weight ( mile , squarekilometer ) =  0.0 
+
+weight ( mile , bury ) =  0.0 
+
+weight ( mile , 32square ) =  0.0 
+
+enrique bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( enrique , vice ) =  0.0 
+
+weight ( enrique , sunday ) =  0.0 
+
+weight ( enrique , bolanos ) =  0.0 
+
+weight ( enrique , say ) =  0.0 
+
+weight ( enrique , president ) =  0.0 
+
+weight ( enrique , nicaraguan ) =  0.0 
+
+nicaraguan bias :  0.0 prestige : 0.00769230769231 >> out_deg : 5 >> in_deg : 5 
+
+weight ( nicaraguan , country ) =  0.0555555555556 
+
+weight ( nicaraguan , president ) =  0.0 
+
+weight ( nicaraguan , enrique ) =  0.0 
+
+weight ( nicaraguan , area ) =  0.0344827586207 
+
+weight ( nicaraguan , vice ) =  0.0 
+
+nicaragua bias :  0.0 prestige : 0.00769230769231 >> out_deg : 3 >> in_deg : 3 
+
+weight ( nicaragua , volcano ) =  0.0 
+
+weight ( nicaragua , casita ) =  0.0 
+
+weight ( nicaragua , northern ) =  0.0 
+
+northern bias :  0.0 prestige : 0.00769230769231 >> out_deg : 5 >> in_deg : 5 
+
+weight ( northern , slope ) =  0.0 
+
+weight ( northern , volcano ) =  0.0 
+
+weight ( northern , casita ) =  0.0 
+
+weight ( northern , nicaragua ) =  0.0 
+
+weight ( northern , area ) =  0.027027027027 
+
+area bias :  0.0 prestige : 0.00769230769231 >> out_deg : 9 >> in_deg : 9 
+
+weight ( area , slope ) =  0.0 
+
+weight ( area , casita ) =  0.0 
+
+weight ( area , northern ) =  0.027027027027 
+
+weight ( area , country ) =  0.0322580645161 
+
+weight ( area , squarekilometer ) =  0.0 
+
+weight ( area , mile ) =  0.0 
+
+weight ( area , volcano ) =  0.0 
+
+weight ( area , nicaraguan ) =  0.0344827586207 
+
+weight ( area , 32square ) =  0.0 
+
+addition bias :  0.0 prestige : 0.00769230769231 >> out_deg : 3 >> in_deg : 3 
+
+weight ( addition , elsewhere ) =  0.0 
+
+weight ( addition , least ) =  0.0 
+
+weight ( addition , people ) =  0.0 
+
+least bias :  0.0 prestige : 0.00769230769231 >> out_deg : 4 >> in_deg : 4 
+
+weight ( least , addition ) =  0.0 
+
+weight ( least , country ) =  0.0 
+
+weight ( least , elsewhere ) =  0.0 
+
+weight ( least , people ) =  0.0 
+
+bolanos bias :  0.0 prestige : 0.00769230769231 >> out_deg : 9 >> in_deg : 9 
+
+weight ( bolanos , elsewhere ) =  0.0 
+
+weight ( bolanos , vice ) =  0.0 
+
+weight ( bolanos , country ) =  0.0 
+
+weight ( bolanos , people ) =  0.0 
+
+weight ( bolanos , sunday ) =  0.0 
+
+weight ( bolanos , say ) =  0.0 
+
+weight ( bolanos , night ) =  0.0 
+
+weight ( bolanos , president ) =  0.0 
+
+weight ( bolanos , enrique ) =  0.0 
+
+sunday bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( sunday , people ) =  0.0 
+
+weight ( sunday , bolanos ) =  0.0 
+
+weight ( sunday , say ) =  0.0 
+
+weight ( sunday , night ) =  0.0 
+
+weight ( sunday , enrique ) =  0.0 
+
+weight ( sunday , bury ) =  0.0 
+
+elsewhere bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( elsewhere , people ) =  0.0 
+
+weight ( elsewhere , addition ) =  0.0 
+
+weight ( elsewhere , country ) =  0.0 
+
+weight ( elsewhere , least ) =  0.0 
+
+weight ( elsewhere , bolanos ) =  0.0 
+
+weight ( elsewhere , say ) =  0.0 
+
+squarekilometer bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( squarekilometer , slope ) =  0.0 
+
+weight ( squarekilometer , casita ) =  0.0 
+
+weight ( squarekilometer , area ) =  0.0 
+
+weight ( squarekilometer , mile ) =  0.0 
+
+weight ( squarekilometer , bury ) =  0.0 
+
+weight ( squarekilometer , 32square ) =  0.0 
+
+president bias :  0.0 prestige : 0.00769230769231 >> out_deg : 5 >> in_deg : 5 
+
+weight ( president , enrique ) =  0.0 
+
+weight ( president , nicaraguan ) =  0.0 
+
+weight ( president , bolanos ) =  0.0 
+
+weight ( president , say ) =  0.0 
+
+weight ( president , vice ) =  0.0 
+
+bury bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( bury , people ) =  0.0 
+
+weight ( bury , squarekilometer ) =  0.0 
+
+weight ( bury , sunday ) =  0.0 
+
+weight ( bury , mile ) =  0.0 
+
+weight ( bury , night ) =  0.0 
+
+weight ( bury , 32square ) =  0.0 
+
+32square bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( 32square , area ) =  0.0 
+
+weight ( 32square , people ) =  0.0 
+
+weight ( 32square , squarekilometer ) =  0.0 
+
+weight ( 32square , mile ) =  0.0 
+
+weight ( 32square , night ) =  0.0 
+
+weight ( 32square , bury ) =  0.0 
+
+vice bias :  0.625 prestige : 0.00769230769231 >> out_deg : 4 >> in_deg : 4 
+
+weight ( vice , president ) =  6.25e-05 
+
+weight ( vice , enrique ) =  6.25e-05 
+
+weight ( vice , nicaraguan ) =  6.25e-05 
+
+weight ( vice , bolanos ) =  6.25e-05 
+
+country bias :  0.0 prestige : 0.00769230769231 >> out_deg : 7 >> in_deg : 7 
+
+weight ( country , elsewhere ) =  0.0 
+
+weight ( country , people ) =  0.0 
+
+weight ( country , area ) =  0.0322580645161 
+
+weight ( country , least ) =  0.0 
+
+weight ( country , bolanos ) =  0.0 
+
+weight ( country , say ) =  0.0 
+
+weight ( country , nicaraguan ) =  0.0555555555556 
+
+night bias :  0.0 prestige : 0.00769230769231 >> out_deg : 6 >> in_deg : 6 
+
+weight ( night , people ) =  0.0 
+
+weight ( night , say ) =  0.0 
+
+weight ( night , bolanos ) =  0.0 
+
+weight ( night , sunday ) =  0.0 
+
+weight ( night , bury ) =  0.0 
+
+weight ( night , 32square ) =  0.0 
+
+volcano bias :  0.0 prestige : 0.00769230769231 >> out_deg : 5 >> in_deg : 5 
+
+weight ( volcano , slope ) =  0.0 
+
+weight ( volcano , casita ) =  0.0 
+
+weight ( volcano , nicaragua ) =  0.0 
+
+weight ( volcano , northern ) =  0.0 
+
+weight ( volcano , area ) =  0.0 
+
+slope bias :  -0.000887752247302 prestige : 0.0 
+
+casita bias :  -0.000887752247302 prestige : 0.0 
+
+people bias :  -0.000343627239009 prestige : 0.0 
+
+say bias :  -0.000473024563012 prestige : 0.0 
+
+mile bias :  -0.000571325660968 prestige : 0.0 
+
+enrique bias :  -0.00100543679417 prestige : 3.90625e-06 
+
+nicaraguan bias :  0.00345881838947 prestige : 0.0120579498634 
+
+nicaragua bias :  -0.000632853172667 prestige : 0.0 
+
+northern bias :  0.00151491477509 prestige : 0.003797119036 
+
+area bias :  0.00235869769118 prestige : 0.00685590793162 
+
+addition bias :  0.0 prestige : 0.0 
+
+least bias :  -0.000944649386441 prestige : 0.0 
+
+bolanos bias :  -0.000420321602307 prestige : 2.60416666667e-06 
+
+sunday bias :  -5.42534722222e-07 prestige : 0.0 
+
+elsewhere bias :  -0.000629983271516 prestige : 0.0 
+
+squarekilometer bias :  -0.000571325660968 prestige : 0.0 
+
+president bias :  -0.001206446028 prestige : 4.6875e-06 
+
+bury bias :  0.0 prestige : 0.0 
+
+32square bias :  -0.000571325660968 prestige : 0.0 
+
+vice bias :  -0.0014969247225 prestige : 0.0 
+
+country bias :  0.00271823023414 prestige : 0.00755719509152 
+
+night bias :  -2.17013888889e-07 prestige : 0.0 
+
+volcano bias :  -0.00106530269676 prestige : 0.0 
+
+slope <new bias :  -0.000887752247302 new rank :  0.0 >
+
+casita <new bias :  -0.000887752247302 new rank :  0.0 >
+
+people <new bias :  -0.000343627239009 new rank :  0.0 >
+
+say <new bias :  -0.000473024563012 new rank :  0.0 >
+
+mile <new bias :  -0.000571325660968 new rank :  0.0 >
+
+enrique <new bias :  -0.00100543679417 new rank :  3.90625e-06 >
+
+nicaraguan <new bias :  0.00345881838947 new rank :  0.0120579498634 >
+
+nicaragua <new bias :  -0.000632853172667 new rank :  0.0 >
+
+northern <new bias :  0.00151491477509 new rank :  0.003797119036 >
+
+area <new bias :  0.00235869769118 new rank :  0.00685590793162 >
+
+addition <new bias :  0.0 new rank :  0.0 >
+
+least <new bias :  -0.000944649386441 new rank :  0.0 >
+
+bolanos <new bias :  -0.000420321602307 new rank :  2.60416666667e-06 >
+
+sunday <new bias :  -5.42534722222e-07 new rank :  0.0 >
+
+elsewhere <new bias :  -0.000629983271516 new rank :  0.0 >
+
+squarekilometer <new bias :  -0.000571325660968 new rank :  0.0 >
+
+president <new bias :  -0.001206446028 new rank :  4.6875e-06 >
+
+bury <new bias :  0.0 new rank :  0.0 >
+
+32square <new bias :  -0.000571325660968 new rank :  0.0 >
+
+vice <new bias :  -0.0014969247225 new rank :  0.0 >
+
+country <new bias :  0.00271823023414 new rank :  0.00755719509152 >
+
+night <new bias :  -2.17013888889e-07 new rank :  0.0 >
+
+volcano <new bias :  -0.00106530269676 new rank :  0.0 >
+
+Final list of keywords: 
+nicaraguan => 0.0120579498634
+country => 0.00755719509152
+area => 0.00685590793162
+northern => 0.003797119036
+president => 4.6875e-06
+enrique => 3.90625e-06
+bolanos => 2.60416666667e-06
+northern indegree: 2 new bias :  0.00151491477509 new rank :  0.003797119036 
+
+area indegree: 6 new bias :  0.00235869769118 new rank :  0.00685590793162 
+
+country indegree: 6 new bias :  0.00271823023414 new rank :  0.00755719509152 
+
+bolanos indegree: 6 new bias :  -0.000420321602307 new rank :  2.60416666667e-06 
+
+president indegree: 6 new bias :  -0.001206446028 new rank :  4.6875e-06 
+
+enrique indegree: 6 new bias :  -0.00100543679417 new rank :  3.90625e-06 
+
+nicaraguan indegree: 8 new bias :  0.00345881838947 new rank :  0.0120579498634 
+
+
+Total Nodes:  23
+
+Total Positive Nodes:  7
+Sentence Median =  1.23138607523 
+
+Nicaraguan Vice President Enrique Bolanos said Sunday night that between 
+1,000 and 1,500 people were buried in a 32-square mile (82.88 square-kilometer) 
+area below the slopes of the Casita volcano in northern Nicaragua. << 1.23138607523 << 0 
+
+That is in addition to least another 600 people elsewhere in the country, 
+Bolanos said.  << 0.0 << 1 
+
+Top Weights: 
+1.23138607523 ,
+0.0 ,
+
+
+
+Total Nodes:  23
+
+Total Negative Nodes:  0
+
+Total Negative weights:  0.0
+Sentence Median =  0.0 
+
+Nicaraguan Vice President Enrique Bolanos said Sunday night that between 
+1,000 and 1,500 people were buried in a 32-square mile (82.88 square-kilometer) 
+area below the slopes of the Casita volcano in northern Nicaragua. << 0.0 << 0 
+
+That is in addition to least another 600 people elsewhere in the country, 
+Bolanos said.  << 0.0 << 1 
+
+Top Weights: 
+0.0 ,
+0.0 ,
+
+
